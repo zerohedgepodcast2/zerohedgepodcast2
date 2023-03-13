@@ -9,7 +9,7 @@ length: 236
 datetime: Mon, 13 Mar 2023 20:02:00 +0000
 tags: podcast
 guid: big-trouble-little-banks-bailout-sparks-buying-panic-bonds-bitcoin-bullion-0
-order: 0
+order: 2
 ---
 &quot;...proper f**ked.&quot;
 
