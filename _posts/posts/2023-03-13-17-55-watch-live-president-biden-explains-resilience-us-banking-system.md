@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Biden Insists &quot;The Banking System Is Safe&quot;"
-audio: watch-live-president-biden-explains-resilience-us-banking-system-0
+audio: watch-live-president-biden-explains-resilience-us-banking-system-1
 category: markets
 desc: "Yellen and regulators took 'immediate action...'"
 duration: 00:02:37
 length: 157
-datetime: Mon, 13 Mar 2023 13:27:00 +0000
+datetime: Mon, 13 Mar 2023 17:55:00 +0000
 tags: podcast
 guid: watch-live-president-biden-explains-resilience-us-banking-system-0
-order: 1
+order: 0
 ---
 Yellen and regulators took 'immediate action...'
 
