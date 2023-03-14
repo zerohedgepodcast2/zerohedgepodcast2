@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bond volatility, MOVE, exploded to the upside (today again)..."
-audio: unchanged-some-big-moves-5
+audio: unchanged-some-big-moves-6
 category: the-market-ear
 desc: 
 duration: 00:02:57
