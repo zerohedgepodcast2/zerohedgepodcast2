@@ -9,7 +9,7 @@ length: 247
 datetime: Tue, 14 Mar 2023 15:24:00 +0000
 tags: podcast
 guid: citadels-griffin-slams-svb-bailout-american-capitalism-breaking-down-our-eyes-0
-order: 2
+order: 0
 ---
 &quot;It would have been a great lesson in moral hazard,&quot;
 
