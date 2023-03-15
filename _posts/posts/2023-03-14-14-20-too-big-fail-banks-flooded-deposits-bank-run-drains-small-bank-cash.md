@@ -9,7 +9,7 @@ length: 360
 datetime: Tue, 14 Mar 2023 14:20:00 +0000
 tags: podcast
 guid: too-big-fail-banks-flooded-deposits-bank-run-drains-small-bank-cash-0
-order: 1
+order: 0
 ---
 &quot;The calls have been coming in today like airplanes stacked on a snowy day at O'Hare airport&quot;
 
