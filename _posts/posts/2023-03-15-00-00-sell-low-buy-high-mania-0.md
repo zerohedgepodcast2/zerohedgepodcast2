@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "and liquidity is beyond poor..."
-audio: sell-low-buy-high-mania-0-5
+audio: sell-low-buy-high-mania-0-6
 category: the-market-ear
 desc: 
 duration: 00:02:56
