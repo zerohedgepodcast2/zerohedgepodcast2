@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Panic, Meltdowns, People Crying...&quot;"
-audio: panic-meltdowns-people-crying-0
+audio: panic-meltdowns-people-crying-1
 category: markets
 desc: "Swiss Mess..."
 duration: 00:04:17
 length: 257
-datetime: Wed, 15 Mar 2023 20:00:00 +0000
+datetime: Wed, 15 Mar 2023 22:05:00 +0000
 tags: podcast
 guid: panic-meltdowns-people-crying-0
-order: 1
+order: 0
 ---
 Swiss Mess...
 
