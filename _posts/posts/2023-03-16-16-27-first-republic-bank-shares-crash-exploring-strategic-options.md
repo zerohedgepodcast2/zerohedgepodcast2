@@ -9,7 +9,7 @@ length: 200
 datetime: Thu, 16 Mar 2023 16:27:00 +0000
 tags: podcast
 guid: first-republic-bank-shares-crash-exploring-strategic-options-0
-order: 2
+order: 1
 ---
 First Republic is the only company listed on the S&amp;P 500 index that doesn't file its insider trades with the SEC...
 
