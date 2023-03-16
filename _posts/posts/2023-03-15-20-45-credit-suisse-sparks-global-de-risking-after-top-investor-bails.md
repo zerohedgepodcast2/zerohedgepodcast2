@@ -9,7 +9,7 @@ length: 616
 datetime: Wed, 15 Mar 2023 20:45:00 +0000
 tags: podcast
 guid: credit-suisse-sparks-global-de-risking-after-top-investor-bails-0
-order: 0
+order: 2
 ---
 ...options that range from a public statement of support to a potential liquidity backstop...
 
