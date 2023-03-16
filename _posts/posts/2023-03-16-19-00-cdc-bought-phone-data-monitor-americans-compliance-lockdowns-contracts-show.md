@@ -9,7 +9,7 @@ length: 223
 datetime: Thu, 16 Mar 2023 19:00:00 +0000
 tags: podcast
 guid: cdc-bought-phone-data-monitor-americans-compliance-lockdowns-contracts-show-0
-order: 0
+order: 1
 ---
 The CDC said it would be using the tracking data to &quot;assess home-by-hour behaviors&quot; (i.e. curfew analysis)...
 

@@ -9,7 +9,7 @@ length: 528
 datetime: Thu, 16 Mar 2023 19:35:00 +0000
 tags: podcast
 guid: first-republic-bank-shares-crash-exploring-strategic-options-0
-order: 1
+order: 2
 ---
 A historic first as Big Banks agree to bail out on of their own without Fed participation. 
 
