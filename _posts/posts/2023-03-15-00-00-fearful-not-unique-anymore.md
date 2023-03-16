@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "fear is getting extreme..."
-audio: fearful-not-unique-anymore-1
+audio: fearful-not-unique-anymore-2
 category: the-market-ear
 desc: 
 duration: 00:02:36
