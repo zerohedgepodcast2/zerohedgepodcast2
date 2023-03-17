@@ -9,7 +9,7 @@ length: 198
 datetime: Fri, 17 Mar 2023 03:05:00 +0000
 tags: podcast
 guid: im-telling-you-he-did-it-seymour-hersh-blames-biden-nord-stream-attack-0
-order: 0
+order: 1
 ---
 Says he made the decision in order to bolster his re-election chances as a war president... 
 
