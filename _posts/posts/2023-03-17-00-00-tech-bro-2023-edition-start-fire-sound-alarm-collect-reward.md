@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "exuberant tech is back..."
-audio: tech-bro-2023-edition-start-fire-sound-alarm-collect-reward-6
+audio: tech-bro-2023-edition-start-fire-sound-alarm-collect-reward-7
 category: the-market-ear
 desc: 
 duration: 00:01:53
