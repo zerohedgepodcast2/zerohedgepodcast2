@@ -9,7 +9,7 @@ length: 238
 datetime: Sun, 19 Mar 2023 01:00:00 +0000
 tags: podcast
 guid: biden-touch-buffett-banking-crisis-0
-order: 0
+order: 1
 ---
 What do you call it when an 80 year old seeks the advice of a 92 year old? Answer: the worst financial crisis since Lehman.TM
 
