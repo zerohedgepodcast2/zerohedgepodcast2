@@ -9,7 +9,7 @@ length: 1298
 datetime: Sun, 19 Mar 2023 17:11:00 +0000
 tags: podcast
 guid: ubs-offers-buy-credit-suisse-1bn-025-share-takeunder-cs-balks-offer-0
-order: 2
+order: 1
 ---
 &quot;All shareholders of Credit Suisse will receive 1 share in UBS for 22.48 shares in Credit Suisse as merger consideration. This exchange ratio reflects a merger consideration of CHF 3 billion for all shares in Credit Suisse.&quot;
 
