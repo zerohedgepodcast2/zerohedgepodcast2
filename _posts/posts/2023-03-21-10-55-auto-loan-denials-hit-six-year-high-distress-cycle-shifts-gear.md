@@ -9,7 +9,7 @@ length: 94
 datetime: Tue, 21 Mar 2023 10:55:00 +0000
 tags: podcast
 guid: auto-loan-denials-hit-six-year-high-distress-cycle-shifts-gear-0
-order: 0
+order: 1
 ---
 So everyone who gets denied swarms to the used car market? 
 
