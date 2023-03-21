@@ -9,7 +9,7 @@ length: 494
 datetime: Tue, 21 Mar 2023 13:55:00 +0000
 tags: podcast
 guid: yellen-reassure-world-treasury-committed-bailing-out-regional-bank-depositors-0
-order: 2
+order: 0
 ---
 &quot;...similar actions could be warranted if smaller institutions suffer deposit runs ...&quot;
 
