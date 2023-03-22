@@ -9,7 +9,7 @@ length: 101
 datetime: Wed, 22 Mar 2023 06:45:00 +0000
 tags: podcast
 guid: european-spring-germany-braces-major-strikes-while-france-burns-0
-order: 1
+order: 0
 ---
 The &quot;winter of discontent&quot; that has been sweeping across Europe has now escalated into a &quot;spring of discontent&quot;...
 

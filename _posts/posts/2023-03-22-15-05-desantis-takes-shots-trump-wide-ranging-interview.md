@@ -9,7 +9,7 @@ length: 357
 datetime: Wed, 22 Mar 2023 15:05:00 +0000
 tags: podcast
 guid: desantis-takes-shots-trump-wide-ranging-interview-0
-order: 2
+order: 1
 ---
 'I would have fired somebody like Fauci...'
 

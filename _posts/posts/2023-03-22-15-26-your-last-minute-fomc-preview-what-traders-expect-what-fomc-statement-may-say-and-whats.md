@@ -9,7 +9,7 @@ length: 364
 datetime: Wed, 22 Mar 2023 15:26:00 +0000
 tags: podcast
 guid: your-last-minute-fomc-preview-what-traders-expect-what-fomc-statement-may-say-and-whats-0
-order: 0
+order: 2
 ---
 &quot;given that we haven't had any media leaks yet from the Fed's trusted sources to steer the markets away from pricing a hike, we should expect the central bank to follow through&quot;
 
