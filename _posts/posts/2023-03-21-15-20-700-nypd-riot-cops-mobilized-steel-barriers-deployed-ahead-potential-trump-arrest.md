@@ -9,7 +9,7 @@ length: 239
 datetime: Tue, 21 Mar 2023 15:20:00 +0000
 tags: podcast
 guid: 700-nypd-riot-cops-mobilized-steel-barriers-deployed-ahead-potential-trump-arrest-0
-order: 2
+order: 1
 ---
 &quot;He would be fingerprinted. He would be photographed. He could even be handcuffed...&quot;
 

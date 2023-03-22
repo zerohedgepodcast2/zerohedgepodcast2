@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Auto-Loan Denials Hit Six-Year High As Distress Cycle Shifts Into Gear"
-audio: auto-loan-denials-hit-six-year-high-distress-cycle-shifts-gear-0
+audio: auto-loan-denials-hit-six-year-high-distress-cycle-shifts-gear-1
 category: markets
 desc: "So everyone who gets denied swarms to the used car market? "
 duration: 00:01:34
 length: 94
-datetime: Tue, 21 Mar 2023 10:55:00 +0000
+datetime: Tue, 21 Mar 2023 22:35:00 +0000
 tags: podcast
 guid: auto-loan-denials-hit-six-year-high-distress-cycle-shifts-gear-0
-order: 1
+order: 0
 ---
 So everyone who gets denied swarms to the used car market? 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "whatever you do, don't be a CTA..."
-audio: sell-low-buy-high-steroids-1
+audio: sell-low-buy-high-steroids-2
 category: the-market-ear
 desc: 
 duration: 00:02:59
