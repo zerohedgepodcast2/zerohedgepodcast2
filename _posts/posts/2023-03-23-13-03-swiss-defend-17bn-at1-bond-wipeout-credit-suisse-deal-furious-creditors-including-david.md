@@ -9,7 +9,7 @@ length: 319
 datetime: Thu, 23 Mar 2023 13:03:00 +0000
 tags: podcast
 guid: swiss-defend-17bn-at1-bond-wipeout-credit-suisse-deal-furious-creditors-including-david-0
-order: 0
+order: 1
 ---
 &quot;If this is left to stand, how can you trust any debt security issued in Switzerland, or for that matter wider Europe, if governments can just change laws after the fact. Contracts are made to be honored.&quot;
 
