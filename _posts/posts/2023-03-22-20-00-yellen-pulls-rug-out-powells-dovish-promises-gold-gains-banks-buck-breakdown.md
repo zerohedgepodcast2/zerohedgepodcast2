@@ -9,7 +9,7 @@ length: 278
 datetime: Wed, 22 Mar 2023 20:00:00 +0000
 tags: podcast
 guid: yellen-pulls-rug-out-powells-dovish-promises-gold-gains-banks-buck-breakdown-0
-order: 2
+order: 1
 ---
 &quot;Damn it, Janet!&quot;
 

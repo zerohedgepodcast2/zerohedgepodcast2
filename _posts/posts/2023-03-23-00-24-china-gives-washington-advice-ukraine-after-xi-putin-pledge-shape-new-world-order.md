@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "China Gives US Advice On Ukraine After Xi, Putin Pledge To Shape New World Order"
-audio: china-gives-washington-advice-ukraine-after-xi-putin-pledge-shape-new-world-order-0
+audio: china-gives-washington-advice-ukraine-after-xi-putin-pledge-shape-new-world-order-1
 category: markets
 desc: "Xi Jinping: &quot;Change is coming that hasn't happened in 100 years and we are driving this change together.&quot;Putin: &quot;I agree.&quot;"
 duration: 00:07:33
 length: 453
-datetime: Wed, 22 Mar 2023 17:24:00 +0000
+datetime: Thu, 23 Mar 2023 00:24:00 +0000
 tags: podcast
 guid: china-gives-washington-advice-ukraine-after-xi-putin-pledge-shape-new-world-order-0
-order: 1
+order: 0
 ---
 Xi Jinping: &quot;Change is coming that hasn't happened in 100 years and we are driving this change together.&quot;Putin: &quot;I agree.&quot;
 
