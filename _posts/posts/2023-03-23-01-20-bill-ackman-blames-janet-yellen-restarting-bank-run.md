@@ -9,7 +9,7 @@ length: 305
 datetime: Thu, 23 Mar 2023 01:20:00 +0000
 tags: podcast
 guid: bill-ackman-blames-janet-yellen-restarting-bank-run-0
-order: 2
+order: 1
 ---
 &quot;I would be surprised if deposit outflows don't accelerate effective immediately.&quot;
 
