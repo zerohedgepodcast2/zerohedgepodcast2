@@ -9,7 +9,7 @@ length: 131
 datetime: Thu, 23 Mar 2023 00:00:00 +0000
 tags: podcast
 guid: totally-exculpatory-purported-cohen-letter-fec-could-hobble-manhattan-das-trump-case-0
-order: 2
+order: 1
 ---
 &quot;Cohen admits that he did it himself...&quot;
 
