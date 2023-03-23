@@ -9,7 +9,7 @@ length: 637
 datetime: Thu, 23 Mar 2023 15:39:00 +0000
 tags: podcast
 guid: math-behind-deposit-insurance-and-why-its-beginning-end-0
-order: 2
+order: 1
 ---
 The math just doesn't work.
 
