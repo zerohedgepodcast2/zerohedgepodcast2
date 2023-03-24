@@ -9,7 +9,7 @@ length: 141
 datetime: Fri, 24 Mar 2023 14:01:00 +0000
 tags: podcast
 guid: yellen-convenes-emergency-financial-stability-meeting-friday-banking-crisis-explodes-0
-order: 2
+order: 1
 ---
 Yellen will convene the heads of top US financial regulators Friday morning for a previously unscheduled meeting of the Financial Stability Oversight Council.
 

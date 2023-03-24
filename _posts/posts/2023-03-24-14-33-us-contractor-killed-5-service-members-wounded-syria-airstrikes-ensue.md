@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "US Contractor Killed, 5 Service Members Wounded In Syria - Airstrikes Ensue"
-audio: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-0
+audio: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-1
 category: geopolitical
 desc: "Why exactly are these Americans in harm's way? "
 duration: 00:03:39
 length: 219
-datetime: Fri, 24 Mar 2023 12:25:00 +0000
+datetime: Fri, 24 Mar 2023 14:33:00 +0000
 tags: podcast
 guid: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-0
-order: 1
+order: 0
 ---
 Why exactly are these Americans in harm's way? 
 
