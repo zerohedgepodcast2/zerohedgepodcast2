@@ -9,7 +9,7 @@ length: 145
 datetime: Fri, 24 Mar 2023 15:25:00 +0000
 tags: podcast
 guid: its-crisis-built-crisis-we-never-solved-rick-santelli-rages-how-can-anyone-be-shocked-0
-order: 0
+order: 2
 ---
 &quot;Is this really a banking crisis? It's a Fed crisis...&quot;
 
