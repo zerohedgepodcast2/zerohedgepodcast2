@@ -9,7 +9,7 @@ length: 152
 datetime: Fri, 24 Mar 2023 17:11:00 +0000
 tags: podcast
 guid: its-getting-real-unease-over-banking-sector-turmoil-spurs-huge-demand-precious-metals-0
-order: 0
+order: 1
 ---
 &quot;On a dime, it turned aroundbig time. It's unprecedented...&quot;
 

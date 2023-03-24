@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;It's A Crisis Built On A Crisis We Never Solved&quot; - Rick Santelli Rages &quot;How Can Anyone Be Shocked?&quot;"
-audio: its-crisis-built-crisis-we-never-solved-rick-santelli-rages-how-can-anyone-be-shocked-0
+audio: its-crisis-built-crisis-we-never-solved-rick-santelli-rages-how-can-anyone-be-shocked-1
 category: markets
 desc: "&quot;Is this really a banking crisis? It's a Fed crisis...&quot;"
-duration: 00:02:25
-length: 145
-datetime: Fri, 24 Mar 2023 15:25:00 +0000
+duration: 00:02:10
+length: 130
+datetime: Fri, 24 Mar 2023 19:30:00 +0000
 tags: podcast
 guid: its-crisis-built-crisis-we-never-solved-rick-santelli-rages-how-can-anyone-be-shocked-0
-order: 2
+order: 0
 ---
 &quot;Is this really a banking crisis? It's a Fed crisis...&quot;
 
