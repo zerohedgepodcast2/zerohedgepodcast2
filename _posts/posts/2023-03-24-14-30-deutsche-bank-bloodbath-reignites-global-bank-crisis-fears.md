@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Deutsche Bank Bloodbath Reignites Global Bank Crisis Fears"
-audio: deutsche-bank-bloodbath-reignites-global-bank-crisis-fears-0
+title: "Scholz: 'No Reason To Worry' As Deutsche Bank Bloodbath Reignites Global Bank Crisis Fears"
+audio: deutsche-bank-bloodbath-reignites-global-bank-crisis-fears-1
 category: markets
 desc: "...who did draw down that $60 billion foreign repo?"
-duration: 00:02:14
-length: 134
-datetime: Fri, 24 Mar 2023 11:56:00 +0000
+duration: 00:03:42
+length: 222
+datetime: Fri, 24 Mar 2023 14:30:00 +0000
 tags: podcast
 guid: deutsche-bank-bloodbath-reignites-global-bank-crisis-fears-0
-order: 1
+order: 0
 ---
 ...who did draw down that $60 billion foreign repo?
 
