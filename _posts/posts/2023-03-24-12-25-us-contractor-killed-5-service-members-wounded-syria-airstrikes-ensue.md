@@ -9,7 +9,7 @@ length: 219
 datetime: Fri, 24 Mar 2023 12:25:00 +0000
 tags: podcast
 guid: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-0
-order: 0
+order: 2
 ---
 Why exactly are these Americans in harm's way? 
 
