@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US Contractor Killed, 5 Service Members Wounded In Syria - Airstrikes Ensue"
-audio: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-1
+title: "Iran-Backed &amp; US Occupation Forces Currently Battling In Eastern Syria, Reports Of Casualties"
+audio: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-2
 category: geopolitical
-desc: "Why exactly are these Americans in harm's way? "
-duration: 00:03:39
-length: 219
-datetime: Fri, 24 Mar 2023 14:33:00 +0000
+desc: "Biden: &quot;Make no mistake, the United States does not, does not, I emphasize, seek conflict with Iran.&quot;"
+duration: 00:06:38
+length: 398
+datetime: Sat, 25 Mar 2023 00:01:00 +0000
 tags: podcast
 guid: us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue-0
-order: 0
+order: 2
 ---
-Why exactly are these Americans in harm's way? 
+Biden: &quot;Make no mistake, the United States does not, does not, I emphasize, seek conflict with Iran.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue](https://www.zerohedge.com/geopolitical/us-contractor-killed-5-service-members-wounded-syria-airstrikes-ensue)
 
