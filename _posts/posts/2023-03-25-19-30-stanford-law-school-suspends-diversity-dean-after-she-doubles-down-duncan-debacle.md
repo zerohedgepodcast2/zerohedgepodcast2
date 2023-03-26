@@ -9,7 +9,7 @@ length: 637
 datetime: Sat, 25 Mar 2023 19:30:00 +0000
 tags: podcast
 guid: stanford-law-school-suspends-diversity-dean-after-she-doubles-down-duncan-debacle-0
-order: 0
+order: 2
 ---
 ...the law school will require all students to attend a training on &quot;freedom of speech and the norms of the legal profession,&quot;
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "S&amp;P 500 is in a broad trading range until the recession is more clearly an exigent risk..."
-audio: stuck-fat-and-flat-3
+audio: stuck-fat-and-flat-4
 category: the-market-ear
 desc: 
 duration: 00:03:10
