@@ -9,7 +9,7 @@ length: 227
 datetime: Mon, 27 Mar 2023 12:17:00 +0000
 tags: podcast
 guid: twitter-source-code-leaked-online-musk-hunts-perpetrator-values-firm-20-billion-0
-order: 0
+order: 1
 ---
 &quot;I see a clear, but difficult, path to a &gt;$250B valuation...&quot;
 
