@@ -9,7 +9,7 @@ length: 266
 datetime: Sun, 26 Mar 2023 11:00:00 +0000
 tags: podcast
 guid: eminent-oxford-scientist-says-wind-power-fails-every-count-0
-order: 1
+order: 0
 ---
 ...governments are ignoring &quot;overwhelming evidence&quot; of the inadequacies of wind power, &quot;and resorting to bluster rather than reasoned analysis&quot;.
 
