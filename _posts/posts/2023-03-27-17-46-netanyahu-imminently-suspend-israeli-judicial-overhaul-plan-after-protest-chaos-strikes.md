@@ -9,7 +9,7 @@ length: 402
 datetime: Mon, 27 Mar 2023 17:46:00 +0000
 tags: podcast
 guid: netanyahu-imminently-suspend-israeli-judicial-overhaul-plan-after-protest-chaos-strikes-0
-order: 2
+order: 1
 ---
 Still stressed that the legislation will end up passing in one form or another... 
 

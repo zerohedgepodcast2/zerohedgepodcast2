@@ -9,7 +9,7 @@ length: 90
 datetime: Mon, 27 Mar 2023 18:43:00 +0000
 tags: podcast
 guid: 28-year-old-woman-kills-6-nashville-christian-school-mass-shooting-0
-order: 0
+order: 2
 ---
 &quot;The suspect, who had multiple weapons, also died after being...&quot; 
 
