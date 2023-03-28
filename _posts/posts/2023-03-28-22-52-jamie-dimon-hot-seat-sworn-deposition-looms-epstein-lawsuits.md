@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Jamie Dimon In Hot-Seat As Sworn Deposition Looms In Epstein Lawsuits"
-audio: jamie-dimon-hot-seat-sworn-deposition-looms-epstein-lawsuits-0
+audio: jamie-dimon-hot-seat-sworn-deposition-looms-epstein-lawsuits-1
 category: political
 desc: "The lawsuits claim that JPMorgan, which banked Epstein for 15 years from 1998 to 2013, benefited from human trafficking..."
 duration: 00:04:13
 length: 253
-datetime: Tue, 28 Mar 2023 20:43:00 +0000
+datetime: Tue, 28 Mar 2023 22:52:00 +0000
 tags: podcast
 guid: jamie-dimon-hot-seat-sworn-deposition-looms-epstein-lawsuits-0
-order: 2
+order: 0
 ---
 The lawsuits claim that JPMorgan, which banked Epstein for 15 years from 1998 to 2013, benefited from human trafficking...
 

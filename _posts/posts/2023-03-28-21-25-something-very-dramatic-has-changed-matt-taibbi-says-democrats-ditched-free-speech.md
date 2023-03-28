@@ -9,7 +9,7 @@ length: 132
 datetime: Tue, 28 Mar 2023 21:25:00 +0000
 tags: podcast
 guid: something-very-dramatic-has-changed-matt-taibbi-says-democrats-ditched-free-speech-0
-order: 0
+order: 2
 ---
 &quot;There's no question about it anymore, that now the parties have had a complete reversal on how they read these issues.&quot;
 
