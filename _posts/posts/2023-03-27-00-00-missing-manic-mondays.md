@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "waiting for the next &quot;crisis&quot;..."
-audio: missing-manic-mondays-5
+audio: missing-manic-mondays-6
 category: the-market-ear
 desc: 
 duration: 00:03:22
