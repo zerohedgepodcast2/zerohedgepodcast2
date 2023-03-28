@@ -9,7 +9,7 @@ length: 198
 datetime: Tue, 28 Mar 2023 02:40:00 +0000
 tags: podcast
 guid: jim-jordan-demands-docs-after-irs-attempt-intimidate-journalist-matt-taibbi-during-govt-0
-order: 2
+order: 1
 ---
 'Lois Lerner ain't got s**t on me...'
 
