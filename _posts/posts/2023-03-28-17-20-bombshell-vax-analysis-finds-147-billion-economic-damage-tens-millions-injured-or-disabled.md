@@ -9,7 +9,7 @@ length: 214
 datetime: Tue, 28 Mar 2023 17:20:00 +0000
 tags: podcast
 guid: bombshell-vax-analysis-finds-147-billion-economic-damage-tens-millions-injured-or-disabled-0
-order: 0
+order: 1
 ---
 &quot;The multiplier effects are massive...&quot;
 
