@@ -9,7 +9,7 @@ length: 214
 datetime: Wed, 29 Mar 2023 17:25:00 +0000
 tags: podcast
 guid: az-governors-press-secretary-resigns-after-calling-violence-against-transphobes-0
-order: 0
+order: 1
 ---
 Less than 12 hours after the tragic shooting in Nashville by a deranged transgender activist [Hobbs'] Press Secretary calls for shooting people Democrats disagree with...
 
