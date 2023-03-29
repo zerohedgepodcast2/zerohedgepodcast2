@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bull or bear..."
-audio: hard-make-bullor-bear-case-2
+audio: hard-make-bullor-bear-case-3
 category: the-market-ear
 desc: 
 duration: 00:02:15
