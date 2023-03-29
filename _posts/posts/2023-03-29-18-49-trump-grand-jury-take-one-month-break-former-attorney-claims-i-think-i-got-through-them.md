@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Trump Grand Jury To Take One Month Break, Former Attorney Claims &quot;I Think I Got Through To Them&quot;"
-audio: trump-grand-jury-take-one-month-break-former-attorney-claims-i-think-i-got-through-them-0
+audio: trump-grand-jury-take-one-month-break-former-attorney-claims-i-think-i-got-through-them-1
 category: political
 desc: "&quot;I have gained such respect for this grand jury, &amp; perhaps even the grand jury system as a whole,&quot; Trump said earlier.."
 duration: 00:01:37
 length: 97
-datetime: Wed, 29 Mar 2023 17:49:00 +0000
+datetime: Wed, 29 Mar 2023 18:49:00 +0000
 tags: podcast
 guid: trump-grand-jury-take-one-month-break-former-attorney-claims-i-think-i-got-through-them-0
-order: 1
+order: 2
 ---
 &quot;I have gained such respect for this grand jury, &amp; perhaps even the grand jury system as a whole,&quot; Trump said earlier..
 

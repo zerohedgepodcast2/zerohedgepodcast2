@@ -9,7 +9,7 @@ length: 240
 datetime: Wed, 29 Mar 2023 18:25:00 +0000
 tags: podcast
 guid: no-social-media-had-nothing-do-svbs-implosion-bloomberg-0
-order: 2
+order: 1
 ---
 &quot;It wasn't phone calls; it wasn't social media...&quot;
 
