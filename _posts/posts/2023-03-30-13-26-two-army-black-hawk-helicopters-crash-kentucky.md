@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Two Army Black Hawk Helicopters Crash In Kentucky"
-audio: two-army-black-hawk-helicopters-crash-kentucky-0
+title: "9 Soldiers Killed In Kentucky As Two Black Hawk Helicopters Crash"
+audio: two-army-black-hawk-helicopters-crash-kentucky-1
 category: military
 desc: "&quot;We've got some tough news out of Fort Campbell...&quot; "
-duration: 00:02:03
-length: 123
-datetime: Thu, 30 Mar 2023 11:45:00 +0000
+duration: 00:02:33
+length: 153
+datetime: Thu, 30 Mar 2023 13:26:00 +0000
 tags: podcast
 guid: two-army-black-hawk-helicopters-crash-kentucky-0
-order: 0
+order: 2
 ---
 &quot;We've got some tough news out of Fort Campbell...&quot; 
 

@@ -9,7 +9,7 @@ length: 101
 datetime: Thu, 30 Mar 2023 10:55:00 +0000
 tags: podcast
 guid: russia-arrests-wsj-reporter-suspicion-espionage-0
-order: 0
+order: 1
 ---
 &quot;... he was collecting information about one of the enterprises of the Russian military-industrial complex, which constitutes a state secret.&quot;
 
