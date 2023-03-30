@@ -9,7 +9,7 @@ length: 70
 datetime: Thu, 30 Mar 2023 14:14:00 +0000
 tags: podcast
 guid: michael-big-short-burry-admits-i-was-wrong-sell-0
-order: 2
+order: 1
 ---
 ...who could have seen that coming?
 
