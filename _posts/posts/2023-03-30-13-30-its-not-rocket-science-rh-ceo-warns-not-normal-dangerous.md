@@ -9,7 +9,7 @@ length: 172
 datetime: Thu, 30 Mar 2023 13:30:00 +0000
 tags: podcast
 guid: its-not-rocket-science-rh-ceo-warns-not-normal-dangerous-0
-order: 0
+order: 1
 ---
 &quot;Just land the plane on the other side...Just don't completely crash. A complete crash would look like the '70s and the '80s. That will take over a decade to recover from.&quot;
 
