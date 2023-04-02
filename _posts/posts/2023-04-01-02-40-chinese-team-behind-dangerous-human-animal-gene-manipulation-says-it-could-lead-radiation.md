@@ -9,7 +9,7 @@ length: 198
 datetime: Sat, 01 Apr 2023 02:40:00 +0000
 tags: podcast
 guid: chinese-team-behind-dangerous-human-animal-gene-manipulation-says-it-could-lead-radiation-0
-order: 1
+order: 0
 ---
 Report: &quot;nearly 90 per cent of the human embryonic cells carrying the water bear gene survived a lethal exposure to X-ray radiation.&quot;
 
