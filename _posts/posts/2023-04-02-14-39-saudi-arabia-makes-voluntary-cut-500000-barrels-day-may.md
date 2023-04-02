@@ -9,7 +9,7 @@ length: 135
 datetime: Sun, 02 Apr 2023 14:39:00 +0000
 tags: podcast
 guid: saudi-arabia-makes-voluntary-cut-500000-barrels-day-may-0
-order: 2
+order: 1
 ---
 &quot;This voluntary cut is in addition to the reduction in production agreed at the 33rd OPEC and non-OPEC Ministerial Meeting on October 5, 2022.&quot;  
 
