@@ -9,7 +9,7 @@ length: 228
 datetime: Mon, 03 Apr 2023 12:25:00 +0000
 tags: podcast
 guid: america-was-not-supposed-be-way-trump-fly-new-york-ahead-court-hearing-0
-order: 2
+order: 1
 ---
 &quot;The Corrupt D.A. has no case. What he does have is a venue where it is IMPOSSIBLE for me to get a Fair Trial (it must be changed!), and a Trump-Hating Judge...&quot;
 
