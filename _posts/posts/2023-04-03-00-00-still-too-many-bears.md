@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "everybody waiting to buy the dip..."
-audio: still-too-many-bears-1
+audio: still-too-many-bears-2
 category: the-market-ear
 desc: 
 duration: 00:04:21
