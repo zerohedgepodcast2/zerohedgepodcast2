@@ -9,7 +9,7 @@ length: 294
 datetime: Tue, 04 Apr 2023 11:20:00 +0000
 tags: podcast
 guid: trump-attorney-announces-plans-file-motions-dismiss-alleging-prosecutorial-misconduct-0
-order: 0
+order: 1
 ---
 &quot;There will be a host of motions we're going to make, including...a motion to dismiss based on selective prosecution and prosecutorial misconduct...&quot;
 
