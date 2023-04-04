@@ -9,7 +9,7 @@ length: 550
 datetime: Mon, 03 Apr 2023 21:00:00 +0000
 tags: podcast
 guid: victor-davis-hanson-indict-one-and-all-0
-order: 2
+order: 1
 ---
 Were the opposition to match tit-for-tat these Democratic means, then the republic would not survive...
 
