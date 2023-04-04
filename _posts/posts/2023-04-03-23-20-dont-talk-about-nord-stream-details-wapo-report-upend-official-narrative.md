@@ -9,7 +9,7 @@ length: 395
 datetime: Mon, 03 Apr 2023 23:20:00 +0000
 tags: podcast
 guid: dont-talk-about-nord-stream-details-wapo-report-upend-official-narrative-0
-order: 2
+order: 1
 ---
 New details once again in line with Seymour Hersh conclusions...
 

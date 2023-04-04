@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Victor Davis Hanson: Indict One... And All?"
-audio: victor-davis-hanson-indict-one-and-all-0
+audio: victor-davis-hanson-indict-one-and-all-1
 category: political
 desc: "Were the opposition to match tit-for-tat these Democratic means, then the republic would not survive..."
 duration: 00:09:10
 length: 550
-datetime: Mon, 03 Apr 2023 21:00:00 +0000
+datetime: Tue, 04 Apr 2023 21:00:00 +0000
 tags: podcast
 guid: victor-davis-hanson-indict-one-and-all-0
-order: 1
+order: 0
 ---
 Were the opposition to match tit-for-tat these Democratic means, then the republic would not survive...
 
