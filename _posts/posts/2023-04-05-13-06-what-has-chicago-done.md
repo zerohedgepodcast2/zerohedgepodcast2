@@ -9,7 +9,7 @@ length: 173
 datetime: Wed, 05 Apr 2023 13:06:00 +0000
 tags: podcast
 guid: what-has-chicago-done-0
-order: 1
+order: 0
 ---
 Chicagoans vote to double down on the same policies that cost Lightfoot her job...
 

@@ -9,7 +9,7 @@ length: 83
 datetime: Wed, 05 Apr 2023 18:05:00 +0000
 tags: podcast
 guid: crypto-tech-exec-murdered-san-francisco-stabbing-0
-order: 2
+order: 0
 ---
 San Francisco police responded at around 2:35 a.m. to a report of a stabbing...
 
