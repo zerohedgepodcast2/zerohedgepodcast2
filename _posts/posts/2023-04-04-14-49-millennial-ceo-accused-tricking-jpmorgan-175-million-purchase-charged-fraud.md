@@ -9,7 +9,7 @@ length: 163
 datetime: Tue, 04 Apr 2023 14:49:00 +0000
 tags: podcast
 guid: millennial-ceo-accused-tricking-jpmorgan-175-million-purchase-charged-fraud-0
-order: 1
+order: 0
 ---
 &quot;Javice engaged in a brazen scheme to defraud JPMC...&quot;
 
