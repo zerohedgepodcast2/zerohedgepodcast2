@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "all about rates..."
-audio: rates-continue-move-7
+audio: rates-continue-move-8
 category: the-market-ear
 desc: 
 duration: 00:02:35
