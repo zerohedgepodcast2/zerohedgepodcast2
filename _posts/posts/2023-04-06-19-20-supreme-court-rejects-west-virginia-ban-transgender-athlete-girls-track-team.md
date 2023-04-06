@@ -9,7 +9,7 @@ length: 198
 datetime: Thu, 06 Apr 2023 19:20:00 +0000
 tags: podcast
 guid: supreme-court-rejects-west-virginia-ban-transgender-athlete-girls-track-team-0
-order: 2
+order: 0
 ---
 The U.S. Court of Appeals for the Fourth Circuit, in Richmond, Va., blocked a lower-court order allowing Becky to be removed from the team...
 
