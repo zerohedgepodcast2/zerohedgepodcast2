@@ -9,7 +9,7 @@ length: 126
 datetime: Thu, 06 Apr 2023 12:39:00 +0000
 tags: podcast
 guid: jobless-claims-explode-higher-after-bls-revisions-tech-layoffs-2001-pace-0
-order: 0
+order: 1
 ---
 &quot;...on pace to surpass the highest annual total for the sector announced in 2001,&quot;
 
