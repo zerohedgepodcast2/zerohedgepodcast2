@@ -9,7 +9,7 @@ length: 828
 datetime: Thu, 06 Apr 2023 23:50:00 +0000
 tags: podcast
 guid: taibbi-eat-me-msnbc-0
-order: 0
+order: 1
 ---
 Reviewing the last six years at the network that claims now to be concerned with integrity and accuracy...
 

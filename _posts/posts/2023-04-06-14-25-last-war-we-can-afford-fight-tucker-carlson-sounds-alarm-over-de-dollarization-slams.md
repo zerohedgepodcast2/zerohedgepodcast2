@@ -9,7 +9,7 @@ length: 432
 datetime: Thu, 06 Apr 2023 14:25:00 +0000
 tags: podcast
 guid: last-war-we-can-afford-fight-tucker-carlson-sounds-alarm-over-de-dollarization-slams-0
-order: 1
+order: 0
 ---
 A must watch...
 
