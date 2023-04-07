@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Taibbi: Eat Me, MSNBC"
-audio: taibbi-eat-me-msnbc-0
+audio: taibbi-eat-me-msnbc-1
 category: political
 desc: "Reviewing the last six years at the network that claims now to be concerned with integrity and accuracy..."
 duration: 00:13:48
 length: 828
-datetime: Thu, 06 Apr 2023 23:50:00 +0000
+datetime: Fri, 07 Apr 2023 11:11:00 +0000
 tags: podcast
 guid: taibbi-eat-me-msnbc-0
-order: 1
+order: 0
 ---
 Reviewing the last six years at the network that claims now to be concerned with integrity and accuracy...
 
