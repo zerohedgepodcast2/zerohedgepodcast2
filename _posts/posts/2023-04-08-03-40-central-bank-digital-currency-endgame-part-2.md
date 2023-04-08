@@ -9,7 +9,7 @@ length: 1893
 datetime: Sat, 08 Apr 2023 03:40:00 +0000
 tags: podcast
 guid: central-bank-digital-currency-endgame-part-2-0
-order: 1
+order: 0
 ---
 Central bank digital currency (CBDC) will end human freedom. Don't fall for the assurances of safeguards, the promises of anonymity and of data protection. They are all deceptions and diversions...
 
