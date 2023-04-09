@@ -9,7 +9,7 @@ length: 201
 datetime: Sat, 08 Apr 2023 16:00:00 +0000
 tags: podcast
 guid: will-texas-governor-pardon-army-sergeant-sandbagged-soros-da-self-defense-shooting-0
-order: 2
+order: 0
 ---
 'Literally pointed at him...'
 
