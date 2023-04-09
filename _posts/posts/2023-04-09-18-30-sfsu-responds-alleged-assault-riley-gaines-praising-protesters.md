@@ -9,7 +9,7 @@ length: 393
 datetime: Sun, 09 Apr 2023 18:30:00 +0000
 tags: podcast
 guid: sfsu-responds-alleged-assault-riley-gaines-praising-protesters-0
-order: 0
+order: 1
 ---
 &quot;Thank you to our students who participated peacefully in Thursday evening's event. It took tremendous bravery to stand in a challenging space.&quot; 
 
