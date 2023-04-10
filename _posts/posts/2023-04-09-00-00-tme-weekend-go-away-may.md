@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bad news is bad news, but..."
-audio: tme-weekend-go-away-may-6
+audio: tme-weekend-go-away-may-7
 category: the-market-ear
 desc: 
 duration: 00:03:33

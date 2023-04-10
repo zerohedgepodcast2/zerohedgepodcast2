@@ -9,7 +9,7 @@ length: 536
 datetime: Mon, 10 Apr 2023 02:02:00 +0000
 tags: podcast
 guid: echoes-new-centurys-collapse-amid-sudden-firesale-real-estate-loans-one-bank-sees-40-0
-order: 2
+order: 0
 ---
 &quot;This is what the beginning of a firesale looks like.&quot; - Margin Call
 
