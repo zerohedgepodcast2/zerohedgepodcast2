@@ -9,7 +9,7 @@ length: 133
 datetime: Mon, 10 Apr 2023 21:20:00 +0000
 tags: podcast
 guid: baltimore-mayor-calls-citywide-curfew-after-all-hell-breaks-out-0
-order: 0
+order: 2
 ---
 &quot;Either they [the kids] don't care about consequences or don't believe the consequences, and they have no respect for human life...&quot; 
 
