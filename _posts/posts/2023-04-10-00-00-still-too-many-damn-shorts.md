@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "still waiting for the dip?"
-audio: still-too-many-damn-shorts-0
+audio: still-too-many-damn-shorts-1
 category: the-market-ear
 desc: 
 duration: 00:02:47
