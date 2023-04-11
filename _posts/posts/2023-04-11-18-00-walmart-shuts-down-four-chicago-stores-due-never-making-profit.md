@@ -9,7 +9,7 @@ length: 154
 datetime: Tue, 11 Apr 2023 18:00:00 +0000
 tags: podcast
 guid: walmart-shuts-down-four-chicago-stores-due-never-making-profit-0
-order: 0
+order: 1
 ---
 &quot;The simplest explanation is that collectively our Chicago stores have not been profitable since we opened the first one nearly 17 years ago - these stores lose tens of millions of dollars...&quot; 
 
