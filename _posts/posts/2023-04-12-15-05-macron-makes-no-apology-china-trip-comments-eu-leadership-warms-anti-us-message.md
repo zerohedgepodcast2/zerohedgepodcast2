@@ -9,7 +9,7 @@ length: 284
 datetime: Wed, 12 Apr 2023 15:05:00 +0000
 tags: podcast
 guid: macron-makes-no-apology-china-trip-comments-eu-leadership-warms-anti-us-message-0
-order: 0
+order: 2
 ---
 &quot;From red carpet to doghouse,&quot; declares NYT.
 
