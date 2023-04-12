@@ -9,7 +9,7 @@ length: 228
 datetime: Wed, 12 Apr 2023 13:15:00 +0000
 tags: podcast
 guid: you-just-lied-elon-crushes-bbc-reporters-claims-about-hate-speech-twitter-0
-order: 2
+order: 1
 ---
 &quot;Penetrating deep &amp; hard with @BBC...&quot;
 
