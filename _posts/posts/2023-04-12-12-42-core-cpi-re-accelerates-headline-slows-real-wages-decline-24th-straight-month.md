@@ -9,7 +9,7 @@ length: 99
 datetime: Wed, 12 Apr 2023 12:42:00 +0000
 tags: podcast
 guid: core-cpi-re-accelerates-headline-slows-real-wages-decline-24th-straight-month-0
-order: 0
+order: 1
 ---
 Energy's decline was the biggest deflationary driver for the headline CPI print while Services continued to rise...
 
