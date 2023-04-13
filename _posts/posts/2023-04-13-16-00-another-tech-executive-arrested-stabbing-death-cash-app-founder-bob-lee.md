@@ -9,7 +9,7 @@ length: 125
 datetime: Thu, 13 Apr 2023 16:00:00 +0000
 tags: podcast
 guid: another-tech-executive-arrested-stabbing-death-cash-app-founder-bob-lee-0
-order: 2
+order: 1
 ---
 Lee and Momeni were portrayed by police as being familiar with one another...
 
