@@ -9,7 +9,7 @@ length: 277
 datetime: Thu, 13 Apr 2023 19:05:00 +0000
 tags: podcast
 guid: anheuser-busch-loses-6bn-six-days-execs-never-signed-trans-ad-campaign-0
-order: 0
+order: 2
 ---
 &quot;Some low-level marketing staffer who helps manage the hundreds of influencer engagements they do must have thought it was no big deal...&quot;
 

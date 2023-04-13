@@ -9,7 +9,7 @@ length: 425
 datetime: Thu, 13 Apr 2023 18:44:00 +0000
 tags: podcast
 guid: biden-says-feds-getting-close-finding-leaker-young-gamers-discord-theory-emerges-0
-order: 2
+order: 1
 ---
 Texiera oversaw a private online group called Thug Shaker Central...
 
