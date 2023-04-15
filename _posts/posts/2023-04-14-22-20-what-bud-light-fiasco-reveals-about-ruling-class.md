@@ -9,7 +9,7 @@ length: 498
 datetime: Fri, 14 Apr 2023 22:20:00 +0000
 tags: podcast
 guid: what-bud-light-fiasco-reveals-about-ruling-class-0
-order: 1
+order: 0
 ---
 ...a shocking blindness toward the mainstream of American life, including working classes and other people less privileged...
 
