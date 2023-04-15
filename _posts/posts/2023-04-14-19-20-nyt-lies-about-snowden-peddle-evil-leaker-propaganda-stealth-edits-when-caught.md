@@ -9,7 +9,7 @@ length: 186
 datetime: Fri, 14 Apr 2023 19:20:00 +0000
 tags: podcast
 guid: nyt-lies-about-snowden-peddle-evil-leaker-propaganda-stealth-edits-when-caught-0
-order: 2
+order: 0
 ---
 &quot;That's just massive ignorance that made it through all their editors...&quot;
 

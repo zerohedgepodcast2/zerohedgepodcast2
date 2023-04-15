@@ -9,7 +9,7 @@ length: 224
 datetime: Fri, 14 Apr 2023 13:05:00 +0000
 tags: podcast
 guid: joe-biden-criminal-says-ex-obama-whistleblower-alleging-family-kickback-scheme-0
-order: 1
+order: 0
 ---
 &quot;Did Barack Obama know about it?&quot;
 
