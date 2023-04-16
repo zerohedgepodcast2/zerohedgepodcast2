@@ -9,7 +9,7 @@ length: 200
 datetime: Sat, 15 Apr 2023 19:00:00 +0000
 tags: podcast
 guid: anheuser-busch-transitions-damage-control-mode-and-people-arent-buying-it-0
-order: 2
+order: 1
 ---
 &quot;If your target customer is Kid Rock, and then all of a sudden you decide to go to RuPaul, that just doesn't make any sense at all...&quot;
 
