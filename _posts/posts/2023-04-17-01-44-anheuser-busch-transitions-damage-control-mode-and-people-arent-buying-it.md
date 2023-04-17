@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Anheuser-Busch Transitions Into Damage Control Mode - And People Aren't Buying It"
-audio: anheuser-busch-transitions-damage-control-mode-and-people-arent-buying-it-0
+audio: anheuser-busch-transitions-damage-control-mode-and-people-arent-buying-it-1
 category: political
 desc: "&quot;If your target customer is Kid Rock, and then all of a sudden you decide to go to RuPaul, that just doesn't make any sense at all...&quot;"
 duration: 00:03:20
 length: 200
-datetime: Sat, 15 Apr 2023 19:00:00 +0000
+datetime: Mon, 17 Apr 2023 01:44:00 +0000
 tags: podcast
 guid: anheuser-busch-transitions-damage-control-mode-and-people-arent-buying-it-0
-order: 1
+order: 0
 ---
 &quot;If your target customer is Kid Rock, and then all of a sudden you decide to go to RuPaul, that just doesn't make any sense at all...&quot;
 

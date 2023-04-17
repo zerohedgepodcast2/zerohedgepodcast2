@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "everybody waiting to buy the dip..."
-audio: tme-weekend-squeeze-50-6
+audio: tme-weekend-squeeze-50-7
 category: the-market-ear
 desc: 
 duration: 00:02:57
