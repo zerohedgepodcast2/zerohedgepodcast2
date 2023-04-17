@@ -9,7 +9,7 @@ length: 447
 datetime: Mon, 17 Apr 2023 19:00:00 +0000
 tags: podcast
 guid: us-budget-deficit-quietly-soaring-again-and-its-about-get-much-worse-heres-why-0
-order: 2
+order: 0
 ---
 It was supposed to be a year when the normalization of the record US budget deficit blowout from the covid collapse continued; it has ended up being anything but.
 
