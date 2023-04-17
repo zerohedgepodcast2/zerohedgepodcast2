@@ -9,7 +9,7 @@ length: 122
 datetime: Mon, 17 Apr 2023 17:00:00 +0000
 tags: podcast
 guid: its-going-be-ugly-commercial-real-estate-predictions-turn-dire-0
-order: 0
+order: 2
 ---
 Worse than '08?
 
