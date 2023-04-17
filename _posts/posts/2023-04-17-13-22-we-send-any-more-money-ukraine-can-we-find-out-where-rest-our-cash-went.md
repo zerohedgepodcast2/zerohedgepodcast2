@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Before We Send Any More Money To Ukraine - Can We Find Out Where The Rest Of Our Cash Went?"
-audio: we-send-any-more-money-ukraine-can-we-find-out-where-rest-our-cash-went-0
+audio: we-send-any-more-money-ukraine-can-we-find-out-where-rest-our-cash-went-1
 category: geopolitical
 desc: "&quot;Instead of supplying the armed forces with the agreed quantities of food products, the participants in the fraudulent mechanism diverted the funds through a number of affiliated shadow companies,&quot;"
 duration: 00:04:52
 length: 292
-datetime: Mon, 17 Apr 2023 07:30:00 +0000
+datetime: Mon, 17 Apr 2023 13:22:00 +0000
 tags: podcast
 guid: we-send-any-more-money-ukraine-can-we-find-out-where-rest-our-cash-went-0
-order: 1
+order: 0
 ---
 &quot;Instead of supplying the armed forces with the agreed quantities of food products, the participants in the fraudulent mechanism diverted the funds through a number of affiliated shadow companies,&quot;
 
