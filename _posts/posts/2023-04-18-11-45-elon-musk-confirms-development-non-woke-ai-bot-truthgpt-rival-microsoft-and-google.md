@@ -9,7 +9,7 @@ length: 123
 datetime: Tue, 18 Apr 2023 11:45:00 +0000
 tags: podcast
 guid: elon-musk-confirms-development-non-woke-ai-bot-truthgpt-rival-microsoft-and-google-0
-order: 1
+order: 0
 ---
 &quot;I'm going to start something which I call TruthGPT,&quot; Musk said, &quot;or a maximum truth-seeking AI that tries to understand the nature of the universe.&quot;
 

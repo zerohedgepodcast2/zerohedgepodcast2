@@ -9,7 +9,7 @@ length: 115
 datetime: Tue, 18 Apr 2023 12:16:00 +0000
 tags: podcast
 guid: nytimes-bitcoin-hit-piece-backfires-stopthepresses-movement-erupts-social-media-0
-order: 2
+order: 1
 ---
 What happens when America's purported &quot;paper of record&quot; promulgates an unabashedly biased hit piece against Bitcoin's so-called &quot;climate impact&quot;...
 

@@ -9,7 +9,7 @@ length: 200
 datetime: Tue, 18 Apr 2023 13:45:00 +0000
 tags: podcast
 guid: dominos-falling-brookfield-defaults-161-debt-dc-office-buildings-0
-order: 0
+order: 2
 ---
 &quot;While the pandemic has posed challenges to traditional office in some parts of the US market...&quot; 
 
