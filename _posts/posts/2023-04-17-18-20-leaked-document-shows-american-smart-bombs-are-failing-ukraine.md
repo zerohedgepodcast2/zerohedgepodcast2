@@ -9,7 +9,7 @@ length: 109
 datetime: Mon, 17 Apr 2023 18:20:00 +0000
 tags: podcast
 guid: leaked-document-shows-american-smart-bombs-are-failing-ukraine-0
-order: 2
+order: 1
 ---
 The &quot;JDAM-ER&quot; was to turn unguided &quot;dumb bombs&quot; into GPS guided smart bombs...
 
