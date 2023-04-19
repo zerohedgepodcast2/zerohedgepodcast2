@@ -9,7 +9,7 @@ length: 245
 datetime: Wed, 19 Apr 2023 06:45:00 +0000
 tags: podcast
 guid: germany-closes-its-last-nuclear-power-plants-electricity-bills-spike-45-0
-order: 2
+order: 0
 ---
 Get ready for the return of the peasant lifestyle...
 
