@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "MTG Bares Fang-Fangs, Throws House Meeting Into Chaos Over Swalwell 'Sexual Relationship With A Chinese Spy'"
-audio: mtg-bares-fang-fangs-throws-house-meeting-chaos-over-swalwell-sexual-relationship-chinese-0
+audio: mtg-bares-fang-fangs-throws-house-meeting-chaos-over-swalwell-sexual-relationship-chinese-1
 category: political
 desc: "&quot;That was quite entertaining...&quot;"
 duration: 00:01:56
 length: 116
-datetime: Wed, 19 Apr 2023 21:20:00 +0000
+datetime: Thu, 20 Apr 2023 08:22:00 +0000
 tags: podcast
 guid: mtg-bares-fang-fangs-throws-house-meeting-chaos-over-swalwell-sexual-relationship-chinese-0
-order: 2
+order: 0
 ---
 &quot;That was quite entertaining...&quot;
 
