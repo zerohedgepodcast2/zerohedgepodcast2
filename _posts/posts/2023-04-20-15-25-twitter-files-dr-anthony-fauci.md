@@ -9,7 +9,7 @@ length: 252
 datetime: Thu, 20 Apr 2023 15:25:00 +0000
 tags: podcast
 guid: twitter-files-dr-anthony-fauci-0
-order: 0
+order: 2
 ---
 Documents uncovered at Twitter point to dissembling by Fauci under oath, and a social media company that helped market COVID vaccines while labeling and removing tweets for vaccine &quot;misinformation&quot;...
 
