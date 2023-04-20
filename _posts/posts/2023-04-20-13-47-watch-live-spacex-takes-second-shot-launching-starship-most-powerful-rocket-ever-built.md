@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: SpaceX Takes Second Shot At Launching Starship, The Most Powerful Rocket Ever Built"
-audio: watch-live-spacex-takes-second-shot-launching-starship-most-powerful-rocket-ever-built-0
+title: "Starship Rocket Fails To Achieve Orbit"
+audio: watch-live-spacex-takes-second-shot-launching-starship-most-powerful-rocket-ever-built-1
 category: technology
-desc: "Launch! "
-duration: 00:01:26
-length: 86
-datetime: Thu, 20 Apr 2023 13:10:00 +0000
+desc: "...&quot;unscheduled dis-assembly.&quot;"
+duration: 00:01:41
+length: 101
+datetime: Thu, 20 Apr 2023 13:47:00 +0000
 tags: podcast
 guid: watch-live-spacex-takes-second-shot-launching-starship-most-powerful-rocket-ever-built-0
-order: 0
+order: 2
 ---
-Launch! 
+...&quot;unscheduled dis-assembly.&quot;
 
 Link: [https://www.zerohedge.com/technology/watch-live-spacex-takes-second-shot-launching-starship-most-powerful-rocket-ever-built](https://www.zerohedge.com/technology/watch-live-spacex-takes-second-shot-launching-starship-most-powerful-rocket-ever-built)
 
