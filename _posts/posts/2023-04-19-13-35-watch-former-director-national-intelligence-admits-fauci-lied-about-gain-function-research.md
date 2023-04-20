@@ -9,7 +9,7 @@ length: 210
 datetime: Wed, 19 Apr 2023 13:35:00 +0000
 tags: podcast
 guid: watch-former-director-national-intelligence-admits-fauci-lied-about-gain-function-research-0
-order: 2
+order: 0
 ---
 If one accepts that the most likely source for the covid pandemic was the Wuhan laboratory then one must also accept that Fauci and his associates helped to create the pandemic...
 

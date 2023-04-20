@@ -9,7 +9,7 @@ length: 207
 datetime: Wed, 19 Apr 2023 16:50:00 +0000
 tags: podcast
 guid: biden-punish-good-credit-homebuyers-subsidize-high-risk-mortgages-0
-order: 0
+order: 1
 ---
 &quot;The changes do not make sense...&quot;
 

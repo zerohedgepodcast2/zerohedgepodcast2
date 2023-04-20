@@ -9,7 +9,7 @@ length: 116
 datetime: Wed, 19 Apr 2023 21:20:00 +0000
 tags: podcast
 guid: mtg-bares-fang-fangs-throws-house-meeting-chaos-over-swalwell-sexual-relationship-chinese-0
-order: 0
+order: 2
 ---
 &quot;That was quite entertaining...&quot;
 
