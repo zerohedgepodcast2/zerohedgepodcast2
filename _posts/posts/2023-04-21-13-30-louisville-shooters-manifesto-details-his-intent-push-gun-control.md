@@ -9,7 +9,7 @@ length: 304
 datetime: Fri, 21 Apr 2023 13:30:00 +0000
 tags: podcast
 guid: louisville-shooters-manifesto-details-his-intent-push-gun-control-0
-order: 2
+order: 1
 ---
 Connor Sturgeon detailed how promoting gun control was a key motive behind his mass shooting...
 
