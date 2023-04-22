@@ -9,7 +9,7 @@ length: 284
 datetime: Fri, 21 Apr 2023 15:40:00 +0000
 tags: podcast
 guid: revelation-morell-spurred-blinken-organize-letter-discrediting-hunter-laptop-story-0
-order: 0
+order: 2
 ---
 &quot;I wanted [Biden] to win the election,&quot; says former CIA deputy director Mike Morell
 
