@@ -9,7 +9,7 @@ length: 143
 datetime: Sun, 23 Apr 2023 15:30:00 +0000
 tags: podcast
 guid: nashville-official-says-school-shooters-manifesto-astronomically-dangerous-0
-order: 0
+order: 1
 ---
 What I was told is, her manifesto was a blueprint on total destruction...
 

@@ -9,7 +9,7 @@ length: 284
 datetime: Sun, 23 Apr 2023 18:00:00 +0000
 tags: podcast
 guid: its-defund-global-police-moment-jen-says-de-dollarization-happening-stunning-pace-0
-order: 0
+order: 2
 ---
 &quot;The dollar suffered a stunning collapse in 2022 in its market share as a reserve currency, presumably due to its muscular use of sanctions...&quot; 
 
