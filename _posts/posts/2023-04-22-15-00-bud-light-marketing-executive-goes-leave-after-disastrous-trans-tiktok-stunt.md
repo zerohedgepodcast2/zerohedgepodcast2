@@ -9,7 +9,7 @@ length: 144
 datetime: Sat, 22 Apr 2023 15:00:00 +0000
 tags: podcast
 guid: bud-light-marketing-executive-goes-leave-after-disastrous-trans-tiktok-stunt-0
-order: 2
+order: 0
 ---
 Will Bud Light ever recover? 
 
