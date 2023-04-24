@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "It's A &quot;Defund-The-Global-Police&quot; Moment, Jen Says De-Dollarization Is Happening At A &quot;Stunning&quot; Pace"
-audio: its-defund-global-police-moment-jen-says-de-dollarization-happening-stunning-pace-0
+audio: its-defund-global-police-moment-jen-says-de-dollarization-happening-stunning-pace-1
 category: geopolitical
 desc: "&quot;The dollar suffered a stunning collapse in 2022 in its market share as a reserve currency, presumably due to its muscular use of sanctions...&quot; "
 duration: 00:04:44
 length: 284
-datetime: Sun, 23 Apr 2023 18:00:00 +0000
+datetime: Mon, 24 Apr 2023 09:44:00 +0000
 tags: podcast
 guid: its-defund-global-police-moment-jen-says-de-dollarization-happening-stunning-pace-0
-order: 2
+order: 0
 ---
 &quot;The dollar suffered a stunning collapse in 2022 in its market share as a reserve currency, presumably due to its muscular use of sanctions...&quot; 
 

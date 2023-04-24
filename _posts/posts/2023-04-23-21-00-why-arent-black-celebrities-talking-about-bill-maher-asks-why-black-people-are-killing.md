@@ -9,7 +9,7 @@ length: 129
 datetime: Sun, 23 Apr 2023 21:00:00 +0000
 tags: podcast
 guid: why-arent-black-celebrities-talking-about-bill-maher-asks-why-black-people-are-killing-0
-order: 0
+order: 1
 ---
 &quot;Why aren't there a hundred giant black celebrities who would have the respect of those people saying what are you doing to yourselves? Why are you killing each other?&quot;
 
