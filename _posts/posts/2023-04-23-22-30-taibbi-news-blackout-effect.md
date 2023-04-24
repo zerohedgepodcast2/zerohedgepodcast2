@@ -9,7 +9,7 @@ length: 173
 datetime: Sun, 23 Apr 2023 22:30:00 +0000
 tags: podcast
 guid: taibbi-news-blackout-effect-0
-order: 2
+order: 1
 ---
 The Michael Morell story is disposed of by press janitors
 
