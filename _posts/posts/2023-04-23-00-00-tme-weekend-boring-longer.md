@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "nothing burger..."
-audio: tme-weekend-boring-longer-2
+audio: tme-weekend-boring-longer-3
 category: the-market-ear
 desc: 
 duration: 00:01:54
