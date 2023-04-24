@@ -9,7 +9,7 @@ length: 108
 datetime: Mon, 24 Apr 2023 15:36:00 +0000
 tags: podcast
 guid: tucker-carlson-out-fox-0
-order: 2
+order: 1
 ---
 &quot;We thank him for his service...&quot;
 
