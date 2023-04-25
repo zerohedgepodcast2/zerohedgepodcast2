@@ -9,7 +9,7 @@ length: 281
 datetime: Tue, 25 Apr 2023 12:20:00 +0000
 tags: podcast
 guid: biden-officially-announces-2024-campaign-trump-responds-0
-order: 2
+order: 0
 ---
 There has never been a rematch between the same two candidates in back-to-back American presidential elections...
 
