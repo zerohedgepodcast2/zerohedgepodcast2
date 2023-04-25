@@ -9,7 +9,7 @@ length: 247
 datetime: Tue, 25 Apr 2023 10:55:00 +0000
 tags: podcast
 guid: don-lemon-interview-gop-candidate-was-last-straw-nyt-0
-order: 1
+order: 0
 ---
 &quot;when you are in black skin, then you can disagree with me&quot; 
 

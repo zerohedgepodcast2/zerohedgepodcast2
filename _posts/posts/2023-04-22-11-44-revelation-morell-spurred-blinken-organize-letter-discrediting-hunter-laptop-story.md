@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blinken Busted: Played Central Role In Discrediting Hunter Biden Laptop Story As Election Loomed"
-audio: revelation-morell-spurred-blinken-organize-letter-discrediting-hunter-laptop-story-2
+audio: revelation-morell-spurred-blinken-organize-letter-discrediting-hunter-laptop-story-3
 category: political
 desc: "&quot;I wanted [Biden] to win the election,&quot; says former CIA deputy director Mike Morell"
 duration: 00:04:44
