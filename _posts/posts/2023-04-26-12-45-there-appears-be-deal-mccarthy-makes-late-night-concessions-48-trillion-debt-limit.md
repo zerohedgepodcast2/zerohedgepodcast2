@@ -9,7 +9,7 @@ length: 248
 datetime: Wed, 26 Apr 2023 12:45:00 +0000
 tags: podcast
 guid: there-appears-be-deal-mccarthy-makes-late-night-concessions-48-trillion-debt-limit-0
-order: 2
+order: 1
 ---
 &quot;I think we're doing well. I think we're doing fine...&quot;
 
