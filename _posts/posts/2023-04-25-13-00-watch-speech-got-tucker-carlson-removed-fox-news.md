@@ -9,7 +9,7 @@ length: 38
 datetime: Tue, 25 Apr 2023 13:00:00 +0000
 tags: podcast
 guid: watch-speech-got-tucker-carlson-removed-fox-news-0
-order: 1
+order: 0
 ---
 The conflict is no longer about politics, it's about the very moral foundations of civilization...
 
