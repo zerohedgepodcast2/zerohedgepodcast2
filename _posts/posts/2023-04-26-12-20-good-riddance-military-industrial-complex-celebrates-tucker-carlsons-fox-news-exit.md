@@ -9,7 +9,7 @@ length: 175
 datetime: Wed, 26 Apr 2023 12:20:00 +0000
 tags: podcast
 guid: good-riddance-military-industrial-complex-celebrates-tucker-carlsons-fox-news-exit-0
-order: 0
+order: 1
 ---
 DoD officials express their glee... 
 
