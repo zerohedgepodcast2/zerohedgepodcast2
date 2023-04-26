@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US Sending Nuclear Submarines To South Korea For 1st Time In 40 Years"
-audio: us-sending-nuclear-submarines-south-korea-1st-time-40-years-0
+title: "Biden, Yoon Agree: Response To North Korean Nuclear Attack Would Include US Nukes"
+audio: us-sending-nuclear-submarines-south-korea-1st-time-40-years-1
 category: geopolitical
-desc: "&quot;more visible&quot; deterrence against Kim's nuclear threats..."
-duration: 00:02:35
-length: 155
-datetime: Wed, 26 Apr 2023 15:05:00 +0000
+desc: "peace with North comes through superior force, not 'goodwill'... "
+duration: 00:03:59
+length: 239
+datetime: Wed, 26 Apr 2023 18:50:00 +0000
 tags: podcast
 guid: us-sending-nuclear-submarines-south-korea-1st-time-40-years-0
 order: 0
 ---
-&quot;more visible&quot; deterrence against Kim's nuclear threats...
+peace with North comes through superior force, not 'goodwill'... 
 
 Link: [https://www.zerohedge.com/geopolitical/us-sending-nuclear-submarines-south-korea-1st-time-40-years](https://www.zerohedge.com/geopolitical/us-sending-nuclear-submarines-south-korea-1st-time-40-years)
 
