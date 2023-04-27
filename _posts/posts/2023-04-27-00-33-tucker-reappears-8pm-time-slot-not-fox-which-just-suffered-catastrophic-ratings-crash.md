@@ -9,7 +9,7 @@ length: 185
 datetime: Thu, 27 Apr 2023 00:33:00 +0000
 tags: podcast
 guid: tucker-reappears-8pm-time-slot-not-fox-which-just-suffered-catastrophic-ratings-crash-0
-order: 0
+order: 1
 ---
 Demo ratings were down across the board...
 
