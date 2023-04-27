@@ -9,7 +9,7 @@ length: 166
 datetime: Thu, 27 Apr 2023 12:25:00 +0000
 tags: podcast
 guid: ex-us-army-psyops-expert-fox-news-fired-carlson-maintain-semi-lobotomized-quasi-retarded-0
-order: 0
+order: 1
 ---
 Host's ouster spells &quot;the death of American media&quot;...
 

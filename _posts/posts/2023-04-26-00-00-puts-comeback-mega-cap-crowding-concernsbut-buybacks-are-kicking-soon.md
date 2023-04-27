@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "some bearish and some bullish stuff to digest..."
-audio: puts-comeback-mega-cap-crowding-concernsbut-buybacks-are-kicking-soon-6
+audio: puts-comeback-mega-cap-crowding-concernsbut-buybacks-are-kicking-soon-7
 category: the-market-ear
 desc: 
 duration: 00:01:44

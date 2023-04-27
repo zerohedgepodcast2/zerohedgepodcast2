@@ -9,7 +9,7 @@ length: 347
 datetime: Thu, 27 Apr 2023 12:56:00 +0000
 tags: podcast
 guid: stagflation-q1-gdp-much-weaker-expected-inventory-plunge-inflation-comes-red-hot-0
-order: 1
+order: 2
 ---
 &quot;This morning's data was the worst of both worlds, with growth down and inflation up.&quot;
 
