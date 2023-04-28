@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "First Republic Shares Rise On Reports Of 'Rescue' Talks"
-audio: first-republic-shares-rise-reports-rescue-talks-0
+title: "First Republic Shares Crash To Record Lows As 'Deal' Hope Fades"
+audio: first-republic-shares-rise-reports-rescue-talks-1
 category: markets
-desc: "The banks are reluctant to put their shareholders at risk of losses without some sort of government participation..."
-duration: 00:02:25
-length: 145
-datetime: Fri, 28 Apr 2023 11:54:00 +0000
+desc: "...will they make it to the close without the FDIC stepping in?"
+duration: 00:02:48
+length: 168
+datetime: Fri, 28 Apr 2023 14:40:00 +0000
 tags: podcast
 guid: first-republic-shares-rise-reports-rescue-talks-0
 order: 0
 ---
-The banks are reluctant to put their shareholders at risk of losses without some sort of government participation...
+...will they make it to the close without the FDIC stepping in?
 
 Link: [https://www.zerohedge.com/markets/first-republic-shares-rise-reports-rescue-talks](https://www.zerohedge.com/markets/first-republic-shares-rise-reports-rescue-talks)
 
