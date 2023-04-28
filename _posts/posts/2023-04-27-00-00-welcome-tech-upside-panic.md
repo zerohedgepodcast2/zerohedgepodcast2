@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "extreme call buying in tech..."
-audio: welcome-tech-upside-panic-7
+audio: welcome-tech-upside-panic-8
 category: the-market-ear
 desc: 
 duration: 00:03:03
