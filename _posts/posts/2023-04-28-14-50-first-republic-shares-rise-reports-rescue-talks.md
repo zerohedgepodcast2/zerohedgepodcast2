@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "First Republic Shares Crash To Record Lows As 'Deal' Hope Fades"
-audio: first-republic-shares-rise-reports-rescue-talks-1
+title: "First Republic Shares Cut In Half (Again) As FDIC Threat Looms"
+audio: first-republic-shares-rise-reports-rescue-talks-2
 category: markets
 desc: "...will they make it to the close without the FDIC stepping in?"
-duration: 00:02:48
-length: 168
-datetime: Fri, 28 Apr 2023 14:40:00 +0000
+duration: 00:03:40
+length: 220
+datetime: Fri, 28 Apr 2023 14:50:00 +0000
 tags: podcast
 guid: first-republic-shares-rise-reports-rescue-talks-0
 order: 0
