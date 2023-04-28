@@ -9,7 +9,7 @@ length: 311
 datetime: Fri, 28 Apr 2023 13:12:00 +0000
 tags: podcast
 guid: taibbi-america-single-opinion-cult-0
-order: 0
+order: 2
 ---
 The marketplace of ideas is no longer a market...
 
