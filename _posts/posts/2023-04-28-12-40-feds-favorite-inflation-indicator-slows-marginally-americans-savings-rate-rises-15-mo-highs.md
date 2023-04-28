@@ -9,7 +9,7 @@ length: 98
 datetime: Fri, 28 Apr 2023 12:40:00 +0000
 tags: podcast
 guid: feds-favorite-inflation-indicator-slows-marginally-americans-savings-rate-rises-15-mo-highs-0
-order: 0
+order: 2
 ---
 Core PCE was expected to be flat at +4.6% YoY... and it was...
 
