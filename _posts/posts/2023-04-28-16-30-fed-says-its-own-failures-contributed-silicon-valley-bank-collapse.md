@@ -9,7 +9,7 @@ length: 300
 datetime: Fri, 28 Apr 2023 16:30:00 +0000
 tags: podcast
 guid: fed-says-its-own-failures-contributed-silicon-valley-bank-collapse-0
-order: 2
+order: 1
 ---
 So, not social media?
 
