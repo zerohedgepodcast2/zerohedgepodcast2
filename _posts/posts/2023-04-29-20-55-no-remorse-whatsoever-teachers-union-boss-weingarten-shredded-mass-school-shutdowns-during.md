@@ -9,7 +9,7 @@ length: 229
 datetime: Sat, 29 Apr 2023 20:55:00 +0000
 tags: podcast
 guid: no-remorse-whatsoever-teachers-union-boss-weingarten-shredded-mass-school-shutdowns-during-0
-order: 3
+order: 1
 ---
 ...&quot;no remorse whatsoever!&quot;
 
