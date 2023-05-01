@@ -9,7 +9,7 @@ length: 138
 datetime: Mon, 01 May 2023 14:30:00 +0000
 tags: podcast
 guid: bernie-sanders-government-should-confiscate-all-wealth-over-999-million-0
-order: 0
+order: 2
 ---
 No billionaires at all! Not American ones, at least...
 
