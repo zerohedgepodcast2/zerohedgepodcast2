@@ -9,7 +9,7 @@ length: 269
 datetime: Tue, 02 May 2023 01:40:00 +0000
 tags: podcast
 guid: ibm-stop-hiring-roles-can-be-replaced-ai-nearly-8000-workers-be-replaced-automation-0
-order: 0
+order: 1
 ---
 &quot;I could easily see 30% of that getting replaced by AI and automation over a five-year period.&quot;
 
