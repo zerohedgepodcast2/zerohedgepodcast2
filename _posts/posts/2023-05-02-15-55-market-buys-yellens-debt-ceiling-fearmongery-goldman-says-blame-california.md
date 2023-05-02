@@ -9,7 +9,7 @@ length: 310
 datetime: Tue, 02 May 2023 15:55:00 +0000
 tags: podcast
 guid: market-buys-yellens-debt-ceiling-fearmongery-goldman-says-blame-california-0
-order: 2
+order: 0
 ---
 Yellen's potentially overly-conservative projection has downsides...
 
