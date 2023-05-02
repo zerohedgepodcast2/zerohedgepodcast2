@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "upside remains the main force..."
-audio: goldilocks-market-6
+audio: goldilocks-market-7
 category: the-market-ear
 desc: 
 duration: 00:02:35
