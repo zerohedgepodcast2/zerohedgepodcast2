@@ -9,7 +9,7 @@ length: 79
 datetime: Tue, 02 May 2023 14:37:00 +0000
 tags: podcast
 guid: st-just-hit-fan-across-markets-regional-banks-freefall-0
-order: 0
+order: 1
 ---
 ...debt ceiling doubts, dismal data, bank runs, or Fed fears?
 

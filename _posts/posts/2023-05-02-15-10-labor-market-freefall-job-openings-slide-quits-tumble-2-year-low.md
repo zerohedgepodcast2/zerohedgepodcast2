@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Labor Market In Freefall As Job Openings Slide, Quits Tumble To 2 Year Low"
-audio: labor-market-freefall-job-openings-slide-quits-tumble-2-year-low-0
+audio: labor-market-freefall-job-openings-slide-quits-tumble-2-year-low-1
 category: markets
 desc: "It's always amusing to watch when the BLS lies go into reverse."
-duration: 00:04:07
-length: 247
-datetime: Tue, 02 May 2023 14:41:00 +0000
+duration: 00:04:10
+length: 250
+datetime: Tue, 02 May 2023 15:10:00 +0000
 tags: podcast
 guid: labor-market-freefall-job-openings-slide-quits-tumble-2-year-low-0
 order: 0
