@@ -9,7 +9,7 @@ length: 540
 datetime: Mon, 01 May 2023 11:33:00 +0000
 tags: podcast
 guid: second-largest-us-bank-failure-history-first-republic-bank-seized-fdic-sold-jpmorgan-0
-order: 1
+order: 0
 ---
 &quot;Our government invited us and others to step up, and we did&quot; Jamie Dimon
 

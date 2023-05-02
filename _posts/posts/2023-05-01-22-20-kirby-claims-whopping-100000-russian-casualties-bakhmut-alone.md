@@ -9,7 +9,7 @@ length: 141
 datetime: Mon, 01 May 2023 22:20:00 +0000
 tags: podcast
 guid: kirby-claims-whopping-100000-russian-casualties-bakhmut-alone-0
-order: 0
+order: 1
 ---
 US seeks to establish a 'pyrrhic victory' narrative in Bakhmut...
 
