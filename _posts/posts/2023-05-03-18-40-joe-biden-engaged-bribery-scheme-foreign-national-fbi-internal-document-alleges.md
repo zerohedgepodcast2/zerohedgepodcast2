@@ -9,7 +9,7 @@ length: 169
 datetime: Wed, 03 May 2023 18:40:00 +0000
 tags: podcast
 guid: joe-biden-engaged-bribery-scheme-foreign-national-fbi-internal-document-alleges-0
-order: 0
+order: 1
 ---
 An 'exchange of money for policy decisions...'
 
