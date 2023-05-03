@@ -9,7 +9,7 @@ length: 213
 datetime: Wed, 03 May 2023 13:05:00 +0000
 tags: podcast
 guid: druckenmiller-americas-debt-crisis-its-watching-horror-movie-unfold-0
-order: 0
+order: 1
 ---
 &quot;All this focus on the debt ceiling instead of the future fiscal issue is like sitting on the beach at Santa Monica worrying about whether a 30-foot wave will damage the pier when you know there's a 200-foot tsunami just 10 miles out.&quot; 
 

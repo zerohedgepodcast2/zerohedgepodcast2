@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Putin Targeted In &quot;Terrorist&quot; Assassination Attempt By Drones: Kremlin"
-audio: putin-targeted-terrorist-assassination-attempt-drones-kremlin-0
+title: "Russian MP Says &quot;Time To Launch Missile Attack On Zelensky's Residence&quot; After Putin Targeted"
+audio: putin-targeted-terrorist-assassination-attempt-drones-kremlin-1
 category: geopolitical
-desc: "Ukraine quickly seeks to distance itself, saying no links to the drone attack on the Kremlin..."
-duration: 00:04:14
-length: 254
-datetime: Wed, 03 May 2023 12:00:00 +0000
+desc: "Ukraine insisting it had nothing to do with drone strike on Kremlin... "
+duration: 00:06:56
+length: 416
+datetime: Wed, 03 May 2023 14:02:00 +0000
 tags: podcast
 guid: putin-targeted-terrorist-assassination-attempt-drones-kremlin-0
-order: 1
+order: 2
 ---
-Ukraine quickly seeks to distance itself, saying no links to the drone attack on the Kremlin...
+Ukraine insisting it had nothing to do with drone strike on Kremlin... 
 
 Link: [https://www.zerohedge.com/geopolitical/putin-targeted-terrorist-assassination-attempt-drones-kremlin](https://www.zerohedge.com/geopolitical/putin-targeted-terrorist-assassination-attempt-drones-kremlin)
 
