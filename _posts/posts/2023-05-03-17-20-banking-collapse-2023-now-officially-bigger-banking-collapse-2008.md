@@ -9,7 +9,7 @@ length: 428
 datetime: Wed, 03 May 2023 17:20:00 +0000
 tags: podcast
 guid: banking-collapse-2023-now-officially-bigger-banking-collapse-2008-0
-order: 2
+order: 0
 ---
 ...and we're still only in the very early chapters of this crisis.  Much worse is yet to come...
 
