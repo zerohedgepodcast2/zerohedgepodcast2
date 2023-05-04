@@ -9,7 +9,7 @@ length: 156
 datetime: Thu, 04 May 2023 19:35:00 +0000
 tags: podcast
 guid: new-footage-shows-el-paso-engulfed-mass-migration-dumpster-fire-state-emergency-declared-0
-order: 0
+order: 1
 ---
 &quot;The situation in El Paso is so bad that even CNN is flabbergasted.&quot; 
 
