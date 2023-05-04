@@ -9,7 +9,7 @@ length: 113
 datetime: Thu, 04 May 2023 11:35:00 +0000
 tags: podcast
 guid: first-horizon-shares-crash-after-td-bank-deal-terminated-0
-order: 1
+order: 0
 ---
 Turmoil continues... 
 
