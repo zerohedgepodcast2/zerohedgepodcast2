@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "April Payrolls Smash Expectations After Huge Downward Revisions; Black Unemployment Hits Record Low"
-audio: april-payrolls-smash-expectations-after-huge-downward-revisions-unemployment-blacks-hits-0
+audio: april-payrolls-smash-expectations-after-huge-downward-revisions-unemployment-blacks-hits-1
 category: markets
 desc: "The Biden admin just did it again..."
 duration: 00:09:20
 length: 560
-datetime: Fri, 05 May 2023 12:49:00 +0000
+datetime: Fri, 05 May 2023 15:22:00 +0000
 tags: podcast
 guid: april-payrolls-smash-expectations-after-huge-downward-revisions-unemployment-blacks-hits-0
-order: 2
+order: 0
 ---
 The Biden admin just did it again...
 
