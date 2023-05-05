@@ -9,7 +9,7 @@ length: 165
 datetime: Fri, 05 May 2023 14:40:00 +0000
 tags: podcast
 guid: wagner-chief-says-his-forces-exit-bakhmut-may-10-military-leaders-sit-fat-cats-0
-order: 0
+order: 2
 ---
 Has fallen &quot;out of favor with envious near-military bureaucrats.&quot;
 
