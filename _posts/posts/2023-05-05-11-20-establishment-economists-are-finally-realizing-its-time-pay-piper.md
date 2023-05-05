@@ -9,7 +9,7 @@ length: 294
 datetime: Fri, 05 May 2023 11:20:00 +0000
 tags: podcast
 guid: establishment-economists-are-finally-realizing-its-time-pay-piper-0
-order: 1
+order: 0
 ---
 The very thing they used to say was &quot;conspiracy theory&quot; or Chicken Little doom mongering, is now accepted as fact...
 
