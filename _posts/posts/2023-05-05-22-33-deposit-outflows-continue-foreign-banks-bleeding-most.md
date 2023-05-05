@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "US Bank-Run Continues: Deposit Outflows Top $360 Billion In Last 3 Weeks"
-audio: deposit-outflows-continue-foreign-banks-bleeding-most-0
+title: "US Bank-Run Escalates: Deposit Outflows Top $360 Billion In Last 3 Weeks"
+audio: deposit-outflows-continue-foreign-banks-bleeding-most-1
 category: markets
 desc: "...is The Fed using a historical seasonal adjustment factor AS IF there is no bank run which is traditionally the case..."
 duration: 00:04:16
 length: 256
-datetime: Fri, 05 May 2023 20:44:00 +0000
+datetime: Fri, 05 May 2023 22:33:00 +0000
 tags: podcast
 guid: deposit-outflows-continue-foreign-banks-bleeding-most-0
-order: 2
+order: 0
 ---
 ...is The Fed using a historical seasonal adjustment factor AS IF there is no bank run which is traditionally the case...
 
