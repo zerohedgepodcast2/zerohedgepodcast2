@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "market frustration is huge..."
-audio: sell-low-buy-high-market-alive-10
+audio: sell-low-buy-high-market-alive-1
 category: the-market-ear
 desc: 
 duration: 00:02:23
