@@ -9,7 +9,7 @@ length: 219
 datetime: Fri, 05 May 2023 19:00:00 +0000
 tags: podcast
 guid: 50-trillion-what-kennedy-dumbfounds-biden-climate-peddler-fiery-exchange-over-carbon-0
-order: 1
+order: 0
 ---
 &quot;You don't know, do you? You don't know, do you?&quot;
 
