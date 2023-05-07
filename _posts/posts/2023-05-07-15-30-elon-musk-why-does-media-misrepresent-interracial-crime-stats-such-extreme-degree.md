@@ -9,7 +9,7 @@ length: 93
 datetime: Sun, 07 May 2023 15:30:00 +0000
 tags: podcast
 guid: elon-musk-why-does-media-misrepresent-interracial-crime-stats-such-extreme-degree-0
-order: 2
+order: 1
 ---
 Twitter under Musk is actually countering hate hoaxes and disinformation...
 
