@@ -9,7 +9,7 @@ length: 156
 datetime: Mon, 08 May 2023 12:31:00 +0000
 tags: podcast
 guid: bud-light-boycott-now-blamed-social-media-misinformation-top-anheuser-busch-exec-says-0
-order: 2
+order: 1
 ---
 &quot;People often talk about this topic in social media like noise.&quot; 
 
