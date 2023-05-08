@@ -9,7 +9,7 @@ length: 257
 datetime: Mon, 08 May 2023 11:45:00 +0000
 tags: podcast
 guid: central-bank-gold-buying-record-breaking-start-2023-led-singapore-0
-order: 0
+order: 1
 ---
 Demand for the hard currency by the world's money-printing authorities reached 228 tonnes in Q1, a 176% increase compared to the 82.7 tonnes one year ago and the strongest first quarter on record.
 
