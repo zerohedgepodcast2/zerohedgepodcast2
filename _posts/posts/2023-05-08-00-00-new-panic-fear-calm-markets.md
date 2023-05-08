@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VIX down on a Monday is not your &quot;usual&quot; VIX behavior..."
-audio: new-panic-fear-calm-markets-0
+audio: new-panic-fear-calm-markets-1
 category: the-market-ear
 desc: 
 duration: 00:03:16
