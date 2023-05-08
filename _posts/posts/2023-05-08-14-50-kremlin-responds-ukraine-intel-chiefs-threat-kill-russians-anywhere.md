@@ -9,7 +9,7 @@ length: 148
 datetime: Mon, 08 May 2023 14:50:00 +0000
 tags: podcast
 guid: kremlin-responds-ukraine-intel-chiefs-threat-kill-russians-anywhere-0
-order: 0
+order: 2
 ---
 &quot;...we will keep killing Russians anywhere on the face of this world,&quot; Gen. Budanov told Yahoo.
 
