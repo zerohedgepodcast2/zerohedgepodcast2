@@ -9,7 +9,7 @@ length: 496
 datetime: Sun, 07 May 2023 19:00:00 +0000
 tags: podcast
 guid: buffett-turns-gloomy-incredible-period-us-economy-coming-end-0
-order: 0
+order: 2
 ---
 &quot;Get used to making less&quot; chimed in sidekick Charlie Munger
 
