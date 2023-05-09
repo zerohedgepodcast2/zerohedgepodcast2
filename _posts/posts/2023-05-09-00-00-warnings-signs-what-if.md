@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "consolidations at highs are not easy to trade..."
-audio: warnings-signs-what-if-1
+audio: warnings-signs-what-if-2
 category: the-market-ear
 desc: 
 duration: 00:03:42
