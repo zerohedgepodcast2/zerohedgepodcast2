@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Anheuser-Busch CEO Blames Bud Light Boycott On Social Media &quot;Misinformation&quot;"
-audio: bud-light-boycott-now-blamed-social-media-misinformation-top-anheuser-busch-exec-says-0
+audio: bud-light-boycott-now-blamed-social-media-misinformation-top-anheuser-busch-exec-says-1
 category: markets
 desc: "&quot;People often talk about this topic in social media like noise.&quot; "
-duration: 00:02:36
-length: 156
-datetime: Mon, 08 May 2023 12:31:00 +0000
+duration: 00:03:11
+length: 191
+datetime: Tue, 09 May 2023 10:11:00 +0000
 tags: podcast
 guid: bud-light-boycott-now-blamed-social-media-misinformation-top-anheuser-busch-exec-says-0
-order: 1
+order: 0
 ---
 &quot;People often talk about this topic in social media like noise.&quot; 
 

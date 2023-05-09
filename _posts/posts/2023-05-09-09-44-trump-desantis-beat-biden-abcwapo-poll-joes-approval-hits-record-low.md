@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Trump, DeSantis Beat Biden In ABC/WaPo Poll As Joe's Approval Hits Record Low"
-audio: trump-desantis-beat-biden-abcwapo-poll-joes-approval-hits-record-low-0
+audio: trump-desantis-beat-biden-abcwapo-poll-joes-approval-hits-record-low-1
 category: political
 desc: "Blacks' Biden approval down a staggering 30% from 2020"
 duration: 00:03:18
 length: 198
-datetime: Mon, 08 May 2023 13:10:00 +0000
+datetime: Tue, 09 May 2023 09:44:00 +0000
 tags: podcast
 guid: trump-desantis-beat-biden-abcwapo-poll-joes-approval-hits-record-low-0
-order: 2
+order: 0
 ---
 Blacks' Biden approval down a staggering 30% from 2020
 
