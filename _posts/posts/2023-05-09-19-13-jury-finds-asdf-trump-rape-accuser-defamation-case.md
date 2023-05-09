@@ -9,7 +9,7 @@ length: 166
 datetime: Tue, 09 May 2023 19:13:00 +0000
 tags: podcast
 guid: jury-finds-asdf-trump-rape-accuser-defamation-case-0
-order: 2
+order: 1
 ---
 Carroll was awarded around $5 million in damages.
 
