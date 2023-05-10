@@ -9,7 +9,7 @@ length: 99
 datetime: Tue, 09 May 2023 20:58:00 +0000
 tags: podcast
 guid: were-back-tucker-carlson-moves-show-twitter-0
-order: 2
+order: 1
 ---
 &quot;There aren't many platforms left that allow free speech. The last big one remaining in the world is Twitter...&quot;
 
