@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Headline CPI Dips To 2-Year Low; Shelter Costs Roll Over"
-audio: consumer-price-inflation-slows-modestly-still-outpaces-americans-wages-25th-0
+audio: consumer-price-inflation-slows-modestly-still-outpaces-americans-wages-25th-1
 category: personal-finance
 desc: "Is M2 signaling that the 'stickiness' is over and a tsunami of deflation is about to hit?"
 duration: 00:03:46
 length: 226
-datetime: Wed, 10 May 2023 12:39:00 +0000
+datetime: Wed, 10 May 2023 13:55:00 +0000
 tags: podcast
 guid: consumer-price-inflation-slows-modestly-still-outpaces-americans-wages-25th-0
-order: 1
+order: 0
 ---
 Is M2 signaling that the 'stickiness' is over and a tsunami of deflation is about to hit?
 
