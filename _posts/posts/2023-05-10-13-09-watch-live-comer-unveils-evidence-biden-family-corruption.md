@@ -9,7 +9,7 @@ length: 97
 datetime: Wed, 10 May 2023 13:09:00 +0000
 tags: podcast
 guid: watch-live-comer-unveils-evidence-biden-family-corruption-0
-order: 1
+order: 0
 ---
 &quot;We know exactly what this family was doing...&quot;
 
