@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How long can range-bound markets persist...?"
-audio: range-bound-mania-0
+audio: range-bound-mania-1
 category: the-market-ear
 desc: 
 duration: 00:02:09
