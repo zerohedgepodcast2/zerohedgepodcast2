@@ -9,7 +9,7 @@ length: 464
 datetime: Thu, 11 May 2023 14:20:00 +0000
 tags: podcast
 guid: top-ten-moments-trumps-cnn-town-hall-aoc-and-jake-tapper-livid-0
-order: 1
+order: 0
 ---
 A cat (or dog) named vagina?
 
