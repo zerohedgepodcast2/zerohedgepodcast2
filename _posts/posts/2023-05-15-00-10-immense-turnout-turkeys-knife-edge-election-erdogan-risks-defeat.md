@@ -9,7 +9,7 @@ length: 1612
 datetime: Mon, 15 May 2023 00:10:00 +0000
 tags: podcast
 guid: immense-turnout-turkeys-knife-edge-election-erdogan-risks-defeat-0
-order: 1
+order: 0
 ---
 Sinan Ogan, the presidential race's 3rd candidate, was surprise disruptor by taking 5% of vote... 
 
