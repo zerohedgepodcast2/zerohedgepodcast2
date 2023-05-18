@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "moving freely again..."
-audio: finally-some-moves-0-5
+audio: finally-some-moves-0-6
 category: the-market-ear
 desc: 
 duration: 00:03:14
