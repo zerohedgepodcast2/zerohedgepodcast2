@@ -9,7 +9,7 @@ length: 226
 datetime: Fri, 19 May 2023 15:48:00 +0000
 tags: podcast
 guid: theyre-just-unreasonable-debt-ceiling-talks-collapse-republicans-abruptly-walk-out-0
-order: 1
+order: 0
 ---
 But... but... stonks jumped on debt talk optimism....
 
