@@ -9,7 +9,7 @@ length: 944
 datetime: Thu, 18 May 2023 20:20:00 +0000
 tags: podcast
 guid: secretive-bilderberg-gathering-global-elites-kicks-see-whos-attending-what-theyre-0
-order: 2
+order: 0
 ---
 Also attending is Sam Altman, CEO of OpenAI...as well as an awful lot of senior European politicians...
 

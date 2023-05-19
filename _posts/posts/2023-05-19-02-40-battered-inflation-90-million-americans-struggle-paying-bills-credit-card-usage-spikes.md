@@ -9,7 +9,7 @@ length: 101
 datetime: Fri, 19 May 2023 02:40:00 +0000
 tags: podcast
 guid: battered-inflation-90-million-americans-struggle-paying-bills-credit-card-usage-spikes-0
-order: 0
+order: 2
 ---
 This can't be good...
 
