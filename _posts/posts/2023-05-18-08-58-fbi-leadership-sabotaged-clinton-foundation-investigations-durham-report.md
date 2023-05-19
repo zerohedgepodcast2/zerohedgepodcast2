@@ -9,7 +9,7 @@ length: 430
 datetime: Thu, 18 May 2023 08:58:00 +0000
 tags: podcast
 guid: fbi-leadership-sabotaged-clinton-foundation-investigations-durham-report-0
-order: 1
+order: 0
 ---
 The Department's reaction to the Clinton Foundation briefing was &quot;hostile&quot;...
 

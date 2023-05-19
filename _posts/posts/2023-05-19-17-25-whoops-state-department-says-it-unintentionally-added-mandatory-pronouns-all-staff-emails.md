@@ -9,7 +9,7 @@ length: 241
 datetime: Fri, 19 May 2023 17:25:00 +0000
 tags: podcast
 guid: whoops-state-department-says-it-unintentionally-added-mandatory-pronouns-all-staff-emails-0
-order: 0
+order: 2
 ---
 An easy mistake to make... right?
 
