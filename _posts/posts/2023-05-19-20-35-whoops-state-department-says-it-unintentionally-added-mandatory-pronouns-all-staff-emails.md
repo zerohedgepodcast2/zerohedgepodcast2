@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Whoops! State Department Says It &quot;Unintentionally&quot; Added Mandatory Pronouns Onto All Staff Emails"
-audio: whoops-state-department-says-it-unintentionally-added-mandatory-pronouns-all-staff-emails-0
+title: "Whoops! State Department Offers Counseling After &quot;Unintentionally&quot; Adding Pronouns To All Staff Emails"
+audio: whoops-state-department-says-it-unintentionally-added-mandatory-pronouns-all-staff-emails-1
 category: political
 desc: "An easy mistake to make... right?"
-duration: 00:04:01
-length: 241
-datetime: Fri, 19 May 2023 17:25:00 +0000
+duration: 00:04:19
+length: 259
+datetime: Fri, 19 May 2023 20:35:00 +0000
 tags: podcast
 guid: whoops-state-department-says-it-unintentionally-added-mandatory-pronouns-all-staff-emails-0
-order: 2
+order: 0
 ---
 An easy mistake to make... right?
 
