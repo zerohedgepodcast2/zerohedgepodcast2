@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "H2-2023 liquidity &quot;rolling over&quot;..."
-audio: narrow-rally-liquidity-peaks-9
+audio: narrow-rally-liquidity-peaks-10
 category: the-market-ear
 desc: 
 duration: 00:04:08
