@@ -9,7 +9,7 @@ length: 392
 datetime: Fri, 19 May 2023 21:00:00 +0000
 tags: podcast
 guid: you-are-not-alone-anger-building-across-world-0
-order: 1
+order: 0
 ---
 You are not alone if you are tired of watching your government grow increasingly oppressive and corrupt...
 
