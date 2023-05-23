@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Jamie Dimon Warns QT Will Lead To More Bank Failures"
-audio: jamie-dimon-warns-qt-will-lead-more-bank-failures-0
+audio: jamie-dimon-warns-qt-will-lead-more-bank-failures-1
 category: markets
 desc: "&quot;I'm probably more concerned about quantitative tightening with anybody in this room.&quot; - Jamie Dimon"
 duration: 00:04:33
 length: 273
-datetime: Tue, 23 May 2023 03:20:00 +0000
+datetime: Tue, 23 May 2023 09:45:00 +0000
 tags: podcast
 guid: jamie-dimon-warns-qt-will-lead-more-bank-failures-0
-order: 2
+order: 0
 ---
 &quot;I'm probably more concerned about quantitative tightening with anybody in this room.&quot; - Jamie Dimon
 
