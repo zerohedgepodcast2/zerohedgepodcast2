@@ -9,7 +9,7 @@ length: 273
 datetime: Tue, 23 May 2023 03:20:00 +0000
 tags: podcast
 guid: jamie-dimon-warns-qt-will-lead-more-bank-failures-0
-order: 0
+order: 2
 ---
 &quot;I'm probably more concerned about quantitative tightening with anybody in this room.&quot; - Jamie Dimon
 

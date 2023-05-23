@@ -9,7 +9,7 @@ length: 149
 datetime: Mon, 22 May 2023 17:45:00 +0000
 tags: podcast
 guid: zoltan-pozsar-fed-foaming-runway-big-bank-problems-ahead-0
-order: 2
+order: 0
 ---
 &quot;...it's all going to be at the expense of the dollar's share of commodity finance, trade finance, share of reserve assets and so on...&quot;
 
