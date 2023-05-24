@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "DeSantis Officially Files To Run In 2024, Will Launch Presidential Bid On Twitter Spaces"
-audio: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-0
+title: "Trump Slams &quot;Disloyal&quot; DeSantis As FL Gov Officially Launches Presidential Bid"
+audio: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-1
 category: political
 desc: "&quot;America has been worth the fight every single time...&quot;"
-duration: 00:04:16
-length: 256
-datetime: Wed, 24 May 2023 18:41:00 +0000
+duration: 00:06:36
+length: 396
+datetime: Wed, 24 May 2023 20:02:00 +0000
 tags: podcast
 guid: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-0
 order: 0
