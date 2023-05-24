@@ -9,7 +9,7 @@ length: 370
 datetime: Wed, 24 May 2023 01:25:00 +0000
 tags: podcast
 guid: once-again-apparently-unthinkable-becomes-inevitable-0
-order: 0
+order: 1
 ---
 National Security Advisor Sullivan just stated it's okay for Ukraine to use Western missiles to attack Crimea, because that's not part of Russia, and President Biden signed off on F-16s for Kyiv.
 
