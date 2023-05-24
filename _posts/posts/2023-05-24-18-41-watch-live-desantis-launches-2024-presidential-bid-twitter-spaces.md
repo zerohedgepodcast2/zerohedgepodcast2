@@ -9,7 +9,7 @@ length: 256
 datetime: Wed, 24 May 2023 18:41:00 +0000
 tags: podcast
 guid: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-0
-order: 2
+order: 0
 ---
 &quot;America has been worth the fight every single time...&quot;
 
