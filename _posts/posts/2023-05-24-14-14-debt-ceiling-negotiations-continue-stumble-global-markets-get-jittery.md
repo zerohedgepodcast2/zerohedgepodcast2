@@ -9,7 +9,7 @@ length: 292
 datetime: Wed, 24 May 2023 14:14:00 +0000
 tags: podcast
 guid: debt-ceiling-negotiations-continue-stumble-global-markets-get-jittery-0
-order: 2
+order: 0
 ---
 &quot;There is a significant gap between where we are and where they are on finances&quot;
 
