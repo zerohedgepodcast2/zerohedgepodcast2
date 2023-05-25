@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Despite Glitchy Start, DeSantis' Twitter Spaces Launch Showed Why He's A Contender"
-audio: glitchy-twitter-event-desantis-campaign-stumbles-out-gate-0
+audio: glitchy-twitter-event-desantis-campaign-stumbles-out-gate-1
 category: political
 desc: "&quot;I think that there's millions of people that want to move on from Biden. I think they're ripe for us to be able to get,&quot;"
 duration: 00:08:43
 length: 523
-datetime: Thu, 25 May 2023 14:45:00 +0000
+datetime: Thu, 25 May 2023 16:11:00 +0000
 tags: podcast
 guid: glitchy-twitter-event-desantis-campaign-stumbles-out-gate-0
-order: 2
+order: 0
 ---
 &quot;I think that there's millions of people that want to move on from Biden. I think they're ripe for us to be able to get,&quot;
 
