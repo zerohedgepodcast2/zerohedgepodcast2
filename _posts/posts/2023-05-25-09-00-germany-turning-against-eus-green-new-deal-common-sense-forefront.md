@@ -9,7 +9,7 @@ length: 243
 datetime: Thu, 25 May 2023 09:00:00 +0000
 tags: podcast
 guid: germany-turning-against-eus-green-new-deal-common-sense-forefront-0
-order: 1
+order: 0
 ---
 A backlash is coming. It started in France and Germany. The sooner a green backlash starts in the US the better...
 
