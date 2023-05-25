@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Debt Talks Remain Stalled With X-Date Fast Approaching"
-audio: debt-talks-remain-stalled-x-date-fast-approaching-0
+title: "Debt Ceiling Negotiations Favor GOP: Piper"
+audio: debt-talks-remain-stalled-x-date-fast-approaching-1
 category: political
 desc: "This will be a big test..."
-duration: 00:04:27
-length: 267
-datetime: Thu, 25 May 2023 13:30:00 +0000
+duration: 00:05:57
+length: 357
+datetime: Thu, 25 May 2023 19:31:00 +0000
 tags: podcast
 guid: debt-talks-remain-stalled-x-date-fast-approaching-0
 order: 0
