@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Listen: DeSantis Twitter 'Spaces' Presidential Bid Launch With Musk"
+audio: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-2
+category: political
+desc: "&quot;America has been worth the fight every single time...&quot;"
+duration: 00:07:12
+length: 432
+datetime: Wed, 24 May 2023 22:35:00 +0000
+tags: podcast
+guid: watch-live-desantis-launches-2024-presidential-bid-twitter-spaces-0
+order: 0
+---
+&quot;America has been worth the fight every single time...&quot;
+
+Link: [https://www.zerohedge.com/political/watch-live-desantis-launches-2024-presidential-bid-twitter-spaces](https://www.zerohedge.com/political/watch-live-desantis-launches-2024-presidential-bid-twitter-spaces)
+
+About: The Zerohedge Podcast is a non-commercial, automated program, designed to give people a way to get news from Zerohedge in an audio format.  I am actively working on tweaking and improving the setup to create a better listening experience (February 2023).  Suggestions are welcome: [zerohedgePodcast@outlook.com](mailto:zerohedgePodcast@outlook.com)
