@@ -9,7 +9,7 @@ length: 384
 datetime: Fri, 26 May 2023 13:10:00 +0000
 tags: podcast
 guid: breakthrough-debt-deal-would-raise-limit-cap-spending-two-years-will-freedom-caucus-0
-order: 2
+order: 1
 ---
 &quot;Glad the market's closed&quot; on Monday...
 

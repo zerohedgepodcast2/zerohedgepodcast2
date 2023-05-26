@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Fed's Favorite Inflation Indicator Re-Accelerated In April"
-audio: feds-favorite-inflation-indicator-re-accelerated-april-0
+audio: feds-favorite-inflation-indicator-re-accelerated-april-1
 category: personal-finance
 desc: "...this is not good news for 'pause'-hopers."
-duration: 00:01:44
-length: 104
-datetime: Fri, 26 May 2023 12:41:00 +0000
+duration: 00:01:48
+length: 108
+datetime: Fri, 26 May 2023 13:41:00 +0000
 tags: podcast
 guid: feds-favorite-inflation-indicator-re-accelerated-april-0
-order: 1
+order: 0
 ---
 ...this is not good news for 'pause'-hopers.
 
