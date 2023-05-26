@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Backlash &amp; Boycott-Calls Hit North Face After Ad Featuring Drag Queen Inviting Everyone To 'Come Out'"
-audio: north-face-features-drag-queen-inviting-everyone-come-out-receives-backlash-and-boycott-0
+audio: north-face-features-drag-queen-inviting-everyone-come-out-receives-backlash-and-boycott-1
 category: markets
 desc: "&quot;Hi, it's me, Pattie Gonia, a real-life homosexual,&quot; "
 duration: 00:02:38
 length: 158
-datetime: Thu, 25 May 2023 18:45:00 +0000
+datetime: Fri, 26 May 2023 09:48:00 +0000
 tags: podcast
 guid: north-face-features-drag-queen-inviting-everyone-come-out-receives-backlash-and-boycott-0
-order: 1
+order: 0
 ---
 &quot;Hi, it's me, Pattie Gonia, a real-life homosexual,&quot; 
 
