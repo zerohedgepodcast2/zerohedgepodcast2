@@ -9,7 +9,7 @@ length: 111
 datetime: Fri, 26 May 2023 13:50:00 +0000
 tags: podcast
 guid: did-governor-newsom-spark-target-boycott-among-liberals-0
-order: 0
+order: 2
 ---
 &quot;CEO of Target Brian Cornell selling out the LGBTQ+ community to extremists is a real profile in courage...&quot;
 
