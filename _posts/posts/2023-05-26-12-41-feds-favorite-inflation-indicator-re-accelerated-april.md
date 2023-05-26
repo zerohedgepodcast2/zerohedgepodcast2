@@ -9,7 +9,7 @@ length: 104
 datetime: Fri, 26 May 2023 12:41:00 +0000
 tags: podcast
 guid: feds-favorite-inflation-indicator-re-accelerated-april-0
-order: 0
+order: 1
 ---
 ...this is not good news for 'pause'-hopers.
 
