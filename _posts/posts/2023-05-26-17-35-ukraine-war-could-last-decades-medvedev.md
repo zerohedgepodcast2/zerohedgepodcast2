@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Ukraine War Could Last For Decades: Medvedev"
+audio: ukraine-war-could-last-decades-medvedev-0
+category: geopolitical
+desc: "&quot;As long as there is such a power in place, there will be, say, three years of truce, two years of conflict, &amp; everything will be repeated.&quot;"
+duration: 00:02:56
+length: 176
+datetime: Fri, 26 May 2023 17:35:00 +0000
+tags: podcast
+guid: ukraine-war-could-last-decades-medvedev-0
+order: 0
+---
+&quot;As long as there is such a power in place, there will be, say, three years of truce, two years of conflict, &amp; everything will be repeated.&quot;
+
+Link: [https://www.zerohedge.com/geopolitical/ukraine-war-could-last-decades-medvedev](https://www.zerohedge.com/geopolitical/ukraine-war-could-last-decades-medvedev)
+
+About: The Zerohedge Podcast is a non-commercial, automated program, designed to give people a way to get news from Zerohedge in an audio format.  I am actively working on tweaking and improving the setup to create a better listening experience (February 2023).  Suggestions are welcome: [zerohedgePodcast@outlook.com](mailto:zerohedgePodcast@outlook.com)
