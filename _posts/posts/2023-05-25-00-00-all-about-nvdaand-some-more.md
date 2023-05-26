@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "what a day..."
-audio: all-about-nvdaand-some-more-5
+audio: all-about-nvdaand-some-more-6
 category: the-market-ear
 desc: 
 duration: 00:03:02
