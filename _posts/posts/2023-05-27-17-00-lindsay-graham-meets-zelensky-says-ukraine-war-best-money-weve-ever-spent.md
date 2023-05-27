@@ -9,7 +9,7 @@ length: 192
 datetime: Sat, 27 May 2023 17:00:00 +0000
 tags: podcast
 guid: lindsay-graham-meets-zelensky-says-ukraine-war-best-money-weve-ever-spent-0
-order: 0
+order: 1
 ---
 If Graham has his way, the inevitable result would be WWIII...
 
