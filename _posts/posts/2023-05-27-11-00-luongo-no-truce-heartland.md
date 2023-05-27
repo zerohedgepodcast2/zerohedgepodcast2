@@ -9,7 +9,7 @@ length: 617
 datetime: Sat, 27 May 2023 11:00:00 +0000
 tags: podcast
 guid: luongo-no-truce-heartland-0
-order: 0
+order: 1
 ---
 In this singular quest to win the Heartland the West has bankrupted itself - economically, morally, and most importantly, spiritually. This has led to a political crisis gnawing at the center of western society...
 
