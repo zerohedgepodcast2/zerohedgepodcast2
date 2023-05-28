@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "spot up, volatility up kicking in as desperate buyers enter the space..."
-audio: tech-steroids-ai-savior-or-6
+audio: tech-steroids-ai-savior-or-7
 category: the-market-ear
 desc: 
 duration: 00:02:12
