@@ -9,7 +9,7 @@ length: 86
 datetime: Sat, 27 May 2023 19:00:00 +0000
 tags: podcast
 guid: cnn-poll-says-66-americans-believe-another-joe-biden-term-will-lead-disaster-0
-order: 2
+order: 1
 ---
 Even CNN can't dismiss the &quot;horrible news&quot; any longer...
 
