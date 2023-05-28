@@ -9,7 +9,7 @@ length: 201
 datetime: Sun, 28 May 2023 00:56:00 +0000
 tags: podcast
 guid: debt-ceiling-deal-between-white-house-and-gop-reached-principle-0
-order: 2
+order: 0
 ---
 But can it pass through Congress?
 
