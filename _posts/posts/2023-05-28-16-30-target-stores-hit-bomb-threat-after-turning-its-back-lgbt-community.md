@@ -9,7 +9,7 @@ length: 167
 datetime: Sun, 28 May 2023 16:30:00 +0000
 tags: podcast
 guid: target-stores-hit-bomb-threat-after-turning-its-back-lgbt-community-0
-order: 2
+order: 0
 ---
 &quot;We will continue to bomb your Targets until you stop cowering and bring back your LBGT merchandise.&quot; 
 
