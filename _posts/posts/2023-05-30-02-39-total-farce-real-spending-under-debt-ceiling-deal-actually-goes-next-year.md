@@ -9,7 +9,7 @@ length: 373
 datetime: Tue, 30 May 2023 02:39:00 +0000
 tags: podcast
 guid: total-farce-real-spending-under-debt-ceiling-deal-actually-goes-next-year-0
-order: 2
+order: 1
 ---
 The &quot;deal&quot; may result in a nominal 0.1% drop in spending (just for next year, after that it ramps up again), but adjusted for inflation, spending in 2024 will be higher yet again!
 
