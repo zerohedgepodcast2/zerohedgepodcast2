@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "watch spot up, volatility up closely..."
-audio: beyond-parabolic-nyfang-mimics-august-2020-tech-fever-4
+audio: beyond-parabolic-nyfang-mimics-august-2020-tech-fever-5
 category: the-market-ear
 desc: 
 duration: 00:02:40
