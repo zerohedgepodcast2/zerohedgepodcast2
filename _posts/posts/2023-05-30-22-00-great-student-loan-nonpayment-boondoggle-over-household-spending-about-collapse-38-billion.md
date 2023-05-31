@@ -9,7 +9,7 @@ length: 292
 datetime: Tue, 30 May 2023 22:00:00 +0000
 tags: podcast
 guid: great-student-loan-nonpayment-boondoggle-over-household-spending-about-collapse-38-billion-0
-order: 2
+order: 1
 ---
 &quot;The amount of money we are talking about, in excess of a trillion dollars, is staggering. Student loans represent 7% of U.S. GDP&quot;
 
