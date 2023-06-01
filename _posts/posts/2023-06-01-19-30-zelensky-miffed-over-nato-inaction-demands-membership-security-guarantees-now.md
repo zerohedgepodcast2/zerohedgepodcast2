@@ -9,7 +9,7 @@ length: 161
 datetime: Thu, 01 Jun 2023 19:30:00 +0000
 tags: podcast
 guid: zelensky-miffed-over-nato-inaction-demands-membership-security-guarantees-now-0
-order: 0
+order: 1
 ---
 Macron breaks from Western hesitancy, wants to offer &quot;path&quot; to membership...
 

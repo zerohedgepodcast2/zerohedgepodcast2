@@ -9,7 +9,7 @@ length: 92
 datetime: Thu, 01 Jun 2023 13:05:00 +0000
 tags: podcast
 guid: mexican-tv-spots-cartel-wielding-anti-tank-rocket-launcher-border-town-across-texas-0
-order: 1
+order: 0
 ---
 Aren't these weapons supposed to be in Ukraine? 
 
