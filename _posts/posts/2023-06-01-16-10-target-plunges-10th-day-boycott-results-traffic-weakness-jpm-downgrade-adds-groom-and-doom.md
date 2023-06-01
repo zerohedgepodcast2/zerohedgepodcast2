@@ -9,7 +9,7 @@ length: 231
 datetime: Thu, 01 Jun 2023 16:10:00 +0000
 tags: podcast
 guid: target-plunges-10th-day-boycott-results-traffic-weakness-jpm-downgrade-adds-groom-and-doom-0
-order: 0
+order: 2
 ---
 &quot;There is early evidence of some financial impact, with Placer.ai data signaling incremental traffic weakness in the week ended May 28&quot;
 

@@ -9,7 +9,7 @@ length: 313
 datetime: Thu, 01 Jun 2023 13:25:00 +0000
 tags: podcast
 guid: meta-threatens-pull-news-feeds-over-californias-journalism-preservation-act-0
-order: 2
+order: 0
 ---
 &quot;It is disappointing that California lawmakers appear to be prioritizing the best interests of national and international media companies over their own constituents,&quot; 
 
