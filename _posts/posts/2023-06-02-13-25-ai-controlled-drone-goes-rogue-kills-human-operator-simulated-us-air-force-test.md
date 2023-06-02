@@ -9,7 +9,7 @@ length: 317
 datetime: Fri, 02 Jun 2023 13:25:00 +0000
 tags: podcast
 guid: ai-controlled-drone-goes-rogue-kills-human-operator-simulated-us-air-force-test-0
-order: 0
+order: 1
 ---
 &quot;It killed the operator because that person was keeping it from accomplishing its objective...&quot;
 

@@ -9,7 +9,7 @@ length: 426
 datetime: Fri, 02 Jun 2023 12:45:00 +0000
 tags: podcast
 guid: trump-says-officials-lying-about-true-death-toll-ukraine-town-hall-0
-order: 1
+order: 0
 ---
 USA! USA! USA!
 
