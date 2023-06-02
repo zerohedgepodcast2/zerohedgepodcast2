@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Bank Deposits See Biggest 'Seasonal' Inflow In 2 Years, Despite Massive MM Fund &amp; Equity Inflows"
-audio: bank-deposits-see-biggest-inflow-2-years-despite-massive-mm-fund-equity-inflows-0
+title: "Fed Engages In Shocking Seasonal Adjustments To Convert $28BN Bank Deposit Outflow Into $102BN Inflow"
+audio: bank-deposits-see-biggest-inflow-2-years-despite-massive-mm-fund-equity-inflows-1
 category: personal-finance
-desc: "BUT... on a non-seasonally-adjusted basis, all bank cohorts saw OUTFLOWS."
-duration: 00:04:05
-length: 245
-datetime: Fri, 02 Jun 2023 20:40:00 +0000
+desc: "...the piece de resistance of Fed fuckery"
+duration: 00:05:37
+length: 337
+datetime: Fri, 02 Jun 2023 22:40:00 +0000
 tags: podcast
 guid: bank-deposits-see-biggest-inflow-2-years-despite-massive-mm-fund-equity-inflows-0
-order: 1
+order: 0
 ---
-BUT... on a non-seasonally-adjusted basis, all bank cohorts saw OUTFLOWS.
+...the piece de resistance of Fed fuckery
 
 Link: [https://www.zerohedge.com/personal-finance/bank-deposits-see-biggest-inflow-2-years-despite-massive-mm-fund-equity-inflows](https://www.zerohedge.com/personal-finance/bank-deposits-see-biggest-inflow-2-years-despite-massive-mm-fund-equity-inflows)
 
