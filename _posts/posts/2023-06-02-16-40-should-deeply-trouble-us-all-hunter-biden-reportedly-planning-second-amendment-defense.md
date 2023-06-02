@@ -9,7 +9,7 @@ length: 222
 datetime: Fri, 02 Jun 2023 16:40:00 +0000
 tags: podcast
 guid: should-deeply-trouble-us-all-hunter-biden-reportedly-planning-second-amendment-defense-0
-order: 0
+order: 2
 ---
 This is not the first glaring contradiction to arise under the Hunter Biden scandals...
 
