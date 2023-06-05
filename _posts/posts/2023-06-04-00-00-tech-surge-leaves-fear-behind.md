@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "fear the lack of fear?"
-audio: tech-surge-leaves-fear-behind-2
+audio: tech-surge-leaves-fear-behind-3
 category: the-market-ear
 desc: 
 duration: 00:02:46

@@ -9,7 +9,7 @@ length: 386
 datetime: Sun, 04 Jun 2023 20:30:00 +0000
 tags: podcast
 guid: united-states-losing-its-control-ukraine-0
-order: 2
+order: 1
 ---
 Months of American permissiveness and failure to say no to Ukraine at each crossing of a red line has seemingly emboldened Ukraine to ignore US limits &amp; conditions on the use of American-supplied weapons.
 
