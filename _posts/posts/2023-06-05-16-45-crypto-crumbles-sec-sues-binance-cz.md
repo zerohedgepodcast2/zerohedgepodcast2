@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Crypto Crumbles As SEC Sues Binance, 'CZ'"
-audio: crypto-crumbles-sec-sues-binance-cz-0
+title: "&quot;Real Intent Here Appears To Be To Make Headlines&quot; - Binance Responds To SEC, Bitcoin Extends Losses"
+audio: crypto-crumbles-sec-sues-binance-cz-1
 category: crypto
-desc: "...alleging the overseas company operated an illegal exchange in the U.S."
-duration: 00:02:03
-length: 123
-datetime: Mon, 05 Jun 2023 15:35:00 +0000
+desc: "...the SEC's actions undermine America's role as a global hub for financial innovation and leadership"
+duration: 00:05:48
+length: 348
+datetime: Mon, 05 Jun 2023 16:45:00 +0000
 tags: podcast
 guid: crypto-crumbles-sec-sues-binance-cz-0
 order: 0
 ---
-...alleging the overseas company operated an illegal exchange in the U.S.
+...the SEC's actions undermine America's role as a global hub for financial innovation and leadership
 
 Link: [https://www.zerohedge.com/crypto/crypto-crumbles-sec-sues-binance-cz](https://www.zerohedge.com/crypto/crypto-crumbles-sec-sues-binance-cz)
 
