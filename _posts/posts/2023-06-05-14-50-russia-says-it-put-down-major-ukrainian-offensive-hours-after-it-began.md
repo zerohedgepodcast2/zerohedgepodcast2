@@ -9,7 +9,7 @@ length: 255
 datetime: Mon, 05 Jun 2023 14:50:00 +0000
 tags: podcast
 guid: russia-says-it-put-down-major-ukrainian-offensive-hours-after-it-began-0
-order: 0
+order: 1
 ---
 Did Ukraine forces just attempt to kick off their much anticipated major counteroffensive, only to have it immediately thwarted?
 

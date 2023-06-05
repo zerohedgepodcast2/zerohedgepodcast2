@@ -9,7 +9,7 @@ length: 263
 datetime: Mon, 05 Jun 2023 16:10:00 +0000
 tags: podcast
 guid: people-interest-within-government-suppressed-critical-intelligence-j6-0
-order: 1
+order: 2
 ---
 &quot;We do know that the security failure began with an intelligence failure...&quot;
 
