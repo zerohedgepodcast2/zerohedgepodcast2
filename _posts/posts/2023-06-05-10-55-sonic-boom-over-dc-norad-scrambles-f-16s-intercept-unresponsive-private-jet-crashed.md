@@ -9,7 +9,7 @@ length: 159
 datetime: Mon, 05 Jun 2023 10:55:00 +0000
 tags: podcast
 guid: sonic-boom-over-dc-norad-scrambles-f-16s-intercept-unresponsive-private-jet-crashed-0
-order: 2
+order: 1
 ---
 &quot;During this event, the NORAD aircraft also used flares -- which may have been visible to the public...&quot; 
 
