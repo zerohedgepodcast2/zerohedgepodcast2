@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Coinbase Crashes After SEC Sues Crypto Exchange"
-audio: coinbase-crashes-after-sec-sues-crypto-exchange-0
+title: "Coinbase CEO Says SEC Lack Of Clarity Is &quot;Harming America&quot;"
+audio: coinbase-crashes-after-sec-sues-crypto-exchange-1
 category: crypto
-desc: "... alleging the crypto firm broke US securities rules..."
-duration: 00:02:46
-length: 166
-datetime: Tue, 06 Jun 2023 12:20:00 +0000
+desc: "&quot;Instead of publishing a clear rule book, the SEC has taken a regulation by enforcement approach that is harming America...&quot;"
+duration: 00:04:02
+length: 242
+datetime: Tue, 06 Jun 2023 17:00:00 +0000
 tags: podcast
 guid: coinbase-crashes-after-sec-sues-crypto-exchange-0
 order: 0
 ---
-... alleging the crypto firm broke US securities rules...
+&quot;Instead of publishing a clear rule book, the SEC has taken a regulation by enforcement approach that is harming America...&quot;
 
 Link: [https://www.zerohedge.com/crypto/coinbase-crashes-after-sec-sues-crypto-exchange](https://www.zerohedge.com/crypto/coinbase-crashes-after-sec-sues-crypto-exchange)
 
