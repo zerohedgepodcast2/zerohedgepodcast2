@@ -9,7 +9,7 @@ length: 420
 datetime: Tue, 06 Jun 2023 14:20:00 +0000
 tags: podcast
 guid: kievs-long-term-last-resort-plan-blow-kakhova-dam-exposed-0
-order: 2
+order: 1
 ---
 WaPo reported: Ukrainians even conducted a test strike with a HIMARS launcher on one of the floodgates at the Nova Kakhovka dam...
 
