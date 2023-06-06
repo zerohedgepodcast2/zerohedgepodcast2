@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "things are stretched..."
-audio: overbought-tech-needs-pause-7
+audio: overbought-tech-needs-pause-8
 category: the-market-ear
 desc: 
 duration: 00:02:46
