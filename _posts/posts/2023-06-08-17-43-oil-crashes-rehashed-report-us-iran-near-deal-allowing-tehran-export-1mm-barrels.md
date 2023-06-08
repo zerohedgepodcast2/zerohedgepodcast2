@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Oil Crashes On Rehashed Report US, Iran Near Deal Allowing Tehran To Export 1MM bpd For Reduced Uranium Enrichment"
-audio: oil-crashes-rehashed-report-us-iran-near-deal-allowing-tehran-export-1mm-barrels-0
+title: "White House Says Report US, Iran Are Near Deal On Sanctions Relief Is False"
+audio: oil-crashes-rehashed-report-us-iran-near-deal-allowing-tehran-export-1mm-barrels-1
 category: commodities
-desc: "&quot;Tehran would be allowed to export up to a million barrels of oil per day and gain access to its income and other frozen funds abroad.&quot;"
-duration: 00:03:12
-length: 192
-datetime: Thu, 08 Jun 2023 16:09:00 +0000
+desc: "It doesn't matter: whoever wanted to hammer oil lower... mission accomplished."
+duration: 00:04:12
+length: 252
+datetime: Thu, 08 Jun 2023 17:43:00 +0000
 tags: podcast
 guid: oil-crashes-rehashed-report-us-iran-near-deal-allowing-tehran-export-1mm-barrels-0
 order: 0
 ---
-&quot;Tehran would be allowed to export up to a million barrels of oil per day and gain access to its income and other frozen funds abroad.&quot;
+It doesn't matter: whoever wanted to hammer oil lower... mission accomplished.
 
 Link: [https://www.zerohedge.com/commodities/oil-crashes-rehashed-report-us-iran-near-deal-allowing-tehran-export-1mm-barrels](https://www.zerohedge.com/commodities/oil-crashes-rehashed-report-us-iran-near-deal-allowing-tehran-export-1mm-barrels)
 
