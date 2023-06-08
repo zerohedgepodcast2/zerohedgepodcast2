@@ -9,7 +9,7 @@ length: 212
 datetime: Thu, 08 Jun 2023 11:45:00 +0000
 tags: podcast
 guid: trump-notified-hes-target-criminal-investigation-indictment-may-be-imminent-0
-order: 2
+order: 1
 ---
 Trump: &quot;I am a Target of the WEAPONIZED DOJ &amp; FBI&quot;
 
