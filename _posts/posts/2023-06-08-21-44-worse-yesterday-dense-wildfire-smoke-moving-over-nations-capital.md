@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Worse Than Yesterday&quot;: Dense Wildfire Smoke Moving Over Nation's Capital"
-audio: worse-yesterday-dense-wildfire-smoke-moving-over-nations-capital-1
+audio: worse-yesterday-dense-wildfire-smoke-moving-over-nations-capital-2
 category: weather
 desc: "Thanks, Canada! "
 duration: 00:02:58
 length: 178
-datetime: Thu, 08 Jun 2023 15:44:00 +0000
+datetime: Thu, 08 Jun 2023 21:44:00 +0000
 tags: podcast
 guid: worse-yesterday-dense-wildfire-smoke-moving-over-nations-capital-0
-order: 2
+order: 0
 ---
 Thanks, Canada! 
 
