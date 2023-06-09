@@ -9,7 +9,7 @@ length: 185
 datetime: Thu, 08 Jun 2023 23:38:00 +0000
 tags: podcast
 guid: trump-i-have-been-indicted-0
-order: 0
+order: 2
 ---
 &quot;This is indeed a DARK DAY for the United States of America.&quot;
 
