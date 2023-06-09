@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Trump Charges Unsealed: Here's What's In Them"
-audio: trump-charges-unsealed-heres-whats-them-0
+title: "Watch: Special Counsel Jack Smith Makes Statement On Trump Indictment"
+audio: trump-charges-unsealed-heres-whats-them-1
 category: political
-desc: "Special Counsel Jack Smith will hold a press conference at 3pm ET."
-duration: 00:02:33
-length: 153
-datetime: Fri, 09 Jun 2023 17:51:00 +0000
+desc: "38 counts covering seven criminal charges..."
+duration: 00:02:44
+length: 164
+datetime: Fri, 09 Jun 2023 19:05:00 +0000
 tags: podcast
 guid: trump-charges-unsealed-heres-whats-them-0
 order: 2
 ---
-Special Counsel Jack Smith will hold a press conference at 3pm ET.
+38 counts covering seven criminal charges...
 
 Link: [https://www.zerohedge.com/political/trump-charges-unsealed-heres-whats-them](https://www.zerohedge.com/political/trump-charges-unsealed-heres-whats-them)
 
