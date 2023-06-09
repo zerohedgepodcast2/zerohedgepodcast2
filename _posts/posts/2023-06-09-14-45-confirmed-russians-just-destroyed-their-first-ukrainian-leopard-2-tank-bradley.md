@@ -9,7 +9,7 @@ length: 181
 datetime: Fri, 09 Jun 2023 14:45:00 +0000
 tags: podcast
 guid: confirmed-russians-just-destroyed-their-first-ukrainian-leopard-2-tank-bradley-0
-order: 2
+order: 0
 ---
 NATO-supplied heavy armored deployed in counteroffensive...
 
