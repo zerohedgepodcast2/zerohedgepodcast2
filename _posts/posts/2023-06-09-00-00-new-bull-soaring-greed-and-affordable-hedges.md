@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "got straddles...?"
-audio: new-bull-soaring-greed-and-affordable-hedges-4
+audio: new-bull-soaring-greed-and-affordable-hedges-5
 category: the-market-ear
 desc: 
 duration: 00:02:19
