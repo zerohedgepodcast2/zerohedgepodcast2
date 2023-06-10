@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch: Special Counsel Jack Smith Makes Statement On Trump Indictment"
-audio: trump-charges-unsealed-heres-whats-them-1
+title: "&quot;This Is Crazy!&quot;: Trump Rages After Indictment Unsealed"
+audio: trump-charges-unsealed-heres-whats-them-2
 category: political
-desc: "38 counts covering seven criminal charges..."
-duration: 00:02:44
-length: 164
-datetime: Fri, 09 Jun 2023 19:05:00 +0000
+desc: "McCarthy calls a 'dark day...'"
+duration: 00:04:46
+length: 286
+datetime: Sat, 10 Jun 2023 11:05:00 +0000
 tags: podcast
 guid: trump-charges-unsealed-heres-whats-them-0
-order: 2
+order: 0
 ---
-38 counts covering seven criminal charges...
+McCarthy calls a 'dark day...'
 
 Link: [https://www.zerohedge.com/political/trump-charges-unsealed-heres-whats-them](https://www.zerohedge.com/political/trump-charges-unsealed-heres-whats-them)
 

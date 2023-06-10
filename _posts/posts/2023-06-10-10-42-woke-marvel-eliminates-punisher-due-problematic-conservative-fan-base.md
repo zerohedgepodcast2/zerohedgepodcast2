@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Woke Marvel Eliminates The Punisher Due To &quot;Problematic&quot; Conservative Fan Base"
-audio: woke-marvel-eliminates-punisher-due-problematic-conservative-fan-base-0
+audio: woke-marvel-eliminates-punisher-due-problematic-conservative-fan-base-1
 category: political
 desc: "Marvel even brings the Punisher's wife back from the dead, only so that she can divorce him and take his money and property..."
 duration: 00:04:59
 length: 299
-datetime: Fri, 09 Jun 2023 12:45:00 +0000
+datetime: Sat, 10 Jun 2023 10:42:00 +0000
 tags: podcast
 guid: woke-marvel-eliminates-punisher-due-problematic-conservative-fan-base-0
-order: 1
+order: 0
 ---
 Marvel even brings the Punisher's wife back from the dead, only so that she can divorce him and take his money and property...
 
