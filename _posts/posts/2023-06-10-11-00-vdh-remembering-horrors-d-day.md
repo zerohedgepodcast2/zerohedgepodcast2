@@ -9,7 +9,7 @@ length: 281
 datetime: Sat, 10 Jun 2023 11:00:00 +0000
 tags: podcast
 guid: vdh-remembering-horrors-d-day-0
-order: 0
+order: 2
 ---
 The men at Omaha did not believe America had to be perfect to be good - just far better than the alternative...
 

@@ -9,7 +9,7 @@ length: 248
 datetime: Fri, 09 Jun 2023 22:40:00 +0000
 tags: podcast
 guid: california-advances-bill-help-shoplifters-steal-0
-order: 0
+order: 1
 ---
 Four women were caught on video running out of a San Francisco CVS with their bags allegedly stuffed full of stolen items.
 
