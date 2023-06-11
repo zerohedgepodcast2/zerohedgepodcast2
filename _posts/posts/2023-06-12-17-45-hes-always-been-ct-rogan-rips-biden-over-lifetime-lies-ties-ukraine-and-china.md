@@ -9,7 +9,7 @@ length: 154
 datetime: Mon, 12 Jun 2023 17:45:00 +0000
 tags: podcast
 guid: hes-always-been-ct-rogan-rips-biden-over-lifetime-lies-ties-ukraine-and-china-0
-order: 0
+order: 2
 ---
 &quot;If that guy was a Republican, they would be up his a-- with a microscope...&quot;
 
