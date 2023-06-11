@@ -9,7 +9,7 @@ length: 221
 datetime: Mon, 12 Jun 2023 12:11:00 +0000
 tags: podcast
 guid: jpmorgan-agrees-settle-epstein-victim-0
-order: 2
+order: 1
 ---
 &quot;...in the best interests of all parties, especially the survivors who were the victims of Epstein's terrible abuse,...&quot;
 
