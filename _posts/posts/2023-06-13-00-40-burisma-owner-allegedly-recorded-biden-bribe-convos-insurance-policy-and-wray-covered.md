@@ -9,7 +9,7 @@ length: 203
 datetime: Tue, 13 Jun 2023 00:40:00 +0000
 tags: podcast
 guid: burisma-owner-allegedly-recorded-biden-bribe-convos-insurance-policy-and-wray-covered-0
-order: 0
+order: 2
 ---
 &quot;What is U.S. Attorney Weiss doing with respect to these alleged Joe and Hunter Biden recordings that are apparently relevant to the high-stakes bribery scheme?&quot;
 
