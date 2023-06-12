@@ -9,7 +9,7 @@ length: 247
 datetime: Tue, 13 Jun 2023 12:45:00 +0000
 tags: podcast
 guid: cpi-tumbles-2-year-lows-goods-prices-reaccelerate-0
-order: 0
+order: 2
 ---
 ...gasoline declines but shelter costs and used car prices jump...
 
