@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Crowds Gather In Miami Ahead Of Trump Arraignment In Classified Docs Case"
-audio: trump-be-arraigned-miami-classified-documents-case-0
+title: "Trump Makes Way To Courthouse For Arraignment In Classified Docs Case"
+audio: trump-be-arraigned-miami-classified-documents-case-1
 category: political
 desc: "He faces 400 years in prison if convicted on all charges..."
-duration: 00:02:13
-length: 133
-datetime: Tue, 13 Jun 2023 15:00:00 +0000
+duration: 00:02:36
+length: 156
+datetime: Tue, 13 Jun 2023 17:34:00 +0000
 tags: podcast
 guid: trump-be-arraigned-miami-classified-documents-case-0
 order: 0
