@@ -9,7 +9,7 @@ length: 78
 datetime: Tue, 13 Jun 2023 22:44:00 +0000
 tags: podcast
 guid: tucker-carlson-talks-trumps-indictment-americas-principles-are-stake-0
-order: 0
+order: 2
 ---
 &quot;...anybody who's been paying attention knew this was coming...&quot;
 
