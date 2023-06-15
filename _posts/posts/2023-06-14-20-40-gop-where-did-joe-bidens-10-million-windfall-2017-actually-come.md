@@ -9,7 +9,7 @@ length: 270
 datetime: Wed, 14 Jun 2023 20:40:00 +0000
 tags: podcast
 guid: gop-where-did-joe-bidens-10-million-windfall-2017-actually-come-0
-order: 2
+order: 1
 ---
 &quot;The Bidens worked with the &quot;spy chief of China,&quot; brokered a $9 billion deal for Vladimir Putin, and got paid millions to spread China's Belt and Road...&quot;
 

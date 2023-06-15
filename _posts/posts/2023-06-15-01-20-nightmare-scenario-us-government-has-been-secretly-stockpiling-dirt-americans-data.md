@@ -9,7 +9,7 @@ length: 286
 datetime: Thu, 15 Jun 2023 01:20:00 +0000
 tags: podcast
 guid: nightmare-scenario-us-government-has-been-secretly-stockpiling-dirt-americans-data-0
-order: 0
+order: 2
 ---
 &quot;The government believes it can &quot;persistently&quot; track the phones of &quot;millions of Americans&quot; without a warrant...&quot;
 

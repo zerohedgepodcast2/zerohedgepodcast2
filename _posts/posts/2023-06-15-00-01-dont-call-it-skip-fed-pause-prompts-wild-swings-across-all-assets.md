@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Don't Call It A Skip&quot; - Fed 'Pause' Prompts Wild Swings Across All Assets"
-audio: dont-call-it-skip-fed-pause-prompts-wild-swings-across-all-assets-0
+audio: dont-call-it-skip-fed-pause-prompts-wild-swings-across-all-assets-1
 category: markets
 desc: "&quot;There's just not a lot of progress in core inflation...&quot;"
 duration: 00:03:20
 length: 200
-datetime: Wed, 14 Jun 2023 20:01:00 +0000
+datetime: Thu, 15 Jun 2023 00:01:00 +0000
 tags: podcast
 guid: dont-call-it-skip-fed-pause-prompts-wild-swings-across-all-assets-0
-order: 1
+order: 0
 ---
 &quot;There's just not a lot of progress in core inflation...&quot;
 
