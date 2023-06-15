@@ -9,7 +9,7 @@ length: 102
 datetime: Thu, 15 Jun 2023 16:05:00 +0000
 tags: podcast
 guid: home-depot-capitalizes-tiny-home-craze-44000-gateway-pad-0
-order: 0
+order: 1
 ---
 Escape the inflation storm with a tiny house. 
 
