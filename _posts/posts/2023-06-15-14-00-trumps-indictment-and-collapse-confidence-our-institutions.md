@@ -9,7 +9,7 @@ length: 489
 datetime: Thu, 15 Jun 2023 14:00:00 +0000
 tags: podcast
 guid: trumps-indictment-and-collapse-confidence-our-institutions-0
-order: 0
+order: 1
 ---
 The stench covers both sides...
 
