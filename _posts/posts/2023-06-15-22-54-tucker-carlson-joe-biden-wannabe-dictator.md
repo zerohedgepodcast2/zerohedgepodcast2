@@ -9,7 +9,7 @@ length: 805
 datetime: Thu, 15 Jun 2023 22:54:00 +0000
 tags: podcast
 guid: tucker-carlson-joe-biden-wannabe-dictator-0
-order: 2
+order: 1
 ---
 &quot;Democrats were very very angry... but why were they angry? If the banner was false, why the hysteria? Lies don't seem to bother anyone anymore...&quot;
 
