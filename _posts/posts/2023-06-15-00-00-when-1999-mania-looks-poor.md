@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "not enough stocks to buy....?"
-audio: when-1999-mania-looks-poor-9
+audio: when-1999-mania-looks-poor-10
 category: the-market-ear
 desc: 
 duration: 00:03:11
