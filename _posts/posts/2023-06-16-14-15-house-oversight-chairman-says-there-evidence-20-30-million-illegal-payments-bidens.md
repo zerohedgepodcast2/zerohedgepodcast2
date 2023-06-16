@@ -9,7 +9,7 @@ length: 157
 datetime: Fri, 16 Jun 2023 14:15:00 +0000
 tags: podcast
 guid: house-oversight-chairman-says-there-evidence-20-30-million-illegal-payments-bidens-0
-order: 0
+order: 2
 ---
 &quot;I can assure you: there is more money that we're going to be able to identify&quot;
 
