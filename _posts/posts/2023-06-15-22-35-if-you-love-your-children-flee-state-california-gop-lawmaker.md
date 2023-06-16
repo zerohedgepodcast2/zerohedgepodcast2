@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'If You Love Your Children, Flee The State': California GOP Lawmaker"
-audio: if-you-love-your-children-flee-state-california-gop-lawmaker-0
+audio: if-you-love-your-children-flee-state-california-gop-lawmaker-1
 category: political
 desc: "&quot;After 11 years, I've come to the conclusion that we need to start protecting parents...&quot;"
 duration: 00:02:15
 length: 135
-datetime: Thu, 15 Jun 2023 18:35:00 +0000
+datetime: Thu, 15 Jun 2023 22:35:00 +0000
 tags: podcast
 guid: if-you-love-your-children-flee-state-california-gop-lawmaker-0
-order: 2
+order: 0
 ---
 &quot;After 11 years, I've come to the conclusion that we need to start protecting parents...&quot;
 
