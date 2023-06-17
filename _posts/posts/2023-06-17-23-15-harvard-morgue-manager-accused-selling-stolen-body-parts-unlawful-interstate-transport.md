@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Harvard Morgue Manager Accused Of Selling Stolen Body Parts In 'Unlawful Interstate Transport' Scheme"
-audio: harvard-morgue-manager-accused-selling-stolen-body-parts-unlawful-interstate-transport-0
+title: "Body Parts From Harvard Morgue Had Buyers With Ties To Facebook Oddities Group  "
+audio: harvard-morgue-manager-accused-selling-stolen-body-parts-unlawful-interstate-transport-1
 category: markets
-desc: "&quot;Some crimes defy understanding.&quot; "
-duration: 00:02:00
-length: 120
-datetime: Fri, 16 Jun 2023 01:00:00 +0000
+desc: "&quot;Just out of curiosity, would you know anyone in the market for a fully intact embalmed brain?&quot;"
+duration: 00:03:40
+length: 220
+datetime: Sat, 17 Jun 2023 23:15:00 +0000
 tags: podcast
 guid: harvard-morgue-manager-accused-selling-stolen-body-parts-unlawful-interstate-transport-0
 order: 0
 ---
-&quot;Some crimes defy understanding.&quot; 
+&quot;Just out of curiosity, would you know anyone in the market for a fully intact embalmed brain?&quot;
 
 Link: [https://www.zerohedge.com/markets/harvard-morgue-manager-accused-selling-stolen-body-parts-unlawful-interstate-transport](https://www.zerohedge.com/markets/harvard-morgue-manager-accused-selling-stolen-body-parts-unlawful-interstate-transport)
 
