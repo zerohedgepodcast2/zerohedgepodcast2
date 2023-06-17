@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Restart Of Student Loan Payments To Slash Household Spending By $15.8 Billion Every Month"
-audio: restart-student-loan-payments-slash-household-spending-158-billion-every-month-0
+audio: restart-student-loan-payments-slash-household-spending-158-billion-every-month-1
 category: economics
 desc: "This represents an ~8% headwind to monthly personal income, affecting 16% of the US population, adding pressure to are consumer discretionary spending."
 duration: 00:05:59
 length: 359
-datetime: Fri, 16 Jun 2023 10:55:00 +0000
+datetime: Fri, 16 Jun 2023 20:51:00 +0000
 tags: podcast
 guid: restart-student-loan-payments-slash-household-spending-158-billion-every-month-0
 order: 0
