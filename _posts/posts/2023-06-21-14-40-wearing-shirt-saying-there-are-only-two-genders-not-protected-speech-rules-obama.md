@@ -9,7 +9,7 @@ length: 326
 datetime: Wed, 21 Jun 2023 14:40:00 +0000
 tags: podcast
 guid: wearing-shirt-saying-there-are-only-two-genders-not-protected-speech-rules-obama-0
-order: 0
+order: 1
 ---
 The school &quot;permissibly concluded that the Shirt invades the rights of others,&quot;
 
