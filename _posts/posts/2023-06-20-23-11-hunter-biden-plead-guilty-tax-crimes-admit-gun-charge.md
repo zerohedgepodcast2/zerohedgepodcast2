@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Hunter Biden To Plead Guilty To Tax Crimes, Admit To Gun Charge"
-audio: hunter-biden-plead-guilty-tax-crimes-admit-gun-charge-0
+title: "&quot;Election Interference!&quot;: Trump Rages, Comer Condemns Hunter Biden's &quot;Slap On The Wrist&quot; Misdemeanor Deal"
+audio: hunter-biden-plead-guilty-tax-crimes-admit-gun-charge-1
 category: political
-desc: "The wrist-slap heard 'round the world..."
-duration: 00:05:16
-length: 316
-datetime: Tue, 20 Jun 2023 13:31:00 +0000
+desc: "&quot;No crime, no case...&quot;"
+duration: 00:07:25
+length: 445
+datetime: Tue, 20 Jun 2023 23:11:00 +0000
 tags: podcast
 guid: hunter-biden-plead-guilty-tax-crimes-admit-gun-charge-0
-order: 1
+order: 0
 ---
-The wrist-slap heard 'round the world...
+&quot;No crime, no case...&quot;
 
 Link: [https://www.zerohedge.com/political/hunter-biden-plead-guilty-tax-crimes-admit-gun-charge](https://www.zerohedge.com/political/hunter-biden-plead-guilty-tax-crimes-admit-gun-charge)
 

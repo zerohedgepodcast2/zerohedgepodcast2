@@ -9,7 +9,7 @@ length: 208
 datetime: Tue, 20 Jun 2023 19:09:00 +0000
 tags: podcast
 guid: tucker-carlson-savages-bidens-over-hunters-slap-wrist-tax-gun-crimes-0
-order: 2
+order: 1
 ---
 &quot;As in most of the developing world, it's safer to be the president's son than his opponent...&quot;
 

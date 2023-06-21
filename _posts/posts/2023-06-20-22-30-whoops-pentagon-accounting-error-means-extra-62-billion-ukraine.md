@@ -9,7 +9,7 @@ length: 115
 datetime: Tue, 20 Jun 2023 22:30:00 +0000
 tags: podcast
 guid: whoops-pentagon-accounting-error-means-extra-62-billion-ukraine-0
-order: 0
+order: 2
 ---
 As a result, the department now has additional money in its coffers to use to support Ukraine
 
