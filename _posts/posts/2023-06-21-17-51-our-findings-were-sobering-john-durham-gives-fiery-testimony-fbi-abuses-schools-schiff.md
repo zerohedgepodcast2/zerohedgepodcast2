@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Our Findings Were Sobering&quot;: John Durham Gives Fiery Testimony On FBI Abuses, Schools Schiff"
-audio: our-findings-were-sobering-john-durham-gives-fiery-testimony-fbi-abuses-schools-schiff-0
+title: "Durham Goes Off On FBI, CIA, Schiff During Wednesday Testimony"
+audio: our-findings-were-sobering-john-durham-gives-fiery-testimony-fbi-abuses-schools-schiff-1
 category: markets
-desc: "And Taibbi has five questions..."
-duration: 00:03:18
-length: 198
-datetime: Wed, 21 Jun 2023 15:40:00 +0000
+desc: "Schiff-kebab..."
+duration: 00:05:06
+length: 306
+datetime: Wed, 21 Jun 2023 17:51:00 +0000
 tags: podcast
 guid: our-findings-were-sobering-john-durham-gives-fiery-testimony-fbi-abuses-schools-schiff-0
-order: 2
+order: 1
 ---
-And Taibbi has five questions...
+Schiff-kebab...
 
 Link: [https://www.zerohedge.com/markets/our-findings-were-sobering-john-durham-gives-fiery-testimony-fbi-abuses-schools-schiff](https://www.zerohedge.com/markets/our-findings-were-sobering-john-durham-gives-fiery-testimony-fbi-abuses-schools-schiff)
 
