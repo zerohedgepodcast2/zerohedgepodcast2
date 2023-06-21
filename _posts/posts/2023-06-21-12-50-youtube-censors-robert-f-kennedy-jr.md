@@ -9,7 +9,7 @@ length: 338
 datetime: Wed, 21 Jun 2023 12:50:00 +0000
 tags: podcast
 guid: youtube-censors-robert-f-kennedy-jr-0
-order: 2
+order: 0
 ---
 YouTube will not allow users to hear what it considers harmful thoughts...
 
