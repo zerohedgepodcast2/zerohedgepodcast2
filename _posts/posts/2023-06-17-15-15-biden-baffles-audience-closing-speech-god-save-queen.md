@@ -9,7 +9,7 @@ length: 297
 datetime: Sat, 17 Jun 2023 15:15:00 +0000
 tags: podcast
 guid: biden-baffles-audience-closing-speech-god-save-queen-0
-order: 1
+order: 0
 ---
 ...and that wasn't the nuttiest thing he said Friday
 
