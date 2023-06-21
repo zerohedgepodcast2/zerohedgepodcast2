@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&quot;Long Way To Go&quot; - Powell Maintains 'Hawkish' Line In Prepared Remarks"
-audio: long-way-go-powell-maintains-hawkish-line-prepared-remarks-0
+title: "Watch Live: Fed Chair Powell Tells Congress &quot;Long Way To Go&quot; In Inflation Fight"
+audio: long-way-go-powell-maintains-hawkish-line-prepared-remarks-1
 category: markets
 desc: "&quot;[I]nflation pressures continue to run high, and the process of getting inflation back down to 2 percent has a long way to go,&quot; "
-duration: 00:07:01
-length: 421
-datetime: Wed, 21 Jun 2023 12:39:00 +0000
+duration: 00:07:13
+length: 433
+datetime: Wed, 21 Jun 2023 13:50:00 +0000
 tags: podcast
 guid: long-way-go-powell-maintains-hawkish-line-prepared-remarks-0
 order: 0

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "positioning has gotten much fuller..."
-audio: too-much-too-fast-0-5
+audio: too-much-too-fast-0-6
 category: the-market-ear
 desc: 
 duration: 00:01:59
