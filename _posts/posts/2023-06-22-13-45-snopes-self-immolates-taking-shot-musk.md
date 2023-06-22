@@ -9,7 +9,7 @@ length: 212
 datetime: Thu, 22 Jun 2023 13:45:00 +0000
 tags: podcast
 guid: snopes-self-immolates-taking-shot-musk-0
-order: 2
+order: 1
 ---
 Fact check: BTFO
 
