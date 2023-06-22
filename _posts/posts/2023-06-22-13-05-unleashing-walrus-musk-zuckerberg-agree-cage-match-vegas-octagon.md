@@ -9,7 +9,7 @@ length: 134
 datetime: Thu, 22 Jun 2023 13:05:00 +0000
 tags: podcast
 guid: unleashing-walrus-musk-zuckerberg-agree-cage-match-vegas-octagon-0
-order: 0
+order: 1
 ---
 Just remember, the first rule of billionaire fight club is you don't talk about billionaire fight club...
 
