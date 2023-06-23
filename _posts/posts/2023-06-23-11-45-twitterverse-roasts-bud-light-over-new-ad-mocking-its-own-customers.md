@@ -9,7 +9,7 @@ length: 296
 datetime: Fri, 23 Jun 2023 11:45:00 +0000
 tags: podcast
 guid: twitterverse-roasts-bud-light-over-new-ad-mocking-its-own-customers-0
-order: 2
+order: 0
 ---
 Maimed brand breaks two-month Twitter silence after posting another record weekly sales drop
 
