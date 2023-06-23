@@ -9,7 +9,7 @@ length: 135
 datetime: Fri, 23 Jun 2023 02:00:00 +0000
 tags: podcast
 guid: half-russias-strategic-missile-units-have-been-rearmed-hypersonics-putin-0
-order: 0
+order: 2
 ---
 Says that the new super-heavy ICBM Sarmat missile will soon be deployed...
 
