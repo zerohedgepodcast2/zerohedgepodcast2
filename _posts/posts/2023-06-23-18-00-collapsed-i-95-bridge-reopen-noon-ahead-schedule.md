@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Collapsed I-95 Bridge To Reopen At Noon, Ahead Of Schedule "
-audio: collapsed-i-95-bridge-reopen-noon-ahead-schedule-0
+title: "Pennsylvania Gov. Shapiro: &quot;We Reopened I-95 In 12 Days&quot;"
+audio: collapsed-i-95-bridge-reopen-noon-ahead-schedule-1
 category: markets
-desc: "Record time?"
-duration: 00:01:38
-length: 98
-datetime: Fri, 23 Jun 2023 15:40:00 +0000
+desc: "&quot;All thanks to the hard work of our extraordinary tradesmen and women and our all-hands-on-deck approach.' "
+duration: 00:02:13
+length: 133
+datetime: Fri, 23 Jun 2023 18:00:00 +0000
 tags: podcast
 guid: collapsed-i-95-bridge-reopen-noon-ahead-schedule-0
 order: 0
 ---
-Record time?
+&quot;All thanks to the hard work of our extraordinary tradesmen and women and our all-hands-on-deck approach.' 
 
 Link: [https://www.zerohedge.com/markets/collapsed-i-95-bridge-reopen-noon-ahead-schedule](https://www.zerohedge.com/markets/collapsed-i-95-bridge-reopen-noon-ahead-schedule)
 
