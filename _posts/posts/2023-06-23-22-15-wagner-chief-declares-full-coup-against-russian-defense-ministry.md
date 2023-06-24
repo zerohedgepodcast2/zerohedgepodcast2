@@ -9,7 +9,7 @@ length: 475
 datetime: Fri, 23 Jun 2023 22:15:00 +0000
 tags: podcast
 guid: wagner-chief-declares-full-coup-against-russian-defense-ministry-0
-order: 1
+order: 0
 ---
 The FSB has urged Wagner forces to no longer follow Prigozhin's orders.
 
