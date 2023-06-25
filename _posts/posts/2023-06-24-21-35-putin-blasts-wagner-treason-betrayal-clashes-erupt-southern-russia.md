@@ -9,7 +9,7 @@ length: 1164
 datetime: Sat, 24 Jun 2023 21:35:00 +0000
 tags: podcast
 guid: putin-blasts-wagner-treason-betrayal-clashes-erupt-southern-russia-0
-order: 2
+order: 0
 ---
 Confirmed: Wagner has handed military HQ in Rostov-on-Don back to regular command...   
 
