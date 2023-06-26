@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "US Intelligence Knew Of Wagner Plot Days In Advance, Briefed Congress"
-audio: us-intelligence-knew-days-advance-wagner-rebellion-briefed-congress-0
+audio: us-intelligence-knew-days-advance-wagner-rebellion-briefed-congress-1
 category: geopolitical
 desc: "Biden admin says short-lived rebellion shows &quot;real cracks&quot; in Putin's government..."
 duration: 00:05:30
 length: 330
-datetime: Sun, 25 Jun 2023 19:00:00 +0000
+datetime: Mon, 26 Jun 2023 09:44:00 +0000
 tags: podcast
 guid: us-intelligence-knew-days-advance-wagner-rebellion-briefed-congress-0
-order: 2
+order: 0
 ---
 Biden admin says short-lived rebellion shows &quot;real cracks&quot; in Putin's government...
 
