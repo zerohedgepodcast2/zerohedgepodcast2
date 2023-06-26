@@ -9,7 +9,7 @@ length: 364
 datetime: Sun, 25 Jun 2023 00:00:00 +0000
 tags: podcast
 guid: blatant-political-corruption-rot-americas-democracy-explained-under-1000-words-0
-order: 2
+order: 1
 ---
 &quot;At the time Trump was being impeached for asking Ukraine to investigate Biden's alleged corruption in Ukraine, the FBI &amp; IRS already knew the Bidens had indeed laundered more than $10 million from Burisma...&quot;
 
