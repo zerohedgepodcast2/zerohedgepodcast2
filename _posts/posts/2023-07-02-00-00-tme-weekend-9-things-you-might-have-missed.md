@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "even this thing is working in favor of the bull..."
-audio: tme-weekend-9-things-you-might-have-missed-6
+audio: tme-weekend-9-things-you-might-have-missed-7
 category: the-market-ear
 desc: 
 duration: 00:01:42
