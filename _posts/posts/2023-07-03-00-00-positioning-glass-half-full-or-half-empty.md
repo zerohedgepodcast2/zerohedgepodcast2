@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Morgan Stanley cannot see where any equities for sale would come from in the short term...."
-audio: positioning-glass-half-full-or-half-empty-10
+audio: positioning-glass-half-full-or-half-empty-1
 category: the-market-ear
 desc: 
 duration: 00:03:26
