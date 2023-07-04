@@ -9,7 +9,7 @@ length: 391
 datetime: Tue, 04 Jul 2023 13:05:00 +0000
 tags: podcast
 guid: happy-insurrection-day-0
-order: 2
+order: 0
 ---
 Today, the prevailing opinion seems to be rooted in resignation. Americans spend more time asking government for permission than they do resisting...
 

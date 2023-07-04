@@ -9,7 +9,7 @@ length: 570
 datetime: Tue, 04 Jul 2023 01:00:00 +0000
 tags: podcast
 guid: bidens-existential-threats-american-rule-law-vdh-0
-order: 1
+order: 0
 ---
 This will not, cannot, must not stand...
 
