@@ -9,7 +9,7 @@ length: 235
 datetime: Wed, 05 Jul 2023 09:45:00 +0000
 tags: podcast
 guid: secret-service-investigating-how-cocaine-got-white-house-0
-order: 1
+order: 0
 ---
 Cocaine hydrochloride can be used as an anesthetic or to control bleeding, but it is also considered to have effects similar to crack cocaine.
 
