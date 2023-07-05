@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "fireworks in terms of sentiment and positioning..."
-audio: its-deja-vu-all-over-again-8
+audio: its-deja-vu-all-over-again-9
 category: the-market-ear
 desc: 
 duration: 00:01:15
