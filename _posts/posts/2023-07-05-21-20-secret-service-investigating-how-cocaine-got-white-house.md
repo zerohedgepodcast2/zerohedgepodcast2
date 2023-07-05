@@ -9,7 +9,7 @@ length: 433
 datetime: Wed, 05 Jul 2023 21:20:00 +0000
 tags: podcast
 guid: secret-service-investigating-how-cocaine-got-white-house-0
-order: 0
+order: 2
 ---
 &quot;The president thinks this is incredibly important to get to the bottom of&quot;
 
