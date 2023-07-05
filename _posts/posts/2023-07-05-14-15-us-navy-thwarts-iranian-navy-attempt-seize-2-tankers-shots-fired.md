@@ -9,7 +9,7 @@ length: 142
 datetime: Wed, 05 Jul 2023 14:15:00 +0000
 tags: podcast
 guid: us-navy-thwarts-iranian-navy-attempt-seize-2-tankers-shots-fired-0
-order: 2
+order: 1
 ---
 Latest incident happened near the Strait of Hormuz...
 

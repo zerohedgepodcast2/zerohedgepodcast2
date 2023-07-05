@@ -9,7 +9,7 @@ length: 277
 datetime: Wed, 05 Jul 2023 10:55:00 +0000
 tags: podcast
 guid: judge-bars-biden-officials-agencies-contacting-social-media-companies-0
-order: 1
+order: 0
 ---
 Censorship regime &quot;arguably the most massive attack against free speech in United States history&quot;
 
