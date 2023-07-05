@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Secret Service Investigating How Cocaine Got In The White House"
-audio: secret-service-investigating-how-cocaine-got-white-house-1
+title: "Secret Service Confirms Cocaine Was Found In West Wing Phone Cubby Hours After Hunter Biden Visit"
+audio: secret-service-investigating-how-cocaine-got-white-house-2
 category: markets
-desc: "Cocaine hydrochloride can be used as an anesthetic or to control bleeding, but it is also considered to have effects similar to crack cocaine."
-duration: 00:03:55
-length: 235
-datetime: Wed, 05 Jul 2023 09:45:00 +0000
+desc: "&quot;The president thinks this is incredibly important to get to the bottom of&quot;"
+duration: 00:07:13
+length: 433
+datetime: Wed, 05 Jul 2023 21:20:00 +0000
 tags: podcast
 guid: secret-service-investigating-how-cocaine-got-white-house-0
 order: 0
 ---
-Cocaine hydrochloride can be used as an anesthetic or to control bleeding, but it is also considered to have effects similar to crack cocaine.
+&quot;The president thinks this is incredibly important to get to the bottom of&quot;
 
 Link: [https://www.zerohedge.com/markets/secret-service-investigating-how-cocaine-got-white-house](https://www.zerohedge.com/markets/secret-service-investigating-how-cocaine-got-white-house)
 

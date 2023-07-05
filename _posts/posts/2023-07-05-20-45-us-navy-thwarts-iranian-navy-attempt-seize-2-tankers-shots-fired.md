@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "US Navy Thwarts Iranian Attempt To Seize 2 Oil Tankers, Shots Fired"
-audio: us-navy-thwarts-iranian-navy-attempt-seize-2-tankers-shots-fired-0
+title: "US Navy Thwarts Iranian Attempt To Seize 2 Oil Tankers After Shots Fired"
+audio: us-navy-thwarts-iranian-navy-attempt-seize-2-tankers-shots-fired-1
 category: geopolitical
 desc: "Latest incident happened near the Strait of Hormuz..."
 duration: 00:02:22
 length: 142
-datetime: Wed, 05 Jul 2023 14:15:00 +0000
+datetime: Wed, 05 Jul 2023 20:45:00 +0000
 tags: podcast
 guid: us-navy-thwarts-iranian-navy-attempt-seize-2-tankers-shots-fired-0
-order: 1
+order: 0
 ---
 Latest incident happened near the Strait of Hormuz...
 
