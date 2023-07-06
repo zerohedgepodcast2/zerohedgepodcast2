@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Futures Slide As Rising Yields Spook Markets"
-audio: futures-slide-rising-yields-spook-markets-0
+audio: futures-slide-rising-yields-spook-markets-1
 category: markets
 desc: "&quot;What we get now is that the Fed expects to cause a recession but that won't stop them hiking at least twice more this year. If that's not bad for risk assets priced at 20 times earnings, I don't know what is.&quot;"
 duration: 00:28:18
 length: 1698
-datetime: Thu, 06 Jul 2023 12:37:00 +0000
+datetime: Thu, 06 Jul 2023 12:29:00 +0000
 tags: podcast
 guid: futures-slide-rising-yields-spook-markets-0
 order: 0

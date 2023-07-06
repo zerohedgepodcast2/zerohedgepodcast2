@@ -9,7 +9,7 @@ length: 86
 datetime: Thu, 06 Jul 2023 11:45:00 +0000
 tags: podcast
 guid: something-just-snapped-consumers-panic-search-pawn-shop-near-me-0
-order: 0
+order: 1
 ---
 This can't be good. 
 

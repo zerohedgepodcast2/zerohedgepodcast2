@@ -9,7 +9,7 @@ length: 195
 datetime: Thu, 06 Jul 2023 12:05:00 +0000
 tags: podcast
 guid: watchdog-group-warns-universities-lawsuits-if-they-fail-observe-supreme-court-affirmative-0
-order: 0
+order: 2
 ---
 &quot;You are hereby warned...&quot;
 
