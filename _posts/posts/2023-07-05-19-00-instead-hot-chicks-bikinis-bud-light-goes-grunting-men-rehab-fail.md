@@ -9,7 +9,7 @@ length: 302
 datetime: Wed, 05 Jul 2023 19:00:00 +0000
 tags: podcast
 guid: instead-hot-chicks-bikinis-bud-light-goes-grunting-men-rehab-fail-0
-order: 1
+order: 0
 ---
 &quot;LOL Kelce didn't even touch the can. Come on, Bud Light, you guys are losin... Still,&quot; 
 
