@@ -9,7 +9,7 @@ length: 186
 datetime: Fri, 07 Jul 2023 13:20:00 +0000
 tags: podcast
 guid: nato-ok-cluster-bombs-after-white-house-approves-ukraine-stoltenberg-0
-order: 2
+order: 0
 ---
 Up until now the West widely condemned Russia for using them...
 
