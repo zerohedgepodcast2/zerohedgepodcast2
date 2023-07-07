@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "'Something Just Snapped': Consumers Panic Search &quot;Pawn Shop Near Me&quot; "
-audio: something-just-snapped-consumers-panic-search-pawn-shop-near-me-0
+title: "'Something Just Snapped': Consumers Panic Search &quot;Pawn Shop Near Me&quot;"
+audio: something-just-snapped-consumers-panic-search-pawn-shop-near-me-1
 category: markets
 desc: "This can't be good. "
 duration: 00:01:26
 length: 86
-datetime: Thu, 06 Jul 2023 11:45:00 +0000
+datetime: Fri, 07 Jul 2023 07:01:00 +0000
 tags: podcast
 guid: something-just-snapped-consumers-panic-search-pawn-shop-near-me-0
-order: 1
+order: 0
 ---
 This can't be good. 
 
