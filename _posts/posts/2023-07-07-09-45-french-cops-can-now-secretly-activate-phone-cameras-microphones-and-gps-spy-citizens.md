@@ -9,7 +9,7 @@ length: 180
 datetime: Fri, 07 Jul 2023 09:45:00 +0000
 tags: podcast
 guid: french-cops-can-now-secretly-activate-phone-cameras-microphones-and-gps-spy-citizens-0
-order: 0
+order: 1
 ---
 A &quot;slide into heavy-handed security.&quot;
 
