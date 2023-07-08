@@ -9,7 +9,7 @@ length: 161
 datetime: Sat, 08 Jul 2023 13:55:00 +0000
 tags: podcast
 guid: germany-rejects-cluster-bombs-ukraine-clip-surfaces-biden-admin-previously-calling-0
-order: 2
+order: 1
 ---
 Back when Democrats were outraged over cluster bombs...
 

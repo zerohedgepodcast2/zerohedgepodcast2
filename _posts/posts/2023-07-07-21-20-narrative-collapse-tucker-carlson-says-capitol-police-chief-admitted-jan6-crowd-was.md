@@ -9,7 +9,7 @@ length: 244
 datetime: Fri, 07 Jul 2023 21:20:00 +0000
 tags: podcast
 guid: narrative-collapse-tucker-carlson-says-capitol-police-chief-admitted-jan6-crowd-was-0
-order: 1
+order: 0
 ---
 &quot;Oh yeah, yeah, yeah, that crowd was filled with federal agents...&quot;
 
