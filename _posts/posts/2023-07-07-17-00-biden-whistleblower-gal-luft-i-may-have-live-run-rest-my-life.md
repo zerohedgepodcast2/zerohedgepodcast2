@@ -9,7 +9,7 @@ length: 587
 datetime: Fri, 07 Jul 2023 17:00:00 +0000
 tags: podcast
 guid: biden-whistleblower-gal-luft-i-may-have-live-run-rest-my-life-0
-order: 1
+order: 0
 ---
 &quot;I'm not a Republican. I'm not a Democrat. I have no political motive or agenda...&quot;
 
