@@ -9,7 +9,7 @@ length: 200
 datetime: Sat, 08 Jul 2023 16:00:00 +0000
 tags: podcast
 guid: why-do-you-support-child-trafficking-rolling-stone-slammed-over-negative-sound-freedom-0
-order: 2
+order: 1
 ---
 The same Rolling Stone that covered for accused pedophile James Gordon Meek?
 
