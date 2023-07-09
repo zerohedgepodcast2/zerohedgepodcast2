@@ -9,7 +9,7 @@ length: 121
 datetime: Sun, 09 Jul 2023 13:55:00 +0000
 tags: podcast
 guid: wild-wild-west-deranged-gunman-scooter-randomly-shoots-people-nyc-0
-order: 0
+order: 2
 ---
 &quot;He's not following anybody as he's driving on his scooter, he's randomly shooting people.&quot;
 
