@@ -9,7 +9,7 @@ length: 225
 datetime: Mon, 10 Jul 2023 18:44:00 +0000
 tags: podcast
 guid: us-has-just-confessed-war-crimes-ukraine-kremlin-0
-order: 0
+order: 2
 ---
 Kirby admits likelihood of &quot;unexploded ordinance being picked up by civilians or children &amp; being hurt&quot;...shrugs off.
 
