@@ -9,7 +9,7 @@ length: 140
 datetime: Mon, 10 Jul 2023 14:30:00 +0000
 tags: podcast
 guid: convicted-us-olympics-gymnastics-pedo-stabbed-florida-prison-0
-order: 0
+order: 2
 ---
 Nassar was stabbed twice in both the neck and back, and another six times in the chest.
 
