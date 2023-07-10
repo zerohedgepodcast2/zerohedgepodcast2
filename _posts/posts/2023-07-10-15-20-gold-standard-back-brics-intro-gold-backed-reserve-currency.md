@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The Gold Standard Is Back: BRICS To Intro Gold-Backed Reserve Currency"
-audio: gold-standard-back-brics-intro-gold-backed-reserve-currency-0
+audio: gold-standard-back-brics-intro-gold-backed-reserve-currency-1
 category: markets
 desc: "&quot;...it could be, first and foremost, a major challenge to the US dollar's hegemony...&quot; "
 duration: 00:05:53
 length: 353
-datetime: Mon, 10 Jul 2023 11:20:00 +0000
+datetime: Mon, 10 Jul 2023 15:20:00 +0000
 tags: podcast
 guid: gold-standard-back-brics-intro-gold-backed-reserve-currency-0
-order: 1
+order: 0
 ---
 &quot;...it could be, first and foremost, a major challenge to the US dollar's hegemony...&quot; 
 
