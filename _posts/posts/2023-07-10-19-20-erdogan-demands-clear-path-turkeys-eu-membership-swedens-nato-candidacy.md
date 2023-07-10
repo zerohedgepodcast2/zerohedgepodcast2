@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Erdogan Demands Clear Path For Turkey's EU Membership Before Sweden's NATO Candidacy"
-audio: erdogan-demands-clear-path-turkeys-eu-membership-swedens-nato-candidacy-0
+title: "Turkey Suddenly Agrees To Advance Sweden's NATO Bid"
+audio: erdogan-demands-clear-path-turkeys-eu-membership-swedens-nato-candidacy-1
 category: geopolitical
-desc: " Yet another big quid pro quo laid out..."
-duration: 00:02:58
-length: 178
-datetime: Mon, 10 Jul 2023 18:15:00 +0000
+desc: "Putin will be pissed..."
+duration: 00:05:11
+length: 311
+datetime: Mon, 10 Jul 2023 19:20:00 +0000
 tags: podcast
 guid: erdogan-demands-clear-path-turkeys-eu-membership-swedens-nato-candidacy-0
 order: 0
 ---
- Yet another big quid pro quo laid out...
+Putin will be pissed...
 
 Link: [https://www.zerohedge.com/geopolitical/erdogan-demands-clear-path-turkeys-eu-membership-swedens-nato-candidacy](https://www.zerohedge.com/geopolitical/erdogan-demands-clear-path-turkeys-eu-membership-swedens-nato-candidacy)
 

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Kremlin: The US Just Confessed To Imminent War Crimes In Ukraine"
-audio: us-has-just-confessed-war-crimes-ukraine-kremlin-0
+audio: us-has-just-confessed-war-crimes-ukraine-kremlin-1
 category: geopolitical
 desc: "Kirby admits likelihood of &quot;unexploded ordinance being picked up by civilians or children &amp; being hurt&quot;...shrugs off."
-duration: 00:03:25
-length: 205
-datetime: Mon, 10 Jul 2023 16:45:00 +0000
+duration: 00:03:45
+length: 225
+datetime: Mon, 10 Jul 2023 18:44:00 +0000
 tags: podcast
 guid: us-has-just-confessed-war-crimes-ukraine-kremlin-0
-order: 2
+order: 0
 ---
 Kirby admits likelihood of &quot;unexploded ordinance being picked up by civilians or children &amp; being hurt&quot;...shrugs off.
 
