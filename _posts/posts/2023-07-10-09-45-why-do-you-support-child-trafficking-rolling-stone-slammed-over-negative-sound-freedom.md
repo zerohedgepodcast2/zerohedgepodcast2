@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Why Do You Support Child Trafficking?&quot; Rolling Stone Slammed Over Negative 'Sound Of Freedom' Review"
-audio: why-do-you-support-child-trafficking-rolling-stone-slammed-over-negative-sound-freedom-0
+audio: why-do-you-support-child-trafficking-rolling-stone-slammed-over-negative-sound-freedom-1
 category: markets
 desc: "The same Rolling Stone that covered for accused pedophile James Gordon Meek?"
-duration: 00:03:20
-length: 200
-datetime: Sat, 08 Jul 2023 16:00:00 +0000
+duration: 00:03:25
+length: 205
+datetime: Mon, 10 Jul 2023 09:45:00 +0000
 tags: podcast
 guid: why-do-you-support-child-trafficking-rolling-stone-slammed-over-negative-sound-freedom-0
-order: 1
+order: 0
 ---
 The same Rolling Stone that covered for accused pedophile James Gordon Meek?
 

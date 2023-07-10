@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Deranged Gunman On Scooter 'Randomly' Shoots People In NYC "
-audio: wild-wild-west-deranged-gunman-scooter-randomly-shoots-people-nyc-0
+audio: wild-wild-west-deranged-gunman-scooter-randomly-shoots-people-nyc-1
 category: political
 desc: "&quot;He's not following anybody as he's driving on his scooter, he's randomly shooting people.&quot;"
 duration: 00:02:01
 length: 121
-datetime: Sun, 09 Jul 2023 13:55:00 +0000
+datetime: Mon, 10 Jul 2023 09:11:00 +0000
 tags: podcast
 guid: wild-wild-west-deranged-gunman-scooter-randomly-shoots-people-nyc-0
-order: 2
+order: 0
 ---
 &quot;He's not following anybody as he's driving on his scooter, he's randomly shooting people.&quot;
 
