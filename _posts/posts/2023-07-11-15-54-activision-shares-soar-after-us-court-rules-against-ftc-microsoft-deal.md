@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Activision Shares Soar After US Court Rules Against FTC In Microsoft Deal"
-audio: activision-shares-soar-after-us-court-rules-against-ftc-microsoft-deal-0
+title: "UK's CMA &quot;Stands Ready&quot; To Re-Consider MSFT-ATVI Deal After US Court Rules Against FTC"
+audio: activision-shares-soar-after-us-court-rules-against-ftc-microsoft-deal-1
 category: markets
 desc: "Lina Khan crushed..."
-duration: 00:01:52
-length: 112
-datetime: Tue, 11 Jul 2023 15:12:00 +0000
+duration: 00:02:27
+length: 147
+datetime: Tue, 11 Jul 2023 15:54:00 +0000
 tags: podcast
 guid: activision-shares-soar-after-us-court-rules-against-ftc-microsoft-deal-0
 order: 0
