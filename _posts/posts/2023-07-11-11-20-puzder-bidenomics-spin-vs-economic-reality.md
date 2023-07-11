@@ -9,7 +9,7 @@ length: 337
 datetime: Tue, 11 Jul 2023 11:20:00 +0000
 tags: podcast
 guid: puzder-bidenomics-spin-vs-economic-reality-0
-order: 0
+order: 1
 ---
 Americans, particularly working- and middle-class Americans, are poorer today than they were during the Trump administration...
 
