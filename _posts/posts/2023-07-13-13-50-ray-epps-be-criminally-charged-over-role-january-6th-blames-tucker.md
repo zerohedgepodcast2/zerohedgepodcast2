@@ -9,7 +9,7 @@ length: 204
 datetime: Thu, 13 Jul 2023 13:50:00 +0000
 tags: podcast
 guid: ray-epps-be-criminally-charged-over-role-january-6th-blames-tucker-0
-order: 2
+order: 1
 ---
 The relentless attacks by Fox and Mr. Carlson and the resulting political pressure likely resulted in the criminal charges...
 
