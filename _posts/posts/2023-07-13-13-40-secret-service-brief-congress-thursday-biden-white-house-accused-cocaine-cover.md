@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Secret Service To Brief Congress On Thursday As Biden White House Accused Of &quot;Cocaine Cover-Up&quot;"
-audio: secret-service-brief-congress-thursday-biden-white-house-accused-cocaine-cover-0
+audio: secret-service-brief-congress-thursday-biden-white-house-accused-cocaine-cover-1
 category: political
 desc: "&quot;This literally should take them about 30 minutes to solve...&quot;"
 duration: 00:06:27
 length: 387
-datetime: Thu, 13 Jul 2023 01:40:00 +0000
+datetime: Thu, 13 Jul 2023 13:40:00 +0000
 tags: podcast
 guid: secret-service-brief-congress-thursday-biden-white-house-accused-cocaine-cover-0
-order: 1
+order: 0
 ---
 &quot;This literally should take them about 30 minutes to solve...&quot;
 

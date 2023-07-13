@@ -9,7 +9,7 @@ length: 121
 datetime: Thu, 13 Jul 2023 10:55:00 +0000
 tags: podcast
 guid: auto-insurers-hit-worst-crisis-30-years-sends-premiums-skyrocketing-0
-order: 2
+order: 1
 ---
 &quot;Rates need to rise ... because the loss trends have gone up so much.&quot; 
 

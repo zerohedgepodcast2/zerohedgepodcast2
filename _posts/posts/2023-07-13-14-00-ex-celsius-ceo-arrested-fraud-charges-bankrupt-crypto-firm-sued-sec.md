@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Ex-Celsius CEO Arrested On Fraud Charges, Bankrupt Crypto Firm Sued By SEC"
-audio: ex-celsius-ceo-arrested-fraud-charges-bankrupt-crypto-firm-sued-sec-0
+title: "&quot;An Old-Fashioned Swindle&quot; - Crypto-Lender Celsius Agrees To $4.7 Billion Fine, Permanent Ban From Trading"
+audio: ex-celsius-ceo-arrested-fraud-charges-bankrupt-crypto-firm-sued-sec-1
 category: crypto
 desc: "The SEC alleges that Celsius and Mashinsky &quot;misrepresented Celsius's central business model and the risks to investors...&quot;"
-duration: 00:02:23
-length: 143
-datetime: Thu, 13 Jul 2023 13:35:00 +0000
+duration: 00:03:22
+length: 202
+datetime: Thu, 13 Jul 2023 14:00:00 +0000
 tags: podcast
 guid: ex-celsius-ceo-arrested-fraud-charges-bankrupt-crypto-firm-sued-sec-0
 order: 0
