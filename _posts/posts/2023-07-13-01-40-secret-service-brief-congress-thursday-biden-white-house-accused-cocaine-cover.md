@@ -9,7 +9,7 @@ length: 387
 datetime: Thu, 13 Jul 2023 01:40:00 +0000
 tags: podcast
 guid: secret-service-brief-congress-thursday-biden-white-house-accused-cocaine-cover-0
-order: 0
+order: 1
 ---
 &quot;This literally should take them about 30 minutes to solve...&quot;
 
