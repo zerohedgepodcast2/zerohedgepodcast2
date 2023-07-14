@@ -9,7 +9,7 @@ length: 183
 datetime: Fri, 14 Jul 2023 13:35:00 +0000
 tags: podcast
 guid: unthreaded-so-called-twitter-killer-app-sees-exodus-users-plunge-0
-order: 2
+order: 1
 ---
 Oops...
 
