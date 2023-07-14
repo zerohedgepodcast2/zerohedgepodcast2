@@ -9,7 +9,7 @@ length: 291
 datetime: Fri, 14 Jul 2023 03:20:00 +0000
 tags: podcast
 guid: endgame-us-debt-interest-payments-about-hit-1-trillion-0
-order: 2
+order: 1
 ---
 Do you see what happens Larry when go full MMTard?
 
