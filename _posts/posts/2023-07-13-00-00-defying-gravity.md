@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nasdaq leaving everything behind"
-audio: defying-gravity-7
+audio: defying-gravity-8
 category: the-market-ear
 desc: 
 duration: 00:02:01
