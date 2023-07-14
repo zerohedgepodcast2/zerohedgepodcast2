@@ -9,7 +9,7 @@ length: 483
 datetime: Thu, 13 Jul 2023 16:12:00 +0000
 tags: podcast
 guid: secret-service-brief-congress-thursday-biden-white-house-accused-cocaine-cover-0
-order: 2
+order: 1
 ---
 &quot;Somebody should lose their job over this...&quot;
 
