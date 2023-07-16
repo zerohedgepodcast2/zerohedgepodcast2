@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Watch: Mike Pence Squirms As Carlson Dismantles Neocon Talking Points On Ukraine"
-audio: watch-mike-pence-squirms-carlson-dismantles-neocon-talking-points-ukraine-0
+audio: watch-mike-pence-squirms-carlson-dismantles-neocon-talking-points-ukraine-1
 category: political
 desc: "Pence just committed political suicide."
 duration: 00:03:28
 length: 208
-datetime: Fri, 14 Jul 2023 23:20:00 +0000
+datetime: Sat, 15 Jul 2023 14:10:00 +0000
 tags: podcast
 guid: watch-mike-pence-squirms-carlson-dismantles-neocon-talking-points-ukraine-0
 order: 0
