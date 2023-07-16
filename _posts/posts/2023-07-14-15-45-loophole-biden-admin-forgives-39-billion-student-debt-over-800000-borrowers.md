@@ -9,7 +9,7 @@ length: 128
 datetime: Fri, 14 Jul 2023 15:45:00 +0000
 tags: podcast
 guid: loophole-biden-admin-forgives-39-billion-student-debt-over-800000-borrowers-0
-order: 1
+order: 0
 ---
 Eligible borrowers will be notified in the coming days...
 

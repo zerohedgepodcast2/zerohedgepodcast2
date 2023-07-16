@@ -9,7 +9,7 @@ length: 208
 datetime: Fri, 14 Jul 2023 23:20:00 +0000
 tags: podcast
 guid: watch-mike-pence-squirms-carlson-dismantles-neocon-talking-points-ukraine-0
-order: 2
+order: 0
 ---
 Pence just committed political suicide.
 
