@@ -9,7 +9,7 @@ length: 241
 datetime: Mon, 17 Jul 2023 17:00:00 +0000
 tags: podcast
 guid: massive-us-oil-caverns-are-now-empty-will-take-decades-refill-thanks-biden-0
-order: 2
+order: 0
 ---
 &quot;DOE's mismanagement of the SPR has undermined America's energy security, leaving the nation more vulnerable...&quot;
 

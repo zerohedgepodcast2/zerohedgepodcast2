@@ -9,7 +9,7 @@ length: 151
 datetime: Mon, 17 Jul 2023 15:40:00 +0000
 tags: podcast
 guid: zelensky-pentagon-belatedly-acknowledged-counteroffensive-had-be-paused-amid-losses-0
-order: 0
+order: 1
 ---
 Yet more evidence that Western MSM's coverage of war has been skewed &amp; illusory.
 
