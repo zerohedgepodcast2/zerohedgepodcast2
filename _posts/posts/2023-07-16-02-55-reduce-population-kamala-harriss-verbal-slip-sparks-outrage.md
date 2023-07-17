@@ -9,7 +9,7 @@ length: 129
 datetime: Sun, 16 Jul 2023 02:55:00 +0000
 tags: podcast
 guid: reduce-population-kamala-harriss-verbal-slip-sparks-outrage-0
-order: 1
+order: 0
 ---
 Oh?
 

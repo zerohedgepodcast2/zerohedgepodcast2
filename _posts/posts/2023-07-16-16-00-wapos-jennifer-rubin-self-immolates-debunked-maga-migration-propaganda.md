@@ -9,7 +9,7 @@ length: 151
 datetime: Sun, 16 Jul 2023 16:00:00 +0000
 tags: podcast
 guid: wapos-jennifer-rubin-self-immolates-debunked-maga-migration-propaganda-0
-order: 2
+order: 1
 ---
 'Mischaracterized'?
 
