@@ -9,7 +9,7 @@ length: 235
 datetime: Mon, 17 Jul 2023 11:15:00 +0000
 tags: podcast
 guid: russia-terminates-black-sea-grain-deal-wheat-prices-spike-extent-crimea-bridge-0
-order: 2
+order: 1
 ---
 &quot;The Black Sea agreements ceased to be valid today.&quot;
 
