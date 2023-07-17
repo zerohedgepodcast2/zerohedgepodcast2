@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " trading short gamma...but without the theta checks"
-audio: sell-low-buy-high-agony-continues-4
+audio: sell-low-buy-high-agony-continues-6
 category: the-market-ear
 desc: 
 duration: 00:03:11
