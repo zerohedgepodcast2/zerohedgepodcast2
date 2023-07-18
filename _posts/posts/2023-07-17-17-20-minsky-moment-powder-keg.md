@@ -9,7 +9,7 @@ length: 402
 datetime: Mon, 17 Jul 2023 17:20:00 +0000
 tags: podcast
 guid: minsky-moment-powder-keg-0
-order: 2
+order: 0
 ---
 A monetary pause on the back of momentarily encouraging inflation readings may very well be a case of one step forward, two steps back.
 
