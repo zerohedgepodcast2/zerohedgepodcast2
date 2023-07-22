@@ -9,7 +9,7 @@ length: 176
 datetime: Fri, 21 Jul 2023 12:45:00 +0000
 tags: podcast
 guid: bud-lights-popularity-bars-and-restaurants-almost-non-existent-0
-order: 2
+order: 0
 ---
 &quot;With the boycott still making headlines three months after the initial incident and Bud Light sales at Union venues still struggling, we believe it will take a while for the brand to see a full rebound.&quot; 
 

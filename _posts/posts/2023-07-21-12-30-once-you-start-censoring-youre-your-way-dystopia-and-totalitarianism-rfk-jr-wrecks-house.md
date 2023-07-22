@@ -9,7 +9,7 @@ length: 1251
 datetime: Fri, 21 Jul 2023 12:30:00 +0000
 tags: podcast
 guid: once-you-start-censoring-youre-your-way-dystopia-and-totalitarianism-rfk-jr-wrecks-house-0
-order: 1
+order: 0
 ---
 &quot;If a government can censor its critics, that's a license for every atrocity. It is the beginning of totalitarianism...&quot;
 
