@@ -9,7 +9,7 @@ length: 440
 datetime: Sat, 22 Jul 2023 14:30:00 +0000
 tags: podcast
 guid: its-mourning-america-0
-order: 2
+order: 0
 ---
 Now that America has been transformed from a high-trust social order into a low-trust social order, there's no going back...
 
