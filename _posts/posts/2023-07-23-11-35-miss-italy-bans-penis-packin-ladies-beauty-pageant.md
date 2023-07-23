@@ -9,7 +9,7 @@ length: 163
 datetime: Sun, 23 Jul 2023 11:35:00 +0000
 tags: podcast
 guid: miss-italy-bans-penis-packin-ladies-beauty-pageant-0
-order: 3
+order: 2
 ---
 Miss Italy &quot;will not jump on the glittery bandwagon of trans activism.&quot;
 

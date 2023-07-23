@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Against SecDef's Wish, Diversity-Obsessed Biden Picks Woman To Lead Navy"
-audio: against-secdefs-wish-diversity-obsessed-biden-picks-woman-lead-navy-0
+audio: against-secdefs-wish-diversity-obsessed-biden-picks-woman-lead-navy-1
 category: military
 desc: "Another week, another diversity hire"
 duration: 00:02:36
 length: 156
-datetime: Sat, 22 Jul 2023 13:55:00 +0000
+datetime: Sun, 23 Jul 2023 12:36:00 +0000
 tags: podcast
 guid: against-secdefs-wish-diversity-obsessed-biden-picks-woman-lead-navy-0
-order: 1
+order: 0
 ---
 Another week, another diversity hire
 
