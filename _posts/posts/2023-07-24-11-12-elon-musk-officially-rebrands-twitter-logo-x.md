@@ -9,7 +9,7 @@ length: 210
 datetime: Mon, 24 Jul 2023 11:12:00 +0000
 tags: podcast
 guid: elon-musk-officially-rebrands-twitter-logo-x-0
-order: 1
+order: 0
 ---
 Twitter has officially rebranded to X after months of teasing by its former CEO, Elon Musk.
 
