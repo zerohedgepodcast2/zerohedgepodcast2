@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " Is the perceived AI bull stronger than the actual one?"
-audio: chip-slip-and-tech-tumble-1
+audio: chip-slip-and-tech-tumble-3
 category: the-market-ear
 desc: 
 duration: 00:01:56
