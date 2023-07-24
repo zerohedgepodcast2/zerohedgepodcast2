@@ -9,7 +9,7 @@ length: 182
 datetime: Mon, 24 Jul 2023 17:10:00 +0000
 tags: podcast
 guid: cmt-murders-own-brand-after-pulling-jason-aldean-video-0
-order: 0
+order: 2
 ---
 &quot;CMT has gone WOKE! Do they know who their viewers are? Guess not!!&quot;
 

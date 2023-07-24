@@ -9,7 +9,7 @@ length: 197
 datetime: Mon, 24 Jul 2023 12:33:00 +0000
 tags: podcast
 guid: its-time-openais-sam-altman-worldcoin-launches-token-distinguish-humans-bots-0
-order: 1
+order: 0
 ---
 ...a decentralized and private way to verify human identity online amid the rise of artificial intelligence technologies.
 
