@@ -9,7 +9,7 @@ length: 442
 datetime: Sun, 23 Jul 2023 03:30:00 +0000
 tags: podcast
 guid: escobar-neocons-want-war-china-0
-order: 1
+order: 0
 ---
 ...when it comes to the economy, the US and EU &quot;strategic error of self-isolation from the rest of the world is so massive, so total, that its effects are the equivalent of a world war...&quot;
 
