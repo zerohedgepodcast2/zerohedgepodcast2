@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Obama's Personal Chef Found Dead Near Family's Martha's Vineyard Mansion"
-audio: obamas-personal-chef-found-dead-near-familys-marthas-vineyard-mansion-0
+audio: obamas-personal-chef-found-dead-near-familys-marthas-vineyard-mansion-1
 category: markets
 desc: "The Massachusetts State Police Detective Unit is investigating his death, but it is believed to have been an accident, CBS News reported."
 duration: 00:02:35
 length: 155
-datetime: Tue, 25 Jul 2023 03:18:00 +0000
+datetime: Tue, 25 Jul 2023 11:11:00 +0000
 tags: podcast
 guid: obamas-personal-chef-found-dead-near-familys-marthas-vineyard-mansion-0
-order: 1
+order: 0
 ---
 The Massachusetts State Police Detective Unit is investigating his death, but it is believed to have been an accident, CBS News reported.
 
