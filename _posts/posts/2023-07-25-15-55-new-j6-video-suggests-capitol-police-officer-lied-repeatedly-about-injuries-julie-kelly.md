@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "New J6 Video Suggests Capitol Police Officer Lied 'Repeatedly' About Injuries: Julie Kelly"
-audio: new-j6-video-suggests-capitol-police-officer-lied-repeatedly-about-injuries-julie-kelly-0
+audio: new-j6-video-suggests-capitol-police-officer-lied-repeatedly-about-injuries-julie-kelly-1
 category: political
 desc: "&quot;His hands show no sign of injury. Nor does his shoulder, as he takes off gear...&quot;"
 duration: 00:03:05
 length: 185
-datetime: Tue, 25 Jul 2023 15:30:00 +0000
+datetime: Tue, 25 Jul 2023 15:55:00 +0000
 tags: podcast
 guid: new-j6-video-suggests-capitol-police-officer-lied-repeatedly-about-injuries-julie-kelly-0
-order: 1
+order: 0
 ---
 &quot;His hands show no sign of injury. Nor does his shoulder, as he takes off gear...&quot;
 
