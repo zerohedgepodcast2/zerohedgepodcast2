@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Another Pay-To-Play?&quot; Hunter Art Buyer Revealed As &quot;Friend&quot; Who Received Favor From Biden White House"
-audio: another-pay-play-hunter-art-buyer-revealed-friend-who-received-favor-biden-white-house-0
+audio: another-pay-play-hunter-art-buyer-revealed-friend-who-received-favor-biden-white-house-1
 category: political
 desc: "&quot;Hunter Biden has privately suggested that he could arrange to have friends seated on the commission...&quot;"
 duration: 00:04:43
 length: 283
-datetime: Tue, 25 Jul 2023 01:00:00 +0000
+datetime: Tue, 25 Jul 2023 02:00:00 +0000
 tags: podcast
 guid: another-pay-play-hunter-art-buyer-revealed-friend-who-received-favor-biden-white-house-0
-order: 1
+order: 0
 ---
 &quot;Hunter Biden has privately suggested that he could arrange to have friends seated on the commission...&quot;
 
