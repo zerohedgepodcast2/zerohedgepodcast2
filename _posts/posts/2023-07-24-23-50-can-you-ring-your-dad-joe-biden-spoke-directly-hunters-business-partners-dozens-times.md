@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Can You Ring Your Dad?&quot; Joe Biden Spoke Directly To Hunter's Business Partners Dozens Of Times"
-audio: can-you-ring-your-dad-joe-biden-spoke-directly-hunters-business-partners-dozens-times-0
+audio: can-you-ring-your-dad-joe-biden-spoke-directly-hunters-business-partners-dozens-times-1
 category: political
 desc: "'Nikolai and Vadym need our support.'"
-duration: 00:04:29
-length: 269
-datetime: Mon, 24 Jul 2023 15:50:00 +0000
+duration: 00:05:05
+length: 305
+datetime: Mon, 24 Jul 2023 23:50:00 +0000
 tags: podcast
 guid: can-you-ring-your-dad-joe-biden-spoke-directly-hunters-business-partners-dozens-times-0
-order: 1
+order: 0
 ---
 'Nikolai and Vadym need our support.'
 

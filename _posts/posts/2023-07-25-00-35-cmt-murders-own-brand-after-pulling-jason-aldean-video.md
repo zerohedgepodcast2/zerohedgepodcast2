@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "CMT 'Murders Own Brand' After Pulling Jason Aldean Video"
-audio: cmt-murders-own-brand-after-pulling-jason-aldean-video-0
+audio: cmt-murders-own-brand-after-pulling-jason-aldean-video-1
 category: political
 desc: "&quot;CMT has gone WOKE! Do they know who their viewers are? Guess not!!&quot;"
 duration: 00:03:02
 length: 182
-datetime: Mon, 24 Jul 2023 17:10:00 +0000
+datetime: Tue, 25 Jul 2023 00:35:00 +0000
 tags: podcast
 guid: cmt-murders-own-brand-after-pulling-jason-aldean-video-0
-order: 2
+order: 0
 ---
 &quot;CMT has gone WOKE! Do they know who their viewers are? Guess not!!&quot;
 
