@@ -9,7 +9,7 @@ length: 226
 datetime: Tue, 25 Jul 2023 13:15:00 +0000
 tags: podcast
 guid: us-reaper-drone-severely-damaged-russian-jet-intercept-over-syria-0
-order: 1
+order: 0
 ---
 Moscow ramps up campaign to pressure American troops out of Syria...
 

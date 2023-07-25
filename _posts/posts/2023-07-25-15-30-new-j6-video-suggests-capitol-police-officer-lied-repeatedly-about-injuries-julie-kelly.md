@@ -9,7 +9,7 @@ length: 185
 datetime: Tue, 25 Jul 2023 15:30:00 +0000
 tags: podcast
 guid: new-j6-video-suggests-capitol-police-officer-lied-repeatedly-about-injuries-julie-kelly-0
-order: 2
+order: 1
 ---
 &quot;His hands show no sign of injury. Nor does his shoulder, as he takes off gear...&quot;
 
