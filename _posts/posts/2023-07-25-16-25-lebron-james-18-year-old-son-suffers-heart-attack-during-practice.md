@@ -9,7 +9,7 @@ length: 180
 datetime: Tue, 25 Jul 2023 16:25:00 +0000
 tags: podcast
 guid: lebron-james-18-year-old-son-suffers-heart-attack-during-practice-0
-order: 2
+order: 0
 ---
 &quot;Yesterday while practicing Bronny James suffered a cardiac arrest...&quot;
 

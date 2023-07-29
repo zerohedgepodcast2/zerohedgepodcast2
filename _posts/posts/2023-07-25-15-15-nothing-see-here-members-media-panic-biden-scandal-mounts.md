@@ -9,7 +9,7 @@ length: 362
 datetime: Tue, 25 Jul 2023 15:15:00 +0000
 tags: podcast
 guid: nothing-see-here-members-media-panic-biden-scandal-mounts-0
-order: 1
+order: 0
 ---
 The scandal is moving forward with or without the media...
 
