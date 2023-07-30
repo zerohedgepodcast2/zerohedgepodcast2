@@ -9,7 +9,7 @@ length: 169
 datetime: Sun, 30 Jul 2023 00:00:00 +0000
 tags: podcast
 guid: ive-never-seen-anything-mysterious-chinese-bio-lab-discovered-remote-california-city-0
-order: 0
+order: 1
 ---
 CDC detected at least 20 potentially infectious agents, including coronavirus, HIV, hepatitis, and herpes...
 

@@ -9,7 +9,7 @@ length: 105
 datetime: Sun, 30 Jul 2023 15:00:00 +0000
 tags: podcast
 guid: great-wealth-migration-new-york-california-tax-revenue-slides-amid-exodus-0
-order: 1
+order: 0
 ---
 &quot;This, coupled with the state's high cost of living, will likely fuel a wealth migration out of California.&quot; 
 
