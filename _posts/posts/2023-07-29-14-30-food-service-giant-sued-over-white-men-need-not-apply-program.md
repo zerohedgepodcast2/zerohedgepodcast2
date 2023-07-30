@@ -9,7 +9,7 @@ length: 295
 datetime: Sat, 29 Jul 2023 14:30:00 +0000
 tags: podcast
 guid: food-service-giant-sued-over-white-men-need-not-apply-program-0
-order: 2
+order: 0
 ---
 The company &quot;used a euphemistic and false title to hide the program's true nature.&quot;
 

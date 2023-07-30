@@ -9,7 +9,7 @@ length: 289
 datetime: Fri, 28 Jul 2023 17:05:00 +0000
 tags: podcast
 guid: us-was-behind-both-crimean-bridge-attacks-seymour-hersh-0
-order: 1
+order: 0
 ---
 &quot;Our national strategy is that Zelensky can do whatever he wants to do. There's no adult supervision,&quot; the US official complained. 
 
