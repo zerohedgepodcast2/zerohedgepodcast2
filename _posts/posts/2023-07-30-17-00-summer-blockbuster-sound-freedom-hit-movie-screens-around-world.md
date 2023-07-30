@@ -9,7 +9,7 @@ length: 180
 datetime: Sun, 30 Jul 2023 17:00:00 +0000
 tags: podcast
 guid: summer-blockbuster-sound-freedom-hit-movie-screens-around-world-0
-order: 0
+order: 2
 ---
 &quot;Everyone in the industry knows that films are generally supposed to lose screens week-over-week, not add them. And yet, the incredible word-of-mouth driving SOUND OF FREEDOM continues to spread. In response, we are continuing to expand our offering in theaters this weekend.&quot; 
 
