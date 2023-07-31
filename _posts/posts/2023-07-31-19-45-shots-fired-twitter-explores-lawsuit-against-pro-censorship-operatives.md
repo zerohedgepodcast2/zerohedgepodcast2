@@ -9,7 +9,7 @@ length: 293
 datetime: Mon, 31 Jul 2023 19:45:00 +0000
 tags: podcast
 guid: shots-fired-twitter-explores-lawsuit-against-pro-censorship-operatives-0
-order: 2
+order: 1
 ---
 &quot;Why is this guy in America? Who funds him?&quot;
 

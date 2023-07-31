@@ -9,7 +9,7 @@ length: 433
 datetime: Mon, 31 Jul 2023 14:40:00 +0000
 tags: podcast
 guid: france-could-intervene-against-niger-junta-after-embassy-attacked-russian-flag-waiving-0
-order: 1
+order: 0
 ---
 French embassy attacked, with Russia's Wagner group in neighboring Mali declaring support for coup...
 
