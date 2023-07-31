@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "random weekend observations..."
-audio: spx-bull-euro-pitfalls-and-chinas-wildcard-10
+audio: spx-bull-euro-pitfalls-and-chinas-wildcard-1
 category: the-market-ear
 desc: 
 duration: 00:02:10
