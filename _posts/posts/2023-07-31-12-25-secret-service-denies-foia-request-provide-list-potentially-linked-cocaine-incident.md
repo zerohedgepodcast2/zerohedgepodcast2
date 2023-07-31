@@ -9,7 +9,7 @@ length: 320
 datetime: Mon, 31 Jul 2023 12:25:00 +0000
 tags: podcast
 guid: secret-service-denies-foia-request-provide-list-potentially-linked-cocaine-incident-0
-order: 0
+order: 2
 ---
 &quot;...these records are governed by the Presidential Records Act  and remain under the exclusive legal custody and control of the White House,&quot; 
 

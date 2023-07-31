@@ -9,7 +9,7 @@ length: 65
 datetime: Mon, 31 Jul 2023 11:08:00 +0000
 tags: podcast
 guid: trucking-giant-yellow-ceases-operations-0
-order: 0
+order: 1
 ---
 Less-than-truckload carrier Yellow Corp. ceased all operations at 12 p.m. Sunday, according to a notice on the gates at its terminals.
 
