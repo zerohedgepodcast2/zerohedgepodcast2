@@ -9,7 +9,7 @@ length: 258
 datetime: Tue, 01 Aug 2023 10:11:00 +0000
 tags: podcast
 guid: devon-archer-spills-beans-tells-congress-about-shady-burisma-dealings-joe-bidens-more-20-0
-order: 0
+order: 1
 ---
 &quot;the value of adding Hunter Biden to Burisma's board was 'the brand'...&quot;
 
