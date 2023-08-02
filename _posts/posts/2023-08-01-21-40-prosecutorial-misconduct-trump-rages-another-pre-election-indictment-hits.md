@@ -9,7 +9,7 @@ length: 475
 datetime: Tue, 01 Aug 2023 21:40:00 +0000
 tags: podcast
 guid: prosecutorial-misconduct-trump-rages-another-pre-election-indictment-hits-0
-order: 2
+order: 1
 ---
 ...indicting Trump yet again for his efforts to overturn the results of the 2020 presidential election.
 
