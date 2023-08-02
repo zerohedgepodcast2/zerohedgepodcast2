@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "can NASDAQ take rates above 4%...?"
-audio: dollar-rates-and-moves-8
+audio: dollar-rates-and-moves-9
 category: the-market-ear
 desc: 
 duration: 00:02:26

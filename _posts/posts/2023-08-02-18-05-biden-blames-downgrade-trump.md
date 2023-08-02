@@ -9,7 +9,7 @@ length: 248
 datetime: Wed, 02 Aug 2023 18:05:00 +0000
 tags: podcast
 guid: biden-blames-downgrade-trump-0
-order: 2
+order: 1
 ---
 The Trump Downgrade
 
