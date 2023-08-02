@@ -9,7 +9,7 @@ length: 128
 datetime: Wed, 02 Aug 2023 18:27:00 +0000
 tags: podcast
 guid: watch-tucker-interviews-devon-archer-0
-order: 0
+order: 1
 ---
 &quot;The brand of Biden adds a lot of power when your dad's the Vice President.&quot;
 
