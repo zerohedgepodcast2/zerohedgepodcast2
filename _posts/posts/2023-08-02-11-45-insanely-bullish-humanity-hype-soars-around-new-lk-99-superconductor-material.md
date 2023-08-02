@@ -9,7 +9,7 @@ length: 250
 datetime: Wed, 02 Aug 2023 11:45:00 +0000
 tags: podcast
 guid: insanely-bullish-humanity-hype-soars-around-new-lk-99-superconductor-material-0
-order: 0
+order: 1
 ---
 &quot;If LK-99 is proved to be true and able to be mass-produced, it would be disruptive for a wide range of industries.&quot; 
 

@@ -9,7 +9,7 @@ length: 622
 datetime: Wed, 02 Aug 2023 13:44:00 +0000
 tags: podcast
 guid: yields-surge-after-treasury-boosts-auction-sizes-more-expected-sees-debt-issuance-tsunami-0
-order: 0
+order: 2
 ---
 The runaway debt train is leaving the station.
 
