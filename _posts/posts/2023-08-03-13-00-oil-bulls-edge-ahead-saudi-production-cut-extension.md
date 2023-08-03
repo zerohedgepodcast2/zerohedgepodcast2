@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Oil Bulls On Edge Ahead Of Saudi Production Cut Extension"
-audio: oil-bulls-edge-ahead-saudi-production-cut-extension-0
+title: "Oil Rebounds After Reports That Saudis Will &quot;Extend, Deepen&quot; Voluntary Production Cuts"
+audio: oil-bulls-edge-ahead-saudi-production-cut-extension-1
 category: markets
-desc: "The biggest question in oil markets is how long Saudi Arabia will extend its 1 million-barrel-a-day supply cut. Riyadh's handling of a previous strategy offers some guidance -- and reassurance -- for crude bulls."
-duration: 00:02:05
-length: 125
-datetime: Thu, 03 Aug 2023 10:30:00 +0000
+desc: "...Saudis reportedly will extend 1mm b/d cut through September."
+duration: 00:03:23
+length: 203
+datetime: Thu, 03 Aug 2023 13:00:00 +0000
 tags: podcast
 guid: oil-bulls-edge-ahead-saudi-production-cut-extension-0
 order: 0
 ---
-The biggest question in oil markets is how long Saudi Arabia will extend its 1 million-barrel-a-day supply cut. Riyadh's handling of a previous strategy offers some guidance -- and reassurance -- for crude bulls.
+...Saudis reportedly will extend 1mm b/d cut through September.
 
 Link: [https://www.zerohedge.com/markets/oil-bulls-edge-ahead-saudi-production-cut-extension](https://www.zerohedge.com/markets/oil-bulls-edge-ahead-saudi-production-cut-extension)
 
