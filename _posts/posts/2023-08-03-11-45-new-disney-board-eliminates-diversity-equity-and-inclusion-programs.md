@@ -9,7 +9,7 @@ length: 207
 datetime: Thu, 03 Aug 2023 11:45:00 +0000
 tags: podcast
 guid: new-disney-board-eliminates-diversity-equity-and-inclusion-programs-0
-order: 2
+order: 0
 ---
 &quot;The announcement comes after an internal investigation into the district's policies...&quot;
 

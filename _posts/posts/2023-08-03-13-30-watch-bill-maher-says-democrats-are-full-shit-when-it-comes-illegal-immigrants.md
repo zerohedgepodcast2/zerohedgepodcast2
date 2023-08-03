@@ -9,7 +9,7 @@ length: 99
 datetime: Thu, 03 Aug 2023 13:30:00 +0000
 tags: podcast
 guid: watch-bill-maher-says-democrats-are-full-shit-when-it-comes-illegal-immigrants-0
-order: 0
+order: 1
 ---
 Democrats support illegal immigration as long as they never have to deal with those migrants on their doorstep...
 
