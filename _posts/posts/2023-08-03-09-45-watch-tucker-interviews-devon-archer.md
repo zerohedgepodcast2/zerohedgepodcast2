@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Tucker's Explosive Devon Archer Interview, Admits Joe 'Knew That Business Associates' Were On Call"
-audio: watch-tucker-interviews-devon-archer-0
+audio: watch-tucker-interviews-devon-archer-1
 category: political
 desc: "&quot;The brand of Biden adds a lot of power when your dad's the Vice President.&quot;"
-duration: 00:02:08
-length: 128
-datetime: Wed, 02 Aug 2023 18:27:00 +0000
+duration: 00:02:24
+length: 144
+datetime: Thu, 03 Aug 2023 09:45:00 +0000
 tags: podcast
 guid: watch-tucker-interviews-devon-archer-0
-order: 1
+order: 0
 ---
 &quot;The brand of Biden adds a lot of power when your dad's the Vice President.&quot;
 
