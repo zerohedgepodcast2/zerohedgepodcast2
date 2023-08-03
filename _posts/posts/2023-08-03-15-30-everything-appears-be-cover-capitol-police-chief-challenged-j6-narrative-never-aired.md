@@ -9,7 +9,7 @@ length: 176
 datetime: Thu, 03 Aug 2023 15:30:00 +0000
 tags: podcast
 guid: everything-appears-be-cover-capitol-police-chief-challenged-j6-narrative-never-aired-0
-order: 0
+order: 1
 ---
 &quot;Could there possibly be actually they kind of wanted something to happen?&quot;
 

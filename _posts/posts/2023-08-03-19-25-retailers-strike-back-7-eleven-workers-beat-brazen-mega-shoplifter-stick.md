@@ -9,7 +9,7 @@ length: 245
 datetime: Thu, 03 Aug 2023 19:25:00 +0000
 tags: podcast
 guid: retailers-strike-back-7-eleven-workers-beat-brazen-mega-shoplifter-stick-0
-order: 0
+order: 2
 ---
 2023's most heart-warming video yet
 
