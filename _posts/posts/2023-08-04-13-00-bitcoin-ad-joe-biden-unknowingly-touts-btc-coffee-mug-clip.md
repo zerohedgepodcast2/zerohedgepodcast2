@@ -9,7 +9,7 @@ length: 126
 datetime: Fri, 04 Aug 2023 13:00:00 +0000
 tags: podcast
 guid: bitcoin-ad-joe-biden-unknowingly-touts-btc-coffee-mug-clip-0
-order: 0
+order: 1
 ---
 'laser eyes!?'
 

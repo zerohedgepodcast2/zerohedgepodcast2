@@ -9,7 +9,7 @@ length: 336
 datetime: Fri, 04 Aug 2023 14:40:00 +0000
 tags: podcast
 guid: biden-china-energy-nexus-text-messages-reveal-intricate-web-influence-0
-order: 1
+order: 2
 ---
 &quot;Focus on the facts...&quot;
 
