@@ -9,7 +9,7 @@ length: 281
 datetime: Sat, 05 Aug 2023 18:00:00 +0000
 tags: podcast
 guid: bidens-fking-goof-rogan-rages-against-establishments-coordinated-bullshit-attacks-trump-0
-order: 0
+order: 2
 ---
 &quot;...now you have the intelligence agencies colluding to keep a guy from being president, who was president during a time when the country was thriving economically...&quot;
 
