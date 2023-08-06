@@ -9,7 +9,7 @@ length: 101
 datetime: Sun, 06 Aug 2023 14:30:00 +0000
 tags: podcast
 guid: lets-get-ready-rumble-musk-says-cage-fight-zuckerberg-will-be-live-streamed-twitter-x-0
-order: 0
+order: 2
 ---
 &quot;All proceeds will go to charity for veterans.&quot; 
 
