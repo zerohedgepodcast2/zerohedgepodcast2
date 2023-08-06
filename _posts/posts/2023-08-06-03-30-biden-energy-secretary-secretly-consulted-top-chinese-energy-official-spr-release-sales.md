@@ -9,7 +9,7 @@ length: 554
 datetime: Sun, 06 Aug 2023 03:30:00 +0000
 tags: podcast
 guid: biden-energy-secretary-secretly-consulted-top-chinese-energy-official-spr-release-sales-0
-order: 2
+order: 1
 ---
 &quot;Secretary Granholm's multiple closed-door meetings with a CCP-connected energy official raise serious questions about the level of Chinese influence on the Biden administration's energy agenda.&quot;
 
