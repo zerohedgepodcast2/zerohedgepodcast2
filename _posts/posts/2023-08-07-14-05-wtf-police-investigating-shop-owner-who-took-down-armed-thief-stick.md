@@ -9,7 +9,7 @@ length: 97
 datetime: Mon, 07 Aug 2023 14:05:00 +0000
 tags: podcast
 guid: wtf-police-investigating-shop-owner-who-took-down-armed-thief-stick-0
-order: 0
+order: 2
 ---
 They're treating criminal scum as if they are the victims...
 

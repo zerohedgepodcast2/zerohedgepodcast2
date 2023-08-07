@@ -9,7 +9,7 @@ length: 340
 datetime: Mon, 07 Aug 2023 03:00:00 +0000
 tags: podcast
 guid: why-americas-woke-left-silent-over-blockbuster-child-sex-trafficking-film-0
-order: 1
+order: 0
 ---
 You'd almost think the leftists' sympathies lie with the child traffickers...
 
