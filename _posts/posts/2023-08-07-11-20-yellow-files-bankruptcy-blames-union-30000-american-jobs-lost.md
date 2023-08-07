@@ -9,7 +9,7 @@ length: 158
 datetime: Mon, 07 Aug 2023 11:20:00 +0000
 tags: podcast
 guid: yellow-files-bankruptcy-blames-union-30000-american-jobs-lost-0
-order: 1
+order: 0
 ---
 &quot;It is with profound disappointment that Yellow announces that it is closing after nearly 100 years in business.&quot; 
 
