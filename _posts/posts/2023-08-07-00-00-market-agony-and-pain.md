@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "frustration running high..."
-audio: market-agony-and-pain-7
+audio: market-agony-and-pain-8
 category: the-market-ear
 desc: 
 duration: 00:02:18
