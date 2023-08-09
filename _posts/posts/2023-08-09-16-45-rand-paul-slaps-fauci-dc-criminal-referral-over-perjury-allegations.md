@@ -9,7 +9,7 @@ length: 213
 datetime: Wed, 09 Aug 2023 16:45:00 +0000
 tags: podcast
 guid: rand-paul-slaps-fauci-dc-criminal-referral-over-perjury-allegations-0
-order: 0
+order: 1
 ---
 &quot;Dr. Fauci's testimony is inconsistent with facts that have since come to light...&quot; 
 
