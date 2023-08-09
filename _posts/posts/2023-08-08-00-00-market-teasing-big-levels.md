@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "to hold or not to hold..."
-audio: market-teasing-big-levels-7
+audio: market-teasing-big-levels-8
 category: the-market-ear
 desc: 
 duration: 00:03:12
