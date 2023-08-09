@@ -9,7 +9,7 @@ length: 264
 datetime: Wed, 09 Aug 2023 00:25:00 +0000
 tags: podcast
 guid: newsom-funded-chinese-covid-lab-known-bidens-fda-0
-order: 2
+order: 1
 ---
 &quot;I've been in government for 25 years. I've never seen anything like this...&quot;
 
