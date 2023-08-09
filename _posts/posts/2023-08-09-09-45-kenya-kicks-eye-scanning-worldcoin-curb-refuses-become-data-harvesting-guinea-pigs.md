@@ -9,7 +9,7 @@ length: 193
 datetime: Wed, 09 Aug 2023 09:45:00 +0000
 tags: podcast
 guid: kenya-kicks-eye-scanning-worldcoin-curb-refuses-become-data-harvesting-guinea-pigs-0
-order: 2
+order: 1
 ---
 &quot;You have to ask yourself why your eyes are being scanned and information gathered...&quot;  What does it mean and what will it mean to you and your offspring?&quot;
 
