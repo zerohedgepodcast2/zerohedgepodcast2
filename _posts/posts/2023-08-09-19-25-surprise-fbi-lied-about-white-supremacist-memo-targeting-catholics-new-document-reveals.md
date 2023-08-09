@@ -9,7 +9,7 @@ length: 187
 datetime: Wed, 09 Aug 2023 19:25:00 +0000
 tags: podcast
 guid: surprise-fbi-lied-about-white-supremacist-memo-targeting-catholics-new-document-reveals-0
-order: 0
+order: 2
 ---
 It wasn't just the product of a single field office as Wray had claimed...
 
