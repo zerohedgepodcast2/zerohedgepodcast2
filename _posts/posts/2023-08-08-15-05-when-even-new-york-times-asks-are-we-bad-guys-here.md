@@ -9,7 +9,7 @@ length: 729
 datetime: Tue, 08 Aug 2023 15:05:00 +0000
 tags: podcast
 guid: when-even-new-york-times-asks-are-we-bad-guys-here-0
-order: 2
+order: 1
 ---
 But what is the NYT's David Brooks suggesting *we do* specifically? If you think the answer is to cut rates and or taxes, let assets rip, and allow nature to heal', then when that punch does finally land, it will hurt all the more.
 
