@@ -9,7 +9,7 @@ length: 175
 datetime: Wed, 09 Aug 2023 17:05:00 +0000
 tags: podcast
 guid: house-republicans-release-bank-records-showing-over-20-million-payments-biden-family-0
-order: 2
+order: 1
 ---
 &quot;Hunter Biden seems to have delivered...&quot;
 
