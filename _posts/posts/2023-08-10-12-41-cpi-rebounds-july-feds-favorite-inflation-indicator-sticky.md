@@ -9,7 +9,7 @@ length: 140
 datetime: Thu, 10 Aug 2023 12:41:00 +0000
 tags: podcast
 guid: cpi-rebounds-july-feds-favorite-inflation-indicator-sticky-0
-order: 2
+order: 0
 ---
 Core Services CPI Ex-Shelter - which reaccelerated in July (+0.2% MoM, and from +3.9% to +4.0% YoY)...
 

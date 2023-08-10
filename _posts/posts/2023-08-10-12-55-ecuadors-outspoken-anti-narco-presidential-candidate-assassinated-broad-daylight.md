@@ -9,7 +9,7 @@ length: 169
 datetime: Thu, 10 Aug 2023 12:55:00 +0000
 tags: podcast
 guid: ecuadors-outspoken-anti-narco-presidential-candidate-assassinated-broad-daylight-0
-order: 0
+order: 1
 ---
 60-day state of national emergency declared...
 
