@@ -9,7 +9,7 @@ length: 394
 datetime: Thu, 10 Aug 2023 16:40:00 +0000
 tags: podcast
 guid: china-facing-bigger-debt-crisis-evergrande-under-30-days-0
-order: 0
+order: 2
 ---
 &quot;Any default would impact China's housing market more than Evergrande's collapse as Country Garden has four times as many projects,&quot;
 
