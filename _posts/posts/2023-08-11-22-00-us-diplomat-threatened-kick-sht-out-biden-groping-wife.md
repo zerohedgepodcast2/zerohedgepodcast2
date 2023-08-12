@@ -9,7 +9,7 @@ length: 122
 datetime: Fri, 11 Aug 2023 22:00:00 +0000
 tags: podcast
 guid: us-diplomat-threatened-kick-sht-out-biden-groping-wife-0
-order: 2
+order: 1
 ---
 &quot;Yes, he didn't act the way I thought he should. And we called him on it, and that's it...&quot;
 
