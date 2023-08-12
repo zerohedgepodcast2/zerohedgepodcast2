@@ -9,7 +9,7 @@ length: 307
 datetime: Fri, 11 Aug 2023 12:45:00 +0000
 tags: podcast
 guid: fda-drops-ivermectin-bombshell-0
-order: 0
+order: 1
 ---
 &quot;FDA explicitly recognizes that doctors do have the authority to prescribe ivermectin to treat COVID,&quot;
 
