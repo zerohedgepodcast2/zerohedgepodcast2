@@ -9,7 +9,7 @@ length: 148
 datetime: Thu, 10 Aug 2023 13:15:00 +0000
 tags: podcast
 guid: federal-court-declares-trump-flight-risk-secret-subpoena-decision-0
-order: 1
+order: 0
 ---
 So Judge Howell agreed that he might shake his sizable security detail, evade them, and go on the lam...
 
