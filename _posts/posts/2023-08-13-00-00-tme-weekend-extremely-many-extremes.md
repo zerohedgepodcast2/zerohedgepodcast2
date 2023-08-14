@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bull market in extremes..."
-audio: tme-weekend-extremely-many-extremes-5
+audio: tme-weekend-extremely-many-extremes-6
 category: the-market-ear
 desc: 
 duration: 00:02:54
