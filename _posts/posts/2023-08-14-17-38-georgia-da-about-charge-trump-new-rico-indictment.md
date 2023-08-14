@@ -9,7 +9,7 @@ length: 92
 datetime: Mon, 14 Aug 2023 17:38:00 +0000
 tags: podcast
 guid: georgia-da-about-charge-trump-new-rico-indictment-0
-order: 0
+order: 2
 ---
 &quot;This document was posted online by the fulton county georgia DA's office and then quickly taken down...&quot;
 
