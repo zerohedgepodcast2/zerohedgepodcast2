@@ -9,7 +9,7 @@ length: 276
 datetime: Mon, 14 Aug 2023 22:20:00 +0000
 tags: podcast
 guid: georgia-da-about-charge-trump-new-rico-indictment-0
-order: 2
+order: 1
 ---
 &quot;WHAT IS GOING ON HERE?&quot;
 
