@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "maybe the world is a pretty good place right now for risk..."
-audio: are-we-wrong-not-be-max-long-0
+audio: are-we-wrong-not-be-max-long-1
 category: the-market-ear
 desc: 
 duration: 00:01:46
