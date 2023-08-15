@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Hunter Biden's Lead Criminal Defense Attorney Asks To Withdraw From Case"
-audio: hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case-1
+title: "DOJ Says Hunter Biden's Lawyers Lying About 'Valid And Binding' Plea Deal"
+audio: hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case-2
 category: political
-desc: "&quot;Based on recent developments, it appears that the negotiation and drafting of the plea agreement and diversion agreement will be contested...&quot;"
-duration: 00:02:56
-length: 176
-datetime: Tue, 15 Aug 2023 15:25:00 +0000
+desc: "&quot;The Government never said the proposed diversion agreement was in effect because it is not...&quot;"
+duration: 00:04:39
+length: 279
+datetime: Tue, 15 Aug 2023 18:28:00 +0000
 tags: podcast
 guid: hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case-0
 order: 0
 ---
-&quot;Based on recent developments, it appears that the negotiation and drafting of the plea agreement and diversion agreement will be contested...&quot;
+&quot;The Government never said the proposed diversion agreement was in effect because it is not...&quot;
 
 Link: [https://www.zerohedge.com/political/hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case](https://www.zerohedge.com/political/hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case)
 
