@@ -9,7 +9,7 @@ length: 595
 datetime: Tue, 15 Aug 2023 13:50:00 +0000
 tags: podcast
 guid: i-am-become-death-destroyer-barbie-world-says-fed-and-pboc-too-0
-order: 0
+order: 1
 ---
 Theories implemented decades ago are coming home explosively...
 

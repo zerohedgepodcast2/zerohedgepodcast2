@@ -9,7 +9,7 @@ length: 165
 datetime: Tue, 15 Aug 2023 14:25:00 +0000
 tags: podcast
 guid: hunter-bidens-lead-criminal-defense-attorney-asks-withdraw-case-0
-order: 1
+order: 2
 ---
 &quot;Based on recent developments, it appears that the negotiation and drafting of the plea agreement and diversion agreement will be contested...&quot;
 
