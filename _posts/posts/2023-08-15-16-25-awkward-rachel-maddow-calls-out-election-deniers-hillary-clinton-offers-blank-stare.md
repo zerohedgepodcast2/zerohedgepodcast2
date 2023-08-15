@@ -9,7 +9,7 @@ length: 78
 datetime: Tue, 15 Aug 2023 16:25:00 +0000
 tags: podcast
 guid: awkward-rachel-maddow-calls-out-election-deniers-hillary-clinton-offers-blank-stare-0
-order: 0
+order: 1
 ---
 &quot;If bad actors tell us falsely that every election is stolen...&quot;
 

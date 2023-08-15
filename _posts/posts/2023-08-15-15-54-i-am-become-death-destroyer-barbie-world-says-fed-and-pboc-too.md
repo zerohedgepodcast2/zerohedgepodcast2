@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;I Am Become Death, The Destroyer Of Barbie World&quot; Says The Fed, And The PBOC Too"
-audio: i-am-become-death-destroyer-barbie-world-says-fed-and-pboc-too-0
+audio: i-am-become-death-destroyer-barbie-world-says-fed-and-pboc-too-1
 category: markets
 desc: "Theories implemented decades ago are coming home explosively..."
 duration: 00:09:55
 length: 595
-datetime: Tue, 15 Aug 2023 13:50:00 +0000
+datetime: Tue, 15 Aug 2023 15:54:00 +0000
 tags: podcast
 guid: i-am-become-death-destroyer-barbie-world-says-fed-and-pboc-too-0
-order: 1
+order: 0
 ---
 Theories implemented decades ago are coming home explosively...
 
