@@ -9,7 +9,7 @@ length: 136
 datetime: Tue, 15 Aug 2023 18:00:00 +0000
 tags: podcast
 guid: soros-end-most-eu-operations-radical-shift-0
-order: 2
+order: 1
 ---
 The new approved strategic direction provides for withdrawal and termination of large parts of our current work within the European Union...
 
