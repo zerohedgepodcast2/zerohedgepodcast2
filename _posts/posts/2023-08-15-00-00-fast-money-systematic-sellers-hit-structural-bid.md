@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CTAs at stop-loss levels in an illiquid market..."
-audio: fast-money-systematic-sellers-hit-structural-bid-6
+audio: fast-money-systematic-sellers-hit-structural-bid-8
 category: the-market-ear
 desc: 
 duration: 00:02:26
