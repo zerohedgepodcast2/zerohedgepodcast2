@@ -9,7 +9,7 @@ length: 349
 datetime: Wed, 16 Aug 2023 01:43:00 +0000
 tags: podcast
 guid: chinas-economy-verge-collapse-pboc-central-banker-calls-helicopter-money-0
-order: 0
+order: 2
 ---
 Cai said direct stimulus of 4 trillion yuan paid directly to Chinese households is an option to spur a recovery in consumer spending that has been slowed by weak wage growth during the pandemic.
 
