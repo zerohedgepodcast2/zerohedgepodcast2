@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "September comes early..."
-audio: no-longer-buy-dip-market-8
+audio: no-longer-buy-dip-market-9
 category: the-market-ear
 desc: 
 duration: 00:02:55
