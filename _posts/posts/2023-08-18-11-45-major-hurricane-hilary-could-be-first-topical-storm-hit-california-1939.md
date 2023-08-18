@@ -9,7 +9,7 @@ length: 94
 datetime: Fri, 18 Aug 2023 11:45:00 +0000
 tags: podcast
 guid: major-hurricane-hilary-could-be-first-topical-storm-hit-california-1939-0
-order: 0
+order: 2
 ---
 &quot;Hilary has the potential to bring significant impacts to the Baja California Peninsula and portions of the southwestern United States...&quot; 
 

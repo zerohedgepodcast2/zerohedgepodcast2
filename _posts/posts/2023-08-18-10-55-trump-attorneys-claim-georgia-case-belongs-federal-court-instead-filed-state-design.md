@@ -9,7 +9,7 @@ length: 166
 datetime: Fri, 18 Aug 2023 10:55:00 +0000
 tags: podcast
 guid: trump-attorneys-claim-georgia-case-belongs-federal-court-instead-filed-state-design-0
-order: 0
+order: 1
 ---
 Ms. Willis seems to want this case to be televised...
 
