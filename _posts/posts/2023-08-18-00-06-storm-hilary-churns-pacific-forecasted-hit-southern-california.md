@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Hurricane Hilary Could 'Rapidly Intensify' Into Major Hurricane With Crosshairs On Southern California"
-audio: storm-hilary-churns-pacific-forecasted-hit-southern-california-1
+title: "California Braces As Hilary Upgraded To 'Major Hurricane'"
+audio: storm-hilary-churns-pacific-forecasted-hit-southern-california-2
 category: markets
 desc: "&quot;The worst-case scenario for Southern California would be if the track shifted farther west...&quot; "
-duration: 00:02:33
-length: 153
-datetime: Thu, 17 Aug 2023 16:15:00 +0000
+duration: 00:04:14
+length: 254
+datetime: Fri, 18 Aug 2023 00:06:00 +0000
 tags: podcast
 guid: storm-hilary-churns-pacific-forecasted-hit-southern-california-0
 order: 0

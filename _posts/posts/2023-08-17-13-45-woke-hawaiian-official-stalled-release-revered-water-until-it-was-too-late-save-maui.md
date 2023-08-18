@@ -9,7 +9,7 @@ length: 242
 datetime: Thu, 17 Aug 2023 13:45:00 +0000
 tags: podcast
 guid: woke-hawaiian-official-stalled-release-revered-water-until-it-was-too-late-save-maui-0
-order: 1
+order: 0
 ---
 Manuel waxes philosophical on &quot;water equity&quot; (&quot;equity&quot; being a pervasive woke buzzword) and an ancient &quot;reverence&quot; of water as god-like...
 

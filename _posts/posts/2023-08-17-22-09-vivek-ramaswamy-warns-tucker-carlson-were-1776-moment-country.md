@@ -9,7 +9,7 @@ length: 109
 datetime: Thu, 17 Aug 2023 22:09:00 +0000
 tags: podcast
 guid: vivek-ramaswamy-warns-tucker-carlson-were-1776-moment-country-0
-order: 0
+order: 2
 ---
 &quot;we, the people live in a moment where the government believes that citizens of this nation cannot be trusted with the truth.&quot;
 

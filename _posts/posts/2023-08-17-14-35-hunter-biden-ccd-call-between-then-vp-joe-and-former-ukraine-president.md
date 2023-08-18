@@ -9,7 +9,7 @@ length: 216
 datetime: Thu, 17 Aug 2023 14:35:00 +0000
 tags: podcast
 guid: hunter-biden-ccd-call-between-then-vp-joe-and-former-ukraine-president-0
-order: 2
+order: 1
 ---
 &quot;The Committee seeks unrestricted special access...&quot;
 
