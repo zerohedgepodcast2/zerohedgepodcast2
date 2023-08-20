@@ -9,7 +9,7 @@ length: 435
 datetime: Sun, 20 Aug 2023 11:00:00 +0000
 tags: podcast
 guid: dependency-state-core-takeover-plot-humanity-0
-order: 0
+order: 1
 ---
 Most of you have entered the final stage of your voluntary acceptance of mass slavery, and that slavery is fully dependent on the concept of fear, compliance to a false authority,' and total dependence on the very tyrant called government...
 

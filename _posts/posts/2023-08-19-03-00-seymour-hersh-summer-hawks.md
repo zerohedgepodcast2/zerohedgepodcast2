@@ -9,7 +9,7 @@ length: 306
 datetime: Sat, 19 Aug 2023 03:00:00 +0000
 tags: podcast
 guid: seymour-hersh-summer-hawks-0
-order: 1
+order: 0
 ---
 Wishful thinking is still the rule among Biden's foreign policy team, as the slaughter in Ukraine continues...
 
