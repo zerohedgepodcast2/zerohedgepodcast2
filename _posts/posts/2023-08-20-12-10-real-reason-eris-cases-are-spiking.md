@@ -9,7 +9,7 @@ length: 156
 datetime: Sun, 20 Aug 2023 12:10:00 +0000
 tags: podcast
 guid: real-reason-eris-cases-are-spiking-0
-order: 2
+order: 1
 ---
 The next round of Covid &quot;vaccines&quot; hits the shelves next month...
 
