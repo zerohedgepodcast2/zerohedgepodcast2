@@ -9,7 +9,7 @@ length: 399
 datetime: Tue, 22 Aug 2023 16:05:00 +0000
 tags: podcast
 guid: corrupt-ukrainian-prosecutor-biden-had-quid-pro-fired-was-praised-us-govt-months-0
-order: 2
+order: 0
 ---
 &quot;Well, son of a bitch. He got fired!&quot;
 

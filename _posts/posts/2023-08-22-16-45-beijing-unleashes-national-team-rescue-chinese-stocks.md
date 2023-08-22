@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Beijing Unleashes 'National Team' To Rescue Chinese Stocks"
+audio: beijing-unleashes-national-team-rescue-chinese-stocks-0
+category: markets
+desc: "...unleash the 'plunge protectors'."
+duration: 00:01:33
+length: 93
+datetime: Tue, 22 Aug 2023 16:45:00 +0000
+tags: podcast
+guid: beijing-unleashes-national-team-rescue-chinese-stocks-0
+order: 0
+---
+...unleash the 'plunge protectors'.
+
+Link: [https://www.zerohedge.com/markets/beijing-unleashes-national-team-rescue-chinese-stocks](https://www.zerohedge.com/markets/beijing-unleashes-national-team-rescue-chinese-stocks)
+
+About: The Zerohedge Podcast is a non-commercial, automated program, designed to give people a way to get news from Zerohedge in an audio format.  I am actively working on tweaking and improving the setup to create a better listening experience (February 2023).  Suggestions are welcome: [zerohedgePodcast@outlook.com](mailto:zerohedgePodcast@outlook.com)
