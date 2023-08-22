@@ -9,7 +9,7 @@ length: 179
 datetime: Mon, 21 Aug 2023 23:21:00 +0000
 tags: podcast
 guid: us-brink-catastrophic-war-could-easily-destroy-us-col-douglas-macgregor-tells-tucker-0
-order: 0
+order: 2
 ---
 &quot;...few Americans seem to understand that, but they should.&quot;
 

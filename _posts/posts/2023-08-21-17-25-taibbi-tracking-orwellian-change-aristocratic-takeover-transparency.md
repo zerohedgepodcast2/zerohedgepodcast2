@@ -9,7 +9,7 @@ length: 421
 datetime: Mon, 21 Aug 2023 17:25:00 +0000
 tags: podcast
 guid: taibbi-tracking-orwellian-change-aristocratic-takeover-transparency-0
-order: 2
+order: 0
 ---
 Klaus Schwab, the Aspen Institute and others flip the meaning of a word that once meant the empowerment of populations against political elites
 
