@@ -9,7 +9,7 @@ length: 266
 datetime: Tue, 22 Aug 2023 10:55:00 +0000
 tags: podcast
 guid: children-were-incinerated-ash-livid-hawaiians-slam-biden-cracking-jokes-lying-about-wife-0
-order: 2
+order: 1
 ---
 &quot;You're a disgusting, despicable bastard...&quot;
 
