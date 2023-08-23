@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " &quot;Over 45% of the MSCI World market cap prefers bond yields to be going down, not up.&quot;"
-audio: can-tech-dismiss-rising-rates-8
+audio: can-tech-dismiss-rising-rates-9
 category: the-market-ear
 desc: 
 duration: 00:01:40
