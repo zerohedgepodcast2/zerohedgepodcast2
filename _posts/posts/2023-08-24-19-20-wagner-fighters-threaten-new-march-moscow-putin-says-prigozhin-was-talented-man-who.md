@@ -9,7 +9,7 @@ length: 221
 datetime: Thu, 24 Aug 2023 19:20:00 +0000
 tags: podcast
 guid: wagner-fighters-threaten-new-march-moscow-putin-says-prigozhin-was-talented-man-who-0
-order: 2
+order: 0
 ---
 &quot;I knew Prigozhin for a long time... He had a difficult path &amp; made serious mistakes in his life. But he got results.&quot;
 
