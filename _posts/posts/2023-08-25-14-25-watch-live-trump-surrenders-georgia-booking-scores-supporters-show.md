@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Election Interference&quot;: Trump Returns To Twitter After Georgia Booking"
-audio: watch-live-trump-surrenders-georgia-booking-scores-supporters-show-1
+audio: watch-live-trump-surrenders-georgia-booking-scores-supporters-show-2
 category: political
 desc: "NEVER SURRENDER!"
 duration: 00:03:53
 length: 233
-datetime: Fri, 25 Aug 2023 02:25:00 +0000
+datetime: Fri, 25 Aug 2023 14:25:00 +0000
 tags: podcast
 guid: watch-live-trump-surrenders-georgia-booking-scores-supporters-show-0
-order: 1
+order: 0
 ---
 NEVER SURRENDER!
 
