@@ -9,7 +9,7 @@ length: 158
 datetime: Thu, 24 Aug 2023 23:32:00 +0000
 tags: podcast
 guid: watch-live-trump-surrenders-georgia-booking-scores-supporters-show-0
-order: 2
+order: 1
 ---
 &quot;You don't have the right to persecute somebody unjustly...&quot;
 
