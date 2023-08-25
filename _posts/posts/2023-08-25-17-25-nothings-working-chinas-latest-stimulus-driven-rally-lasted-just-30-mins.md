@@ -1,0 +1,18 @@
+---
+layout: post
+title: "&quot;Nothing's Working&quot; - China's Latest 'Stimulus'-Driven-Rally Lasted Just 30 Mins"
+audio: nothings-working-chinas-latest-stimulus-driven-rally-lasted-just-30-mins-0
+category: markets
+desc: "...the half-lifes of these interventions is shrinking rapidly..."
+duration: 00:01:42
+length: 102
+datetime: Fri, 25 Aug 2023 17:25:00 +0000
+tags: podcast
+guid: nothings-working-chinas-latest-stimulus-driven-rally-lasted-just-30-mins-0
+order: 0
+---
+...the half-lifes of these interventions is shrinking rapidly...
+
+Link: [https://www.zerohedge.com/markets/nothings-working-chinas-latest-stimulus-driven-rally-lasted-just-30-mins](https://www.zerohedge.com/markets/nothings-working-chinas-latest-stimulus-driven-rally-lasted-just-30-mins)
+
+About: The Zerohedge Podcast is a non-commercial, automated program, designed to give people a way to get news from Zerohedge in an audio format.  I am actively working on tweaking and improving the setup to create a better listening experience (February 2023).  Suggestions are welcome: [zerohedgePodcast@outlook.com](mailto:zerohedgePodcast@outlook.com)
