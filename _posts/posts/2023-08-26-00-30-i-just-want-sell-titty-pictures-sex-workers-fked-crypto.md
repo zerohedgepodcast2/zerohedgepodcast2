@@ -9,7 +9,7 @@ length: 400
 datetime: Sat, 26 Aug 2023 00:30:00 +0000
 tags: podcast
 guid: i-just-want-sell-titty-pictures-sex-workers-fked-crypto-0
-order: 1
+order: 0
 ---
 &quot;A bunch of bull$hit...&quot;
 

@@ -9,7 +9,7 @@ length: 452
 datetime: Sat, 26 Aug 2023 17:30:00 +0000
 tags: podcast
 guid: election-variant-citizens-push-back-against-mask-mandates-0
-order: 0
+order: 1
 ---
 &quot;And just like that, the election variant emerges...&quot;
 

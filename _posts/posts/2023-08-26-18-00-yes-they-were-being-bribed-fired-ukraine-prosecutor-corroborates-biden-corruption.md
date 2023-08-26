@@ -9,7 +9,7 @@ length: 190
 datetime: Sat, 26 Aug 2023 18:00:00 +0000
 tags: podcast
 guid: yes-they-were-being-bribed-fired-ukraine-prosecutor-corroborates-biden-corruption-0
-order: 0
+order: 2
 ---
 &quot;The fact that Joe Biden gave away $1 billion in U.S. money in exchange for my dismissal - my firing - isn't that alone a case of corruption?&quot;
 
