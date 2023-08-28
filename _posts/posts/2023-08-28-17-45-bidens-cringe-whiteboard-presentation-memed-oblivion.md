@@ -9,7 +9,7 @@ length: 176
 datetime: Mon, 28 Aug 2023 17:45:00 +0000
 tags: podcast
 guid: bidens-cringe-whiteboard-presentation-memed-oblivion-0
-order: 0
+order: 2
 ---
 'Professor Biden' gives a lecture...
 
