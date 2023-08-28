@@ -9,7 +9,7 @@ length: 248
 datetime: Mon, 28 Aug 2023 14:20:00 +0000
 tags: podcast
 guid: fists-fly-bodies-slammed-antifa-crashes-anti-migrant-protest-nyc-mayors-mansion-0
-order: 0
+order: 2
 ---
 ...right-wingers taunted opponents with chants of &quot;PASTY WHITE LIBERALS!&quot; 
 
