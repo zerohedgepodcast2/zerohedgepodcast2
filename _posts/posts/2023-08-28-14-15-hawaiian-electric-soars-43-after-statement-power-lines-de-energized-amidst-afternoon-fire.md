@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Hawaiian Electric Soars After Statement: Power Lines &quot;De-Energized&quot; When Fire Started"
-audio: hawaiian-electric-soars-43-after-statement-power-lines-de-energized-amidst-afternoon-fire-0
+audio: hawaiian-electric-soars-43-after-statement-power-lines-de-energized-amidst-afternoon-fire-1
 category: markets
 desc: "&quot;Jeff Bezos, you got what you wanted. Oprah, you got what you wanted.  F*** us all over&quot;. "
 duration: 00:08:39
 length: 519
-datetime: Mon, 28 Aug 2023 12:50:00 +0000
+datetime: Mon, 28 Aug 2023 14:15:00 +0000
 tags: podcast
 guid: hawaiian-electric-soars-43-after-statement-power-lines-de-energized-amidst-afternoon-fire-0
-order: 2
+order: 0
 ---
 &quot;Jeff Bezos, you got what you wanted. Oprah, you got what you wanted.  F*** us all over&quot;. 
 
