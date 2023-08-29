@@ -9,7 +9,7 @@ length: 369
 datetime: Mon, 28 Aug 2023 23:40:00 +0000
 tags: podcast
 guid: western-world-about-deliver-some-very-bad-news-its-young-adults-0
-order: 0
+order: 1
 ---
 Telling young people that they need to pay a higher proportion of their stagnant incomes to fund the pensions of people who are wealthier than they are ever likely to be is sure to go down like a lead balloon....
 

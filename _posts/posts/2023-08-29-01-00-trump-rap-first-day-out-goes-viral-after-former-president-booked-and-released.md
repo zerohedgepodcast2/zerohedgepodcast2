@@ -9,7 +9,7 @@ length: 256
 datetime: Tue, 29 Aug 2023 01:00:00 +0000
 tags: podcast
 guid: trump-rap-first-day-out-goes-viral-after-former-president-booked-and-released-0
-order: 0
+order: 2
 ---
 &quot;I felt Trump deserved a flex of his own so I went to work...&quot;
 
