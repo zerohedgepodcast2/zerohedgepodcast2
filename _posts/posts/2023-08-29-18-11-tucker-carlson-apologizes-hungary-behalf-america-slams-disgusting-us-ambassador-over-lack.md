@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Tucker Carlson Apologizes To Hungary On Behalf Of America, Slams 'Disgusting' US Ambassador Over Lack Of Diplomacy"
-audio: tucker-carlson-apologizes-hungary-behalf-america-slams-disgusting-us-ambassador-over-lack-0
+audio: tucker-carlson-apologizes-hungary-behalf-america-slams-disgusting-us-ambassador-over-lack-1
 category: political
 desc: "&quot;NATO is going to collapse, obviously...&quot;"
 duration: 00:04:15
 length: 255
-datetime: Tue, 29 Aug 2023 10:55:00 +0000
+datetime: Tue, 29 Aug 2023 18:11:00 +0000
 tags: podcast
 guid: tucker-carlson-apologizes-hungary-behalf-america-slams-disgusting-us-ambassador-over-lack-0
-order: 1
+order: 0
 ---
 &quot;NATO is going to collapse, obviously...&quot;
 

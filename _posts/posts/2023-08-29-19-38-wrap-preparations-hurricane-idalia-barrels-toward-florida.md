@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "&quot;Wrap Up Preparations!&quot;: Hurricane Idalia Barrels Toward Florida "
-audio: wrap-preparations-hurricane-idalia-barrels-toward-florida-0
+title: "Hurricane Chaos: FAA Warns &quot;May Pause&quot; Flights Across Florida; Tampa Port Signals Condition &quot;ZULU&quot;"
+audio: wrap-preparations-hurricane-idalia-barrels-toward-florida-1
 category: weather
-desc: "&quot;Rapid intensification is likely through landfall...&quot; "
-duration: 00:02:12
-length: 132
-datetime: Tue, 29 Aug 2023 16:40:00 +0000
+desc: "&quot;Hurricane Idalia is along 85W and we're watching for wobbles and any hints of eastward movement.&quot; "
+duration: 00:05:03
+length: 303
+datetime: Tue, 29 Aug 2023 19:38:00 +0000
 tags: podcast
 guid: wrap-preparations-hurricane-idalia-barrels-toward-florida-0
 order: 0
 ---
-&quot;Rapid intensification is likely through landfall...&quot; 
+&quot;Hurricane Idalia is along 85W and we're watching for wobbles and any hints of eastward movement.&quot; 
 
 Link: [https://www.zerohedge.com/weather/wrap-preparations-hurricane-idalia-barrels-toward-florida](https://www.zerohedge.com/weather/wrap-preparations-hurricane-idalia-barrels-toward-florida)
 
