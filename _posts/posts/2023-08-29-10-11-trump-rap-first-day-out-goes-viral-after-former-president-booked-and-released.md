@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Trump Rap 'First Day Out' Goes Viral After Former President Booked And Released"
-audio: trump-rap-first-day-out-goes-viral-after-former-president-booked-and-released-0
+audio: trump-rap-first-day-out-goes-viral-after-former-president-booked-and-released-1
 category: political
 desc: "&quot;I felt Trump deserved a flex of his own so I went to work...&quot;"
 duration: 00:04:16
 length: 256
-datetime: Tue, 29 Aug 2023 01:00:00 +0000
+datetime: Tue, 29 Aug 2023 10:11:00 +0000
 tags: podcast
 guid: trump-rap-first-day-out-goes-viral-after-former-president-booked-and-released-0
-order: 2
+order: 0
 ---
 &quot;I felt Trump deserved a flex of his own so I went to work...&quot;
 
