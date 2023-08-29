@@ -9,7 +9,7 @@ length: 255
 datetime: Tue, 29 Aug 2023 10:55:00 +0000
 tags: podcast
 guid: tucker-carlson-apologizes-hungary-behalf-america-slams-disgusting-us-ambassador-over-lack-0
-order: 2
+order: 1
 ---
 &quot;NATO is going to collapse, obviously...&quot;
 

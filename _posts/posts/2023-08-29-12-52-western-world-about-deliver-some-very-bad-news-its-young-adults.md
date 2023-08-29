@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The Western World Is About To Deliver Some Very Bad News To Its Young Adults"
-audio: western-world-about-deliver-some-very-bad-news-its-young-adults-0
+audio: western-world-about-deliver-some-very-bad-news-its-young-adults-1
 category: markets
 desc: "Telling young people that they need to pay a higher proportion of their stagnant incomes to fund the pensions of people who are wealthier than they are ever likely to be is sure to go down like a lead balloon...."
 duration: 00:06:09
 length: 369
-datetime: Mon, 28 Aug 2023 23:40:00 +0000
+datetime: Tue, 29 Aug 2023 12:52:00 +0000
 tags: podcast
 guid: western-world-about-deliver-some-very-bad-news-its-young-adults-0
-order: 1
+order: 0
 ---
 Telling young people that they need to pay a higher proportion of their stagnant incomes to fund the pensions of people who are wealthier than they are ever likely to be is sure to go down like a lead balloon....
 
