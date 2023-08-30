@@ -9,7 +9,7 @@ length: 82
 datetime: Wed, 30 Aug 2023 17:30:00 +0000
 tags: podcast
 guid: mcconnell-malfunctions-senate-minority-leader-glitches-hard-shocking-second-incident-0
-order: 0
+order: 2
 ---
  Aides had to step in to help him out and repeat questions...
 

@@ -9,7 +9,7 @@ length: 282
 datetime: Wed, 30 Aug 2023 15:13:00 +0000
 tags: podcast
 guid: hurricane-idalia-now-category-4-storm-florida-landfall-imminent-0
-order: 2
+order: 1
 ---
 &quot;Massive storm surge in Cedar Key.&quot; 
 
