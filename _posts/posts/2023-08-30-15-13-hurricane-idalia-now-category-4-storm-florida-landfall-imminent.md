@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Hurricane Idalia Makes Landfall On Florida's Big Bend As Category 3 Storm"
-audio: hurricane-idalia-now-category-4-storm-florida-landfall-imminent-1
+audio: hurricane-idalia-now-category-4-storm-florida-landfall-imminent-2
 category: weather
 desc: "&quot;Massive storm surge in Cedar Key.&quot; "
-duration: 00:04:15
-length: 255
-datetime: Wed, 30 Aug 2023 12:06:00 +0000
+duration: 00:04:42
+length: 282
+datetime: Wed, 30 Aug 2023 15:13:00 +0000
 tags: podcast
 guid: hurricane-idalia-now-category-4-storm-florida-landfall-imminent-0
 order: 2
