@@ -9,7 +9,7 @@ length: 193
 datetime: Tue, 29 Aug 2023 21:45:00 +0000
 tags: podcast
 guid: jordan-peterson-hits-back-after-canada-forces-him-coaching-program-over-controversial-0
-order: 0
+order: 1
 ---
 Obey or feel the lash...
 
