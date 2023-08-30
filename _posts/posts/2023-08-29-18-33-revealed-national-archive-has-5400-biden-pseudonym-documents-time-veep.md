@@ -9,7 +9,7 @@ length: 168
 datetime: Tue, 29 Aug 2023 18:33:00 +0000
 tags: podcast
 guid: revealed-national-archive-has-5400-biden-pseudonym-documents-time-veep-0
-order: 2
+order: 1
 ---
 14 months after FOIA request, the Archive &quot;has dragged its feet and still not produced a single email&quot; 
 

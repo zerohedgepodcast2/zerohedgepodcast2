@@ -9,7 +9,7 @@ length: 307
 datetime: Tue, 29 Aug 2023 14:33:00 +0000
 tags: podcast
 guid: labor-market-implodes-job-openings-crater-prior-data-unexpectedly-revised-sharply-lower-0
-order: 1
+order: 0
 ---
 Goodbye Bidenomics, welcome Brandonomics.
 
