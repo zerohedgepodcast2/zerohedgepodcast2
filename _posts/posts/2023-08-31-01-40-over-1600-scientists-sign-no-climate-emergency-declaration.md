@@ -9,7 +9,7 @@ length: 430
 datetime: Thu, 31 Aug 2023 01:40:00 +0000
 tags: podcast
 guid: over-1600-scientists-sign-no-climate-emergency-declaration-0
-order: 0
+order: 1
 ---
 Climate change &quot;is being used to control us through fear.&quot;
 

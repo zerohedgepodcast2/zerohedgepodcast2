@@ -9,7 +9,7 @@ length: 285
 datetime: Thu, 31 Aug 2023 02:20:00 +0000
 tags: podcast
 guid: 100-former-clerks-oof-supreme-court-justice-clarence-thomas-speak-out-0
-order: 0
+order: 2
 ---
 &quot;His integrity is unimpeachable...&quot;
 
