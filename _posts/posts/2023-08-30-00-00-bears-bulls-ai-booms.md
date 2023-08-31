@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bears did it again..."
-audio: bears-bulls-ai-booms-5
+audio: bears-bulls-ai-booms-6
 category: the-market-ear
 desc: 
 duration: 00:02:26
