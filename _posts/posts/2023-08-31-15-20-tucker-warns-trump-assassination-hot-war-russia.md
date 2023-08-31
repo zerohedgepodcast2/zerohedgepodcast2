@@ -9,7 +9,7 @@ length: 180
 datetime: Thu, 31 Aug 2023 15:20:00 +0000
 tags: podcast
 guid: tucker-warns-trump-assassination-hot-war-russia-0
-order: 0
+order: 1
 ---
 Graph it out, man...
 
