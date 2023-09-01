@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "it is hard to view a world where we don't see higher volatility..."
-audio: puts-tumbling-oil-teasing-and-qt-thundering-8
+audio: puts-tumbling-oil-teasing-and-qt-thundering-9
 category: the-market-ear
 desc: 
 duration: 00:02:36

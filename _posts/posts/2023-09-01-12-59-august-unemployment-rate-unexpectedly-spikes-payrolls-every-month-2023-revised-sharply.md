@@ -9,7 +9,7 @@ length: 630
 datetime: Fri, 01 Sep 2023 12:59:00 +0000
 tags: podcast
 guid: august-unemployment-rate-unexpectedly-spikes-payrolls-every-month-2023-revised-sharply-0
-order: 2
+order: 0
 ---
 The wheels are indeed starting to come off the labor market.
 
