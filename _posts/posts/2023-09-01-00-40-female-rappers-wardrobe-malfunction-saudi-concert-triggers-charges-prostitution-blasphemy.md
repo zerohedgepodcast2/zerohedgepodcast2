@@ -9,7 +9,7 @@ length: 170
 datetime: Fri, 01 Sep 2023 00:40:00 +0000
 tags: podcast
 guid: female-rappers-wardrobe-malfunction-saudi-concert-triggers-charges-prostitution-blasphemy-0
-order: 0
+order: 1
 ---
 Outrage in Riyadh after Iggy's lyrics told audience to &quot;bow down to a goddess.&quot;
 
