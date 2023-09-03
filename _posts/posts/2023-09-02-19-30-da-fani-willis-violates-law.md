@@ -9,7 +9,7 @@ length: 398
 datetime: Sat, 02 Sep 2023 19:30:00 +0000
 tags: podcast
 guid: da-fani-willis-violates-law-0
-order: 1
+order: 0
 ---
 The statutory violations are clear and obvious...
 

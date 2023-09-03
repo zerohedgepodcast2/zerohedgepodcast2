@@ -9,7 +9,7 @@ length: 516
 datetime: Sat, 02 Sep 2023 21:00:00 +0000
 tags: podcast
 guid: dire-warning-against-us-plan-turn-ukraine-europes-big-israel-0
-order: 2
+order: 1
 ---
 Max Blumenthal to Ron Paul D.C. conference: &quot;In order to defend democracy in Ukraine, democracy must be curtailed at home.&quot;
 
