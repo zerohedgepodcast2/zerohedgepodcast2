@@ -9,7 +9,7 @@ length: 179
 datetime: Fri, 01 Sep 2023 16:05:00 +0000
 tags: podcast
 guid: press-secretarys-lies-immediately-exposed-after-claim-biden-has-done-more-secure-border-0
-order: 1
+order: 0
 ---
 Immediate reality check after yet another bald-faced lie...
 

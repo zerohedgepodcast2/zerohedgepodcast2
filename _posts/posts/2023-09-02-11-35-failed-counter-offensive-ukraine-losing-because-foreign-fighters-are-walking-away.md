@@ -9,7 +9,7 @@ length: 233
 datetime: Sat, 02 Sep 2023 11:35:00 +0000
 tags: podcast
 guid: failed-counter-offensive-ukraine-losing-because-foreign-fighters-are-walking-away-0
-order: 2
+order: 0
 ---
 Is Ukraine relying almost entirely on veteran fighters from Europe and the US to do their dirty work?
 
