@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fear at four-year low..."
-audio: tme-weekend-i-have-abandoned-my-fear-2
+audio: tme-weekend-i-have-abandoned-my-fear-3
 category: the-market-ear
 desc: 
 duration: 00:01:51
