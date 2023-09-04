@@ -9,7 +9,7 @@ length: 255
 datetime: Mon, 04 Sep 2023 12:30:00 +0000
 tags: podcast
 guid: watch-fauci-squirms-cnn-anchor-confronts-him-data-showing-masks-dont-work-0
-order: 0
+order: 1
 ---
 &quot;There are other studies...&quot;
 
