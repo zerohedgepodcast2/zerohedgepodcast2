@@ -9,7 +9,7 @@ length: 106
 datetime: Sun, 03 Sep 2023 23:30:00 +0000
 tags: podcast
 guid: black-lives-dont-seem-matter-when-taken-black-lives-maher-rogan-go-0
-order: 0
+order: 1
 ---
 Murders have been happening way out of control in Chicago among the African-American Community for far too long...
 
