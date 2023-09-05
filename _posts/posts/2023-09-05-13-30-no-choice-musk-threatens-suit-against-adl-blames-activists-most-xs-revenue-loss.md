@@ -9,7 +9,7 @@ length: 300
 datetime: Tue, 05 Sep 2023 13:30:00 +0000
 tags: podcast
 guid: no-choice-musk-threatens-suit-against-adl-blames-activists-most-xs-revenue-loss-0
-order: 2
+order: 1
 ---
 &quot;To clear our platform's name... we have no choice but to file a defamation lawsuit against the ADL  oh the irony!&quot;
 
