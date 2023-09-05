@@ -9,7 +9,7 @@ length: 352
 datetime: Tue, 05 Sep 2023 17:40:00 +0000
 tags: podcast
 guid: new-jersey-governor-no-longer-wants-immigrants-after-earlier-advocating-sanctuary-state-0
-order: 0
+order: 2
 ---
 &quot;I don't see any scenario where we're going to be able to take in a program in Atlantic City or frankly elsewhere in the state...&quot;
 
