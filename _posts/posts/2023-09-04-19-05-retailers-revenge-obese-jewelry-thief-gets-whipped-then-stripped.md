@@ -9,7 +9,7 @@ length: 184
 datetime: Mon, 04 Sep 2023 19:05:00 +0000
 tags: podcast
 guid: retailers-revenge-obese-jewelry-thief-gets-whipped-then-stripped-0
-order: 2
+order: 0
 ---
 WATCH smash-and-grab turn into smash-that-flab
 

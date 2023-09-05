@@ -9,7 +9,7 @@ length: 135
 datetime: Mon, 04 Sep 2023 14:50:00 +0000
 tags: podcast
 guid: trump-lockdown-tyrant-does-180-says-no-new-mask-mandates-0
-order: 0
+order: 1
 ---
 &quot;We don't need to mandate...&quot;
 

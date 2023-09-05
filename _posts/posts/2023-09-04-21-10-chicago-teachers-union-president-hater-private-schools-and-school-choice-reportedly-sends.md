@@ -9,7 +9,7 @@ length: 183
 datetime: Mon, 04 Sep 2023 21:10:00 +0000
 tags: podcast
 guid: chicago-teachers-union-president-hater-private-schools-and-school-choice-reportedly-sends-0
-order: 0
+order: 2
 ---
 Stacy Davis-Gates is undoubtedly Illinois' most prominent and rabid opponent of school choice  and pretty much everybody and everything associated with it, all of which she labels racist or worse.
 
