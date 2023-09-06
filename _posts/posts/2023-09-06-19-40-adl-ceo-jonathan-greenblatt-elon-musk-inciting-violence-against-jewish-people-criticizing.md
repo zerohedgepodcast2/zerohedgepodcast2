@@ -9,7 +9,7 @@ length: 363
 datetime: Wed, 06 Sep 2023 19:40:00 +0000
 tags: podcast
 guid: adl-ceo-jonathan-greenblatt-elon-musk-inciting-violence-against-jewish-people-criticizing-0
-order: 0
+order: 2
 ---
 &quot;...not just alarming nor reckless... it is flat out dangerous...&quot;
 

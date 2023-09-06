@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NASDAQ has started to notice the latest move in rates.."
-audio: riding-rate-rollercoaster-0
+audio: riding-rate-rollercoaster-1
 category: the-market-ear
 desc: 
 duration: 00:02:00

@@ -9,7 +9,7 @@ length: 194
 datetime: Wed, 06 Sep 2023 12:45:00 +0000
 tags: podcast
 guid: facebook-files-white-house-peddled-obvious-foreign-lies-about-disinformation-dozen-0
-order: 1
+order: 0
 ---
 You know it's bad when Facebook employees call BS...
 
