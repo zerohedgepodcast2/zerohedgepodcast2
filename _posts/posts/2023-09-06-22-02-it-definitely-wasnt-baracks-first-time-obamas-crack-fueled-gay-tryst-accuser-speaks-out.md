@@ -9,7 +9,7 @@ length: 163
 datetime: Wed, 06 Sep 2023 22:02:00 +0000
 tags: podcast
 guid: it-definitely-wasnt-baracks-first-time-obamas-crack-fueled-gay-tryst-accuser-speaks-out-0
-order: 0
+order: 2
 ---
 &quot;I had given Barack $250 to pay for Coke...&quot;
 
