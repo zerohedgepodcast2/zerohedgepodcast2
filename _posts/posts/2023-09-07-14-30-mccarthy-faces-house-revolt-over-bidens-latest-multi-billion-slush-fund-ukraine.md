@@ -9,7 +9,7 @@ length: 272
 datetime: Thu, 07 Sep 2023 14:30:00 +0000
 tags: podcast
 guid: mccarthy-faces-house-revolt-over-bidens-latest-multi-billion-slush-fund-ukraine-0
-order: 2
+order: 0
 ---
 &quot;If Speaker McCarthy stands in our way, he may not have the job long...&quot;
 

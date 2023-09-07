@@ -9,7 +9,7 @@ length: 174
 datetime: Thu, 07 Sep 2023 17:25:00 +0000
 tags: podcast
 guid: mayor-eric-adams-says-migrant-crisis-will-destroy-new-york-city-0
-order: 0
+order: 2
 ---
 &quot;We're getting no support on this national crisis and we're receiving no support&quot; from the Biden administration.
 

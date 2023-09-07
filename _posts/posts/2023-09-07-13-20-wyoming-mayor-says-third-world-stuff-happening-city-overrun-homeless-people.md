@@ -9,7 +9,7 @@ length: 179
 datetime: Thu, 07 Sep 2023 13:20:00 +0000
 tags: podcast
 guid: wyoming-mayor-says-third-world-stuff-happening-city-overrun-homeless-people-0
-order: 1
+order: 0
 ---
 &quot;They destroyed everything ... It's horrible.&quot;
 
