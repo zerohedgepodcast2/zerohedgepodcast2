@@ -9,7 +9,7 @@ length: 220
 datetime: Thu, 07 Sep 2023 03:05:00 +0000
 tags: podcast
 guid: anthony-furey-its-just-bizarre-some-people-still-want-covid-measures-0
-order: 1
+order: 0
 ---
 The good news, however, is pretty much everyone has tuned out all of this noise by now....
 
