@@ -9,7 +9,7 @@ length: 97
 datetime: Fri, 08 Sep 2023 15:00:00 +0000
 tags: podcast
 guid: georgia-grand-jury-went-insane-targeted-lindsey-graham-and-38-others-over-j6-0
-order: 1
+order: 0
 ---
 Even Fani couldn't abide...
 

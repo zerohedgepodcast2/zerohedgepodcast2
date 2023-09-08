@@ -9,7 +9,7 @@ length: 398
 datetime: Fri, 08 Sep 2023 20:43:00 +0000
 tags: podcast
 guid: complicit-major-act-conflict-escalation-musk-denies-cnns-inflammatory-war-meddling-0
-order: 0
+order: 2
 ---
 Some pundits calling for SpaceX assets related to Ukraine to be nationalized...
 
