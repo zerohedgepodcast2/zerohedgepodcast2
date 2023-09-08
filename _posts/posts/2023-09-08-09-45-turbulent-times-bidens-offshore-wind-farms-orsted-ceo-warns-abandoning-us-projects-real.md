@@ -9,7 +9,7 @@ length: 191
 datetime: Fri, 08 Sep 2023 09:45:00 +0000
 tags: podcast
 guid: turbulent-times-bidens-offshore-wind-farms-orsted-ceo-warns-abandoning-us-projects-real-0
-order: 1
+order: 0
 ---
 &quot;We are still upholding a real option to walk away.&quot; 
 
