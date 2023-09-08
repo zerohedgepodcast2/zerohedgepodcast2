@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Gamestop Chair Ryan Cohen Probed By SEC For Bed Bath &amp; Beyond Pump And Dump"
-audio: gamestop-chair-ryan-cohen-probed-sec-bed-bath-beyond-pump-and-dump-0
+audio: gamestop-chair-ryan-cohen-probed-sec-bed-bath-beyond-pump-and-dump-1
 category: markets
 desc: "One day the SEC and @GaryGensler will figure out how management and top shareholders use call buying to force gamma squeezes of their own stock. But not yet.... not yet."
 duration: 00:05:43
 length: 343
-datetime: Fri, 08 Sep 2023 11:45:00 +0000
+datetime: Fri, 08 Sep 2023 13:10:00 +0000
 tags: podcast
 guid: gamestop-chair-ryan-cohen-probed-sec-bed-bath-beyond-pump-and-dump-0
 order: 0
