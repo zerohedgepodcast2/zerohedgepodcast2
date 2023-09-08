@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "buy high, sell low..."
-audio: frustration-running-high-3
+audio: frustration-running-high-4
 category: the-market-ear
 desc: 
 duration: 00:01:51
