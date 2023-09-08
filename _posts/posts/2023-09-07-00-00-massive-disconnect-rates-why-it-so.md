@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The disconnect from rates has been one of the big conundrums in 2023..."
-audio: massive-disconnect-rates-why-it-so-1
+audio: massive-disconnect-rates-why-it-so-2
 category: the-market-ear
 desc: 
 duration: 00:02:13
