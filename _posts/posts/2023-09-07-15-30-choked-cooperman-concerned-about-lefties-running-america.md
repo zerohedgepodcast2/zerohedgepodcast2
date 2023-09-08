@@ -9,7 +9,7 @@ length: 171
 datetime: Thu, 07 Sep 2023 15:30:00 +0000
 tags: podcast
 guid: choked-cooperman-concerned-about-lefties-running-america-0
-order: 1
+order: 0
 ---
 &quot;I have three terrific grandchildren and I want them to understand the merits of capitalism,&quot; 
 
