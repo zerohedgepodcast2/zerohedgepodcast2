@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "looking like the old IBM...?"
-audio: sudden-fear-apple-goes-7
+audio: sudden-fear-apple-goes-8
 category: the-market-ear
 desc: 
 duration: 00:02:57
