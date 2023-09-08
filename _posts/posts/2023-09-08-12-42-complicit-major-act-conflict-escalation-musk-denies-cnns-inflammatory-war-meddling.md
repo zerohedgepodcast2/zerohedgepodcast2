@@ -9,7 +9,7 @@ length: 273
 datetime: Fri, 08 Sep 2023 12:42:00 +0000
 tags: podcast
 guid: complicit-major-act-conflict-escalation-musk-denies-cnns-inflammatory-war-meddling-0
-order: 1
+order: 2
 ---
 &quot;How am I in this war?&quot;
 
