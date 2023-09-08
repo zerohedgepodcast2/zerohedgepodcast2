@@ -9,7 +9,7 @@ length: 190
 datetime: Fri, 08 Sep 2023 15:20:00 +0000
 tags: podcast
 guid: defund-police-democrat-politician-left-broken-leg-bloodied-face-after-violent-carjacking-0
-order: 0
+order: 2
 ---
 &quot;Look at my face in the picture. This is the face of a mother who just had the [expletive] beaten out of her...&quot;
 
