@@ -9,7 +9,7 @@ length: 332
 datetime: Sat, 09 Sep 2023 16:00:00 +0000
 tags: podcast
 guid: full-authoritarian-new-mexico-governor-restricts-constitutional-gun-rights-law-abiding-0
-order: 0
+order: 2
 ---
 Trial balloon?
 
