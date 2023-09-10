@@ -9,7 +9,7 @@ length: 426
 datetime: Sat, 09 Sep 2023 22:58:00 +0000
 tags: podcast
 guid: full-authoritarian-new-mexico-governor-restricts-constitutional-gun-rights-law-abiding-0
-order: 2
+order: 1
 ---
 &quot;This is an abhorrent attempt at imposing a radical, progressive agenda on an unwilling populous.&quot; 
 

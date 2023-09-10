@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Zelensky: Musk &quot;Committing Evil&quot; &amp; Driven By &quot;Big Ego&quot;"
-audio: complicit-major-act-conflict-escalation-musk-denies-cnns-inflammatory-war-meddling-1
+title: "Zelensky On Starlink-Gate: Musk &quot;Committing Evil&quot; &amp; Driven By &quot;Big Ego&quot;"
+audio: complicit-major-act-conflict-escalation-musk-denies-cnns-inflammatory-war-meddling-2
 category: geopolitical
 desc: "Some pundits calling for SpaceX assets related to Ukraine to be nationalized..."
 duration: 00:06:38
 length: 398
-datetime: Fri, 08 Sep 2023 20:43:00 +0000
+datetime: Sat, 09 Sep 2023 19:55:00 +0000
 tags: podcast
 guid: complicit-major-act-conflict-escalation-musk-denies-cnns-inflammatory-war-meddling-0
-order: 1
+order: 0
 ---
 Some pundits calling for SpaceX assets related to Ukraine to be nationalized...
 
