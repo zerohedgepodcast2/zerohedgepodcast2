@@ -9,7 +9,7 @@ length: 271
 datetime: Sun, 10 Sep 2023 16:00:00 +0000
 tags: podcast
 guid: pardon-issued-dad-who-exploded-rage-over-daughters-transgender-bathroom-rape-school-0
-order: 2
+order: 1
 ---
 &quot;Six cop cars showed up like a f**king SWAT team...&quot;
 
