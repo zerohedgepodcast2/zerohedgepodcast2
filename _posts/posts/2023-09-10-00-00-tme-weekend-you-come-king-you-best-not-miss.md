@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "some random observations that you might have missed over the weekend..."
-audio: tme-weekend-you-come-king-you-best-not-miss-2
+audio: tme-weekend-you-come-king-you-best-not-miss-4
 category: the-market-ear
 desc: 
 duration: 00:01:30
