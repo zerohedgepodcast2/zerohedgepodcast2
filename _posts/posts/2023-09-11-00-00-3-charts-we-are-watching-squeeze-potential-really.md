@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Hedge fund cumulative short flows in US has dramatically shot up higher..."
-audio: 3-charts-we-are-watching-squeeze-potential-really-0
+audio: 3-charts-we-are-watching-squeeze-potential-really-3
 category: the-market-ear
 desc: 
-duration: 00:00:49
-length: 49
+duration: 00:00:59
+length: 59
 datetime: Mon, 11 Sep 2023 00:00:00 +0000
 tags: podcast
 guid: 3-charts-we-are-watching-squeeze-potential-really-0
