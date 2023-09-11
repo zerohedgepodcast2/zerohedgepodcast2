@@ -9,7 +9,7 @@ length: 243
 datetime: Mon, 11 Sep 2023 20:20:00 +0000
 tags: podcast
 guid: when-will-dem-voters-finally-concede-something-has-gone-very-wrong-our-country-0
-order: 0
+order: 2
 ---
 ...there is no way that the &quot;JB&quot; can possibly run for reelection under any circumstances. It's just another trip being laid on the American public...
 

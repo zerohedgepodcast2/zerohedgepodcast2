@@ -9,7 +9,7 @@ length: 424
 datetime: Mon, 11 Sep 2023 19:05:00 +0000
 tags: podcast
 guid: why-not-culture-why-georgia-final-report-should-worry-us-all-0
-order: 0
+order: 1
 ---
 ...there is little thought given to the implications of actions beyond immediate vengeance and satisfaction.
 
