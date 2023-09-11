@@ -9,7 +9,7 @@ length: 218
 datetime: Mon, 11 Sep 2023 02:00:00 +0000
 tags: podcast
 guid: reparations-backlash-california-voters-oppose-unfair-cash-payments-slavery-according-0
-order: 2
+order: 1
 ---
 &quot;It's unfair to ask today's taxpayers to pay for wrongs committed in the past...&quot;
 

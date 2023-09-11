@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Are Emergency Powers A Test To See What Americans Will Put Up With?"
-audio: are-emergency-powers-test-see-what-americans-will-put-0
+audio: are-emergency-powers-test-see-what-americans-will-put-1
 category: political
 desc: "The timing and tone of the state government decision on gun carry in Albuquerque reads like a political maneuver, a test to see what the public will submit to..."
 duration: 00:05:41
 length: 341
-datetime: Sun, 10 Sep 2023 22:00:00 +0000
+datetime: Mon, 11 Sep 2023 17:45:00 +0000
 tags: podcast
 guid: are-emergency-powers-test-see-what-americans-will-put-0
-order: 1
+order: 0
 ---
 The timing and tone of the state government decision on gun carry in Albuquerque reads like a political maneuver, a test to see what the public will submit to...
 
