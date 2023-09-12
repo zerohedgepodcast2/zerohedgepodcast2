@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "everybody is a China bear..."
-audio: it-so-wrong-it-might-actually-be-right-6
+audio: it-so-wrong-it-might-actually-be-right-7
 category: the-market-ear
 desc: 
 duration: 00:02:48
