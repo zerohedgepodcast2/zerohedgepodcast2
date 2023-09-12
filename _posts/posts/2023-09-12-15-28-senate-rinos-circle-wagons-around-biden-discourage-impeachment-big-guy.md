@@ -9,7 +9,7 @@ length: 245
 datetime: Tue, 12 Sep 2023 15:28:00 +0000
 tags: podcast
 guid: senate-rinos-circle-wagons-around-biden-discourage-impeachment-big-guy-0
-order: 2
+order: 1
 ---
 Comer and Jordan unleashed...
 

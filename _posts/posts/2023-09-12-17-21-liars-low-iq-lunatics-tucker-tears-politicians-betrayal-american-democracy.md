@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Liars&quot; &amp; &quot;Low IQ Lunatics&quot;: Tucker Tears Into Politicians' &quot;Betrayal Of American Democracy&quot;"
-audio: liars-low-iq-lunatics-tucker-tears-politicians-betrayal-american-democracy-0
+audio: liars-low-iq-lunatics-tucker-tears-politicians-betrayal-american-democracy-1
 category: political
 desc: "&quot;Most governments are run by a small group of people for their own benefit without reference to what the majority wants,&quot; "
 duration: 00:01:54
 length: 114
-datetime: Tue, 12 Sep 2023 12:50:00 +0000
+datetime: Tue, 12 Sep 2023 17:21:00 +0000
 tags: podcast
 guid: liars-low-iq-lunatics-tucker-tears-politicians-betrayal-american-democracy-0
-order: 1
+order: 0
 ---
 &quot;Most governments are run by a small group of people for their own benefit without reference to what the majority wants,&quot; 
 
