@@ -9,7 +9,7 @@ length: 163
 datetime: Tue, 12 Sep 2023 00:40:00 +0000
 tags: podcast
 guid: nato-prepares-biggest-military-exercise-cold-war-and-close-russia-0
-order: 0
+order: 1
 ---
 what could go wrong? 
 

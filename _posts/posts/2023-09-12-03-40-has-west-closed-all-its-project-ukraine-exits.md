@@ -9,7 +9,7 @@ length: 733
 datetime: Tue, 12 Sep 2023 03:40:00 +0000
 tags: podcast
 guid: has-west-closed-all-its-project-ukraine-exits-0
-order: 0
+order: 2
 ---
 In other words, the way to an end game is regime change. And the weak regimes are all in the West...
 
