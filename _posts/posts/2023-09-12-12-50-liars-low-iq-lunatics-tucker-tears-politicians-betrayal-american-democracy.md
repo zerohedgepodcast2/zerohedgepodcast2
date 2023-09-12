@@ -9,7 +9,7 @@ length: 114
 datetime: Tue, 12 Sep 2023 12:50:00 +0000
 tags: podcast
 guid: liars-low-iq-lunatics-tucker-tears-politicians-betrayal-american-democracy-0
-order: 2
+order: 1
 ---
 &quot;Most governments are run by a small group of people for their own benefit without reference to what the majority wants,&quot; 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "time to get busy..."
-audio: 3-charts-we-are-watching-remember-vix-seasonality-starts-now-4
+audio: 3-charts-we-are-watching-remember-vix-seasonality-starts-now-5
 category: the-market-ear
 desc: 
 duration: 00:00:57
