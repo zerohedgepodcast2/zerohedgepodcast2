@@ -9,7 +9,7 @@ length: 203
 datetime: Tue, 12 Sep 2023 17:45:00 +0000
 tags: podcast
 guid: cia-bribed-analysts-change-lab-leak-conclusions-senior-level-whistleblower-0
-order: 0
+order: 2
 ---
 &quot;...a significant monetary incentive to change their position...&quot;
 
