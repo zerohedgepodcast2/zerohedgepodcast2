@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "time to get busy..."
-audio: 3-charts-we-are-watching-remember-vix-seasonality-starts-now-7
+title: "&quot;Rallying rates and commodities are derailing the goldilocks soft landing scenario...&quot;"
+audio: oops-inflation-0
 category: the-market-ear
 desc: 
-duration: 00:00:57
-length: 57
+duration: 00:02:21
+length: 141
 datetime: Tue, 12 Sep 2023 00:00:00 +0000
 tags: podcast
-guid: 3-charts-we-are-watching-remember-vix-seasonality-starts-now-0
+guid: oops-inflation-0
 order: 0
 ---
 
 
-Link: [https://www.zerohedge.com/the-market-ear/3-charts-we-are-watching-remember-vix-seasonality-starts-now](https://www.zerohedge.com/the-market-ear/3-charts-we-are-watching-remember-vix-seasonality-starts-now)
+Link: [https://www.zerohedge.com/the-market-ear/oops-inflation](https://www.zerohedge.com/the-market-ear/oops-inflation)
 
 About: The Zerohedge Podcast is a non-commercial, automated program, designed to give people a way to get news from Zerohedge in an audio format.  I am actively working on tweaking and improving the setup to create a better listening experience (February 2023).  Suggestions are welcome: [zerohedgePodcast@outlook.com](mailto:zerohedgePodcast@outlook.com)

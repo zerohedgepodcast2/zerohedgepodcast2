@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fat over AI..."
-audio: tme-daily-chasing-fait-9
+audio: tme-daily-chasing-fait-10
 category: the-market-ear
 desc: 
 duration: 00:01:49
