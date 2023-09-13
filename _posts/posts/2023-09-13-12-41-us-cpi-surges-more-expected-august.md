@@ -9,7 +9,7 @@ length: 102
 datetime: Wed, 13 Sep 2023 12:41:00 +0000
 tags: podcast
 guid: us-cpi-surges-more-expected-august-0
-order: 0
+order: 2
 ---
 ...the biggest MoM since June 2022...
 
