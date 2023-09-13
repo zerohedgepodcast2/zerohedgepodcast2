@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;Rallying rates and commodities are derailing the goldilocks soft landing scenario...&quot;"
-audio: oops-inflation-8
+audio: oops-inflation-9
 category: the-market-ear
 desc: 
 duration: 00:02:21
