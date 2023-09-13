@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "observations on a boring day..."
-audio: ai-aristocracy-russell-roulette-and-luxurys-double-edged-sword-1
+audio: ai-aristocracy-russell-roulette-and-luxurys-double-edged-sword-2
 category: the-market-ear
 desc: 
 duration: 00:02:31
