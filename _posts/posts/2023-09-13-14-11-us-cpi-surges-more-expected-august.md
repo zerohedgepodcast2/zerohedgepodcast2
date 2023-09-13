@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "US CPI Surges More Than Expected In August"
-audio: us-cpi-surges-more-expected-august-0
+title: "US CPI Surges More Than Expected In August As Gas Prices Soar"
+audio: us-cpi-surges-more-expected-august-1
 category: personal-finance
 desc: "...the biggest MoM since June 2022..."
-duration: 00:01:42
-length: 102
-datetime: Wed, 13 Sep 2023 12:41:00 +0000
+duration: 00:04:57
+length: 297
+datetime: Wed, 13 Sep 2023 14:11:00 +0000
 tags: podcast
 guid: us-cpi-surges-more-expected-august-0
-order: 2
+order: 0
 ---
 ...the biggest MoM since June 2022...
 

@@ -9,7 +9,7 @@ length: 147
 datetime: Wed, 13 Sep 2023 14:15:00 +0000
 tags: podcast
 guid: rfk-jr-telegraphs-threat-vacate-democrat-party-plantation-0
-order: 0
+order: 1
 ---
 Under no circumstances whatsoever will he be permitted to win the nomination...
 

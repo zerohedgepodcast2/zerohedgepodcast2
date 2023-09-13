@@ -9,7 +9,7 @@ length: 283
 datetime: Wed, 13 Sep 2023 10:30:00 +0000
 tags: podcast
 guid: covid-cancellations-are-back-california-high-schools-cancel-football-games-0
-order: 1
+order: 0
 ---
 &quot;We have an outbreak...&quot; (of insanity?)
 
