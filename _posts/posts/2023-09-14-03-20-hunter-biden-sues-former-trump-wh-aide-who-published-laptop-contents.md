@@ -9,7 +9,7 @@ length: 232
 datetime: Thu, 14 Sep 2023 03:20:00 +0000
 tags: podcast
 guid: hunter-biden-sues-former-trump-wh-aide-who-published-laptop-contents-0
-order: 2
+order: 1
 ---
 The 13-page lawsuit alleges that Ziegler and others violated federal and California privacy laws...
 
