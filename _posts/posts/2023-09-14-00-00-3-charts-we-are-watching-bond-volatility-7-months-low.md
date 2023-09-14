@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "follow the MOVE...?"
-audio: 3-charts-we-are-watching-bond-volatility-7-months-low-8
+audio: 3-charts-we-are-watching-bond-volatility-7-months-low-9
 category: the-market-ear
 desc: 
 duration: 00:00:46
