@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Ceasers Reportedly Paid Millions To Hackers, While MGM Paralyzed In Cyberattack"
-audio: ceasers-reportedly-paid-millions-hackers-while-mgm-paralyzed-cyberattack-0
+title: "Caesars Confirms 'Sin-City Cyber-Attack': Member Database Stolen, Including &quot;Social Security Numbers&quot;"
+audio: ceasers-reportedly-paid-millions-hackers-while-mgm-paralyzed-cyberattack-1
 category: technology
-desc: "Sin-City Cyber-Siege?"
-duration: 00:01:46
-length: 106
-datetime: Thu, 14 Sep 2023 13:05:00 +0000
+desc: "What a disaster for Vegas casinos. "
+duration: 00:03:48
+length: 228
+datetime: Thu, 14 Sep 2023 15:10:00 +0000
 tags: podcast
 guid: ceasers-reportedly-paid-millions-hackers-while-mgm-paralyzed-cyberattack-0
 order: 0
 ---
-Sin-City Cyber-Siege?
+What a disaster for Vegas casinos. 
 
 Link: [https://www.zerohedge.com/technology/ceasers-reportedly-paid-millions-hackers-while-mgm-paralyzed-cyberattack](https://www.zerohedge.com/technology/ceasers-reportedly-paid-millions-hackers-while-mgm-paralyzed-cyberattack)
 

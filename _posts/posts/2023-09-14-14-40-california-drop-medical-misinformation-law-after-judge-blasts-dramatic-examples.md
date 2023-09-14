@@ -9,7 +9,7 @@ length: 223
 datetime: Thu, 14 Sep 2023 14:40:00 +0000
 tags: podcast
 guid: california-drop-medical-misinformation-law-after-judge-blasts-dramatic-examples-0
-order: 0
+order: 2
 ---
 &quot;Their COVID medical censorship law has been so thoroughly condemned across the political spectrum and so roundly rejected by courts that the Legislature is repealing its own law a year after passage...&quot;
 
