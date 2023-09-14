@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Hunter Biden Sues Former Trump WH Aide Who Published Laptop Contents"
-audio: hunter-biden-sues-former-trump-wh-aide-who-published-laptop-contents-0
+audio: hunter-biden-sues-former-trump-wh-aide-who-published-laptop-contents-1
 category: political
 desc: "The 13-page lawsuit alleges that Ziegler and others violated federal and California privacy laws..."
-duration: 00:03:52
-length: 232
-datetime: Thu, 14 Sep 2023 03:20:00 +0000
+duration: 00:03:59
+length: 239
+datetime: Thu, 14 Sep 2023 13:35:00 +0000
 tags: podcast
 guid: hunter-biden-sues-former-trump-wh-aide-who-published-laptop-contents-0
-order: 1
+order: 0
 ---
 The 13-page lawsuit alleges that Ziegler and others violated federal and California privacy laws...
 

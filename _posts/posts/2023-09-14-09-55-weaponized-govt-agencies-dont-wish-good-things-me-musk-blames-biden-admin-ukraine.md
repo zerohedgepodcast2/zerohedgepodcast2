@@ -9,7 +9,7 @@ length: 289
 datetime: Thu, 14 Sep 2023 09:55:00 +0000
 tags: podcast
 guid: weaponized-govt-agencies-dont-wish-good-things-me-musk-blames-biden-admin-ukraine-0
-order: 0
+order: 1
 ---
 &quot;...there does seem to be some significant increase in the weaponization of government and really sort of misuse of prosecutorial discretion in many areas... I think this is really a dangerous thing...&quot;
 
