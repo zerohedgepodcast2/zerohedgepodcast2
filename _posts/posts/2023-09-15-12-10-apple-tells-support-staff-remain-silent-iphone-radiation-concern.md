@@ -9,7 +9,7 @@ length: 128
 datetime: Fri, 15 Sep 2023 12:10:00 +0000
 tags: podcast
 guid: apple-tells-support-staff-remain-silent-iphone-radiation-concern-0
-order: 1
+order: 0
 ---
 &quot;Staff should also reject customers' requests ...&quot; 
 

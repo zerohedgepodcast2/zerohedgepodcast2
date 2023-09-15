@@ -9,7 +9,7 @@ length: 498
 datetime: Fri, 15 Sep 2023 14:55:00 +0000
 tags: podcast
 guid: unprecedented-uaw-strike-13000-workers-walk-job-detroit-automaker-plants-0
-order: 2
+order: 0
 ---
 &quot;The UAW strike and indeed the 'summer of strikes' is the natural result of the Biden administration's 'whole of government' approach to promoting unionization at all costs.&quot; 
 
