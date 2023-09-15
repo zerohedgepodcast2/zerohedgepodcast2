@@ -9,7 +9,7 @@ length: 602
 datetime: Fri, 15 Sep 2023 01:20:00 +0000
 tags: podcast
 guid: never-embrace-socialism-or-siren-song-social-justice-argentine-presidential-candidate-0
-order: 1
+order: 0
 ---
 &quot;The State does not create wealth, the State destroys it. The State can give you nothing, because it produces nothing...&quot;
 
