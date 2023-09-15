@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "follow speculation...."
-audio: incremental-reasons-try-contrarian-long-china-7
+audio: incremental-reasons-try-contrarian-long-china-8
 category: the-market-ear
 desc: 
 duration: 00:01:32
