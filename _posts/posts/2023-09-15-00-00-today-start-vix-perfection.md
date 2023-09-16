@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "too good to be true...?"
-audio: today-start-vix-perfection-5
+audio: today-start-vix-perfection-6
 category: the-market-ear
 desc: 
 duration: 00:01:39
