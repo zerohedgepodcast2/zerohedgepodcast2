@@ -9,7 +9,7 @@ length: 255
 datetime: Fri, 15 Sep 2023 17:40:00 +0000
 tags: podcast
 guid: just-tip-ap-gave-dem-porn-wife-heads-wapo-scoop-allowing-her-delete-videos-0
-order: 1
+order: 0
 ---
 &quot;It's gonna be great. I'm definitely a slut...&quot;
 

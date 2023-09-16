@@ -9,7 +9,7 @@ length: 155
 datetime: Sat, 16 Sep 2023 02:00:00 +0000
 tags: podcast
 guid: white-house-doctors-official-transcript-after-biden-says-black-and-hispanic-workers-dont-0
-order: 0
+order: 1
 ---
 Do they also live in racial jungles?
 
