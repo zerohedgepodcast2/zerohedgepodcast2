@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "rates, rates volatility or reserves...?"
-audio: 3-charts-we-are-watching-what-are-we-actually-trading-7
+audio: 3-charts-we-are-watching-what-are-we-actually-trading-8
 category: the-market-ear
 desc: 
 duration: 00:01:03
