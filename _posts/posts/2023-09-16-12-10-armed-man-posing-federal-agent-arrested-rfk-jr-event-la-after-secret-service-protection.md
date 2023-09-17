@@ -9,7 +9,7 @@ length: 261
 datetime: Sat, 16 Sep 2023 12:10:00 +0000
 tags: podcast
 guid: armed-man-posing-federal-agent-arrested-rfk-jr-event-la-after-secret-service-protection-0
-order: 2
+order: 0
 ---
 The man, wearing two shoulder holsters with loaded pistols and spare ammunition magazines was carrying a U.S. Marshal badge on a lanyard and beltclip federal ID...
 
