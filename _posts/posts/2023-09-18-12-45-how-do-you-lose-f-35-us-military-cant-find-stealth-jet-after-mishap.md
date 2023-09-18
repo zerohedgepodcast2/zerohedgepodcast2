@@ -9,7 +9,7 @@ length: 128
 datetime: Mon, 18 Sep 2023 12:45:00 +0000
 tags: podcast
 guid: how-do-you-lose-f-35-us-military-cant-find-stealth-jet-after-mishap-0
-order: 0
+order: 2
 ---
 &quot;How is there not a tracking device and we're asking the public to what, find a jet and turn it in?&quot; 
 

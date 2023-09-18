@@ -9,7 +9,7 @@ length: 118
 datetime: Mon, 18 Sep 2023 10:55:00 +0000
 tags: podcast
 guid: thanks-joe-gas-prices-have-never-been-high-time-year-0
-order: 2
+order: 1
 ---
 &quot;I remain laser-focused on cutting energy costs, including by investing in clean energy to bolster our energy security...&quot;
 

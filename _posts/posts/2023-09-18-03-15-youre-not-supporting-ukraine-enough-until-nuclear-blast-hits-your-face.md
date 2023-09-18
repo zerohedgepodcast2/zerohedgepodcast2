@@ -9,7 +9,7 @@ length: 337
 datetime: Mon, 18 Sep 2023 03:15:00 +0000
 tags: podcast
 guid: youre-not-supporting-ukraine-enough-until-nuclear-blast-hits-your-face-0
-order: 1
+order: 0
 ---
 What happened to Elon Musk this past week showcases how completely unhinged and dangerous U.S. policy to Ukraine has become...
 
