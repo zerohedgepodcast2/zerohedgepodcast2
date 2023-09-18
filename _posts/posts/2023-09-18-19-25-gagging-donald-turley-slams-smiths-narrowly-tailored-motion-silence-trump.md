@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Gagging Donald: Turley Slams Smith's &quot;Narrowly Tailored Motion&quot; To Silence Trump"
-audio: gagging-donald-turley-slams-smiths-narrowly-tailored-motion-silence-trump-0
+audio: gagging-donald-turley-slams-smiths-narrowly-tailored-motion-silence-trump-1
 category: political
 desc: "Under Smith's proposed motion, almost everyone (including Biden) will be able to discuss this case but Trump himself..."
 duration: 00:07:08
 length: 428
-datetime: Mon, 18 Sep 2023 12:25:00 +0000
+datetime: Mon, 18 Sep 2023 19:25:00 +0000
 tags: podcast
 guid: gagging-donald-turley-slams-smiths-narrowly-tailored-motion-silence-trump-0
-order: 1
+order: 0
 ---
 Under Smith's proposed motion, almost everyone (including Biden) will be able to discuss this case but Trump himself...
 

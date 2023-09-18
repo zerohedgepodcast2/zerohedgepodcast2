@@ -9,7 +9,7 @@ length: 258
 datetime: Mon, 18 Sep 2023 22:42:00 +0000
 tags: podcast
 guid: how-do-you-lose-f-35-us-military-cant-find-stealth-jet-after-mishap-0
-order: 2
+order: 1
 ---
 &quot;SCDNR is blocking the road at Bartells Crossroads in Williamsburg County after parts and debris from the F-35 Lightning II Jet were found.&quot; 
 
