@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A few warning signs but most indicators still stuck in neutral..."
-audio: 12-things-you-need-know-investor-positioning-9
+audio: 12-things-you-need-know-investor-positioning-1
 category: the-market-ear
 desc: 
 duration: 00:02:16
