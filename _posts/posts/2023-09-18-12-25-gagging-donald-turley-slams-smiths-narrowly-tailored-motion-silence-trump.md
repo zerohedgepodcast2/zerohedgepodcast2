@@ -9,7 +9,7 @@ length: 428
 datetime: Mon, 18 Sep 2023 12:25:00 +0000
 tags: podcast
 guid: gagging-donald-turley-slams-smiths-narrowly-tailored-motion-silence-trump-0
-order: 0
+order: 1
 ---
 Under Smith's proposed motion, almost everyone (including Biden) will be able to discuss this case but Trump himself...
 
