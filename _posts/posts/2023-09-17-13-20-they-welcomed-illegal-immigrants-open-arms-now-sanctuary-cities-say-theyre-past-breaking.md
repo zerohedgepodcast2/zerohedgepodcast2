@@ -9,7 +9,7 @@ length: 521
 datetime: Sun, 17 Sep 2023 13:20:00 +0000
 tags: podcast
 guid: they-welcomed-illegal-immigrants-open-arms-now-sanctuary-cities-say-theyre-past-breaking-0
-order: 2
+order: 0
 ---
 So it was literal virtue signaling all along...
 
