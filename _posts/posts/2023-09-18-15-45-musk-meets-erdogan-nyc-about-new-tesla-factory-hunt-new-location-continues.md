@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Musk Considers Saudi Arabia, Meets Erdogan About Potential Tesla Factory In Hunt For New Locations"
-audio: musk-meets-erdogan-nyc-about-new-tesla-factory-hunt-new-location-continues-0
+title: "&quot;Another Utterly False Article&quot;: Musk Blasts WSJ For Report On Tesla Potentially Building Saudi Gigafactory  "
+audio: musk-meets-erdogan-nyc-about-new-tesla-factory-hunt-new-location-continues-1
 category: technology
-desc: "A new gigafactory location will be revealed by year's end."
-duration: 00:01:55
-length: 115
-datetime: Mon, 18 Sep 2023 13:25:00 +0000
+desc: "&quot;Sounds like this could have been solved by the journo emailing Tesla and asking if it's true.&quot; "
+duration: 00:02:34
+length: 154
+datetime: Mon, 18 Sep 2023 15:45:00 +0000
 tags: podcast
 guid: musk-meets-erdogan-nyc-about-new-tesla-factory-hunt-new-location-continues-0
 order: 0
 ---
-A new gigafactory location will be revealed by year's end.
+&quot;Sounds like this could have been solved by the journo emailing Tesla and asking if it's true.&quot; 
 
 Link: [https://www.zerohedge.com/technology/musk-meets-erdogan-nyc-about-new-tesla-factory-hunt-new-location-continues](https://www.zerohedge.com/technology/musk-meets-erdogan-nyc-about-new-tesla-factory-hunt-new-location-continues)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "are the stars of 2023 just in a healthy consolidation or do we need to get worried?"
-audio: 3-charts-we-are-watching-tired-generals-9
+audio: 3-charts-we-are-watching-tired-generals-1
 category: the-market-ear
 desc: 
 duration: 00:01:00
