@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "cross-asset read-across from the only thing moving right now..."
-audio: 10-things-you-need-know-about-oil-rally-0
+audio: 10-things-you-need-know-about-oil-rally-1
 category: the-market-ear
 desc: 
 duration: 00:02:01

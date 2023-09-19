@@ -9,7 +9,7 @@ length: 164
 datetime: Mon, 18 Sep 2023 23:55:00 +0000
 tags: podcast
 guid: they-were-laughing-rogue-gang-teens-brutally-beat-gas-station-clerk-lawless-seattle-0
-order: 2
+order: 1
 ---
 &quot;Kids don't seem to fear anything anymore.&quot; 
 
