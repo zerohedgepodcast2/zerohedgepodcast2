@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Do we see 100 days without the SPX selling off 1.5% or more...?"
-audio: tme-weekend-tech-unraveling-cheap-hedges-and-oil-chasing-3
+audio: tme-weekend-tech-unraveling-cheap-hedges-and-oil-chasing-4
 category: the-market-ear
 desc: 
 duration: 00:02:35
