@@ -9,7 +9,7 @@ length: 202
 datetime: Tue, 19 Sep 2023 08:15:00 +0000
 tags: podcast
 guid: milley-stoltenberg-agree-we-must-prepare-ourselves-long-war-ukraine-0
-order: 0
+order: 2
 ---
 &quot;I can tell you that it'll take a considerable length of time to militarily eject all 200,000 or plus Russian troops out of Russian-occupied Ukraine. That's a very high bar. It's going to take a long time to do it.&quot;
 
