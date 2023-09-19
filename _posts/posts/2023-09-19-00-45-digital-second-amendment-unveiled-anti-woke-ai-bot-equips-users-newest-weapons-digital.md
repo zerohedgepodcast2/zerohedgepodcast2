@@ -9,7 +9,7 @@ length: 267
 datetime: Tue, 19 Sep 2023 00:45:00 +0000
 tags: podcast
 guid: digital-second-amendment-unveiled-anti-woke-ai-bot-equips-users-newest-weapons-digital-0
-order: 1
+order: 0
 ---
 &quot;The right of the people to keep and deploy models shall not be infringed.&quot; 
 

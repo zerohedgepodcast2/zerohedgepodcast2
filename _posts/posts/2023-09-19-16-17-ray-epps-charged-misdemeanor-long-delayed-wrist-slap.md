@@ -9,7 +9,7 @@ length: 132
 datetime: Tue, 19 Sep 2023 16:17:00 +0000
 tags: podcast
 guid: ray-epps-charged-misdemeanor-long-delayed-wrist-slap-0
-order: 0
+order: 2
 ---
 &quot;This lame single charge tells us everything we need to know about Ray Epps...&quot;
 

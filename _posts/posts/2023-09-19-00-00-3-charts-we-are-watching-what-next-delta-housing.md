@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " Is that a fundamental fake bottom?"
-audio: 3-charts-we-are-watching-what-next-delta-housing-9
+audio: 3-charts-we-are-watching-what-next-delta-housing-10
 category: the-market-ear
 desc: 
 duration: 00:01:00
