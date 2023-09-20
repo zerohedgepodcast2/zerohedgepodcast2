@@ -9,7 +9,7 @@ length: 276
 datetime: Wed, 20 Sep 2023 16:51:00 +0000
 tags: podcast
 guid: watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden-0
-order: 2
+order: 1
 ---
  Epps was only charged with a misdemeanor, while the DOJ is &quot;sending grandmas to prison.&quot;
 
