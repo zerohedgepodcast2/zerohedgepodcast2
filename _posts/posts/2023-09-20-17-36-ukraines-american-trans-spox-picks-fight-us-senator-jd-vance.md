@@ -9,7 +9,7 @@ length: 414
 datetime: Wed, 20 Sep 2023 17:36:00 +0000
 tags: podcast
 guid: ukraines-american-trans-spox-picks-fight-us-senator-jd-vance-0
-order: 0
+order: 1
 ---
 Curious timing given Zelensky is about to lobby Congress &amp; White House for more billions...
 
