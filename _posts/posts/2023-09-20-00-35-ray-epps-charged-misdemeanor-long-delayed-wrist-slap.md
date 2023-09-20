@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Ray Epps Charged With Misdemeanor In Long-Delayed Wrist-Slap"
-audio: ray-epps-charged-misdemeanor-long-delayed-wrist-slap-0
+audio: ray-epps-charged-misdemeanor-long-delayed-wrist-slap-1
 category: political
 desc: "&quot;This lame single charge tells us everything we need to know about Ray Epps...&quot;"
 duration: 00:02:12
 length: 132
-datetime: Tue, 19 Sep 2023 16:17:00 +0000
+datetime: Wed, 20 Sep 2023 00:35:00 +0000
 tags: podcast
 guid: ray-epps-charged-misdemeanor-long-delayed-wrist-slap-0
-order: 2
+order: 0
 ---
 &quot;This lame single charge tells us everything we need to know about Ray Epps...&quot;
 
