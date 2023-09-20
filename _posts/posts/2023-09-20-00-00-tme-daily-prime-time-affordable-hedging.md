@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "awaiting FOMC...."
-audio: tme-daily-prime-time-affordable-hedging-7
+audio: tme-daily-prime-time-affordable-hedging-8
 category: the-market-ear
 desc: 
 duration: 00:02:05

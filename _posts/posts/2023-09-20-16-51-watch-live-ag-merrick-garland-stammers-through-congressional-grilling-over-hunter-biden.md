@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch Live: AG Merrick Garland Stammers Through Congressional Grilling Over Hunter Biden Investigation"
-audio: watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden-0
+title: "Watch Live: Garland Grilled Over Ray Epps, Hunter Biden Influence Peddling"
+audio: watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden-1
 category: markets
-desc: "&quot;It's about saving face...&quot;"
-duration: 00:01:34
-length: 94
-datetime: Wed, 20 Sep 2023 15:05:00 +0000
+desc: " Epps was only charged with a misdemeanor, while the DOJ is &quot;sending grandmas to prison.&quot;"
+duration: 00:04:36
+length: 276
+datetime: Wed, 20 Sep 2023 16:51:00 +0000
 tags: podcast
 guid: watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden-0
-order: 0
+order: 2
 ---
-&quot;It's about saving face...&quot;
+ Epps was only charged with a misdemeanor, while the DOJ is &quot;sending grandmas to prison.&quot;
 
 Link: [https://www.zerohedge.com/markets/watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden](https://www.zerohedge.com/markets/watch-live-ag-merrick-garland-stammers-through-congressional-grilling-over-hunter-biden)
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Ukraine's American Trans Spox Picks A Fight With US Senator J.D. Vance"
-audio: ukraines-american-trans-spox-picks-fight-us-senator-jd-vance-0
+title: "Ukraine's Transgender Military Spox Fired For 'Unapproved' Statements"
+audio: ukraines-american-trans-spox-picks-fight-us-senator-jd-vance-1
 category: political
-desc: "Vance sends letter to top Biden officials demanding to know if Ashton-Cirillo has US intelligence ties..."
-duration: 00:04:32
-length: 272
-datetime: Wed, 20 Sep 2023 10:55:00 +0000
+desc: "Curious timing given Zelensky is about to lobby Congress &amp; White House for more billions..."
+duration: 00:06:54
+length: 414
+datetime: Wed, 20 Sep 2023 17:36:00 +0000
 tags: podcast
 guid: ukraines-american-trans-spox-picks-fight-us-senator-jd-vance-0
 order: 0
 ---
-Vance sends letter to top Biden officials demanding to know if Ashton-Cirillo has US intelligence ties...
+Curious timing given Zelensky is about to lobby Congress &amp; White House for more billions...
 
 Link: [https://www.zerohedge.com/political/ukraines-american-trans-spox-picks-fight-us-senator-jd-vance](https://www.zerohedge.com/political/ukraines-american-trans-spox-picks-fight-us-senator-jd-vance)
 
