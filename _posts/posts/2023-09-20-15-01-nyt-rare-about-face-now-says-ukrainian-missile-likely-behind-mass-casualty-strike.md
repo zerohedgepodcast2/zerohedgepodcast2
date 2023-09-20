@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "NYT In Rare About-Face Now Says Ukraine (Not Russia) Behind Mass Casualty Missile Strike On Market"
-audio: nyt-rare-about-face-now-says-ukrainian-missile-likely-behind-mass-casualty-strike-0
+audio: nyt-rare-about-face-now-says-ukrainian-missile-likely-behind-mass-casualty-strike-1
 category: geopolitical
 desc: "&quot;President Volodymyr Zelensky blamed Russian 'terrorists' for the attack, and many media outlets followed suit.&quot;"
 duration: 00:03:43
 length: 223
-datetime: Wed, 20 Sep 2023 00:25:00 +0000
+datetime: Wed, 20 Sep 2023 15:01:00 +0000
 tags: podcast
 guid: nyt-rare-about-face-now-says-ukrainian-missile-likely-behind-mass-casualty-strike-0
-order: 1
+order: 0
 ---
 &quot;President Volodymyr Zelensky blamed Russian 'terrorists' for the attack, and many media outlets followed suit.&quot;
 

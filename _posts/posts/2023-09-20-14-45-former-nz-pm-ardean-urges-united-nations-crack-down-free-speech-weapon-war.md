@@ -9,7 +9,7 @@ length: 147
 datetime: Wed, 20 Sep 2023 14:45:00 +0000
 tags: podcast
 guid: former-nz-pm-ardean-urges-united-nations-crack-down-free-speech-weapon-war-0
-order: 2
+order: 1
 ---
 She remains the &quot;empathetic&quot; face of raw censorship and intolerance. She is now the virtual ambassador-at-large for global speech criminalization...
 
