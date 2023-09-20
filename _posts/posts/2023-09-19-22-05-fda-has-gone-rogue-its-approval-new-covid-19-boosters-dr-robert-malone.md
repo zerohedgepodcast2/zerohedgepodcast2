@@ -9,7 +9,7 @@ length: 277
 datetime: Tue, 19 Sep 2023 22:05:00 +0000
 tags: podcast
 guid: fda-has-gone-rogue-its-approval-new-covid-19-boosters-dr-robert-malone-0
-order: 1
+order: 0
 ---
 &quot;It's difficult to conclude anything other than the FDA is no longer feeling bound by their own rules and regulations...&quot;
 

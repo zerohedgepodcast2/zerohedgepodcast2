@@ -9,7 +9,7 @@ length: 223
 datetime: Wed, 20 Sep 2023 00:25:00 +0000
 tags: podcast
 guid: nyt-rare-about-face-now-says-ukrainian-missile-likely-behind-mass-casualty-strike-0
-order: 2
+order: 1
 ---
 &quot;President Volodymyr Zelensky blamed Russian 'terrorists' for the attack, and many media outlets followed suit.&quot;
 
