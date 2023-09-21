@@ -9,7 +9,7 @@ length: 418
 datetime: Thu, 21 Sep 2023 16:20:00 +0000
 tags: podcast
 guid: gop-lawmakers-warn-white-house-ukraine-aid-mccarthy-vows-confront-zelensky-0
-order: 2
+order: 1
 ---
 Centrists rage: &quot;If you are a nihilist and you want to burn the place down...&quot;  
 
