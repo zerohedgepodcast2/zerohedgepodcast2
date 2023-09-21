@@ -9,7 +9,7 @@ length: 168
 datetime: Thu, 21 Sep 2023 09:45:00 +0000
 tags: podcast
 guid: rebooted-clinton-global-initiative-licks-chops-over-ukraine-humanitarian-aid-0
-order: 0
+order: 1
 ---
 &quot;The US is sending the World Bank $25 billion. Then, the World Bank is sending money to the Clintons. And then the Clintons are sending it to Ukraine...&quot;
 
