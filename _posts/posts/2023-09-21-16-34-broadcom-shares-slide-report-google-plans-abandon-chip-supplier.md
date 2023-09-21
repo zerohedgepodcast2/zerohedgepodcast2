@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Broadcom Shares Slide On Report Google Plans To Abandon Chip Supplier "
-audio: broadcom-shares-slide-report-google-plans-abandon-chip-supplier-0
+title: "Broadcom Recovers Losses After Google States &quot;No Change&quot; In Chip Relationship "
+audio: broadcom-shares-slide-report-google-plans-abandon-chip-supplier-1
 category: markets
-desc: "Google has &quot;extensively discussed dropping Broadcom as a supplier of artificial intelligence chips as early as 2027.&quot;"
-duration: 00:02:12
-length: 132
-datetime: Thu, 21 Sep 2023 10:55:00 +0000
+desc: "Google refutes the claims made in The Information's report. "
+duration: 00:02:43
+length: 163
+datetime: Thu, 21 Sep 2023 16:34:00 +0000
 tags: podcast
 guid: broadcom-shares-slide-report-google-plans-abandon-chip-supplier-0
 order: 0
 ---
-Google has &quot;extensively discussed dropping Broadcom as a supplier of artificial intelligence chips as early as 2027.&quot;
+Google refutes the claims made in The Information's report. 
 
 Link: [https://www.zerohedge.com/markets/broadcom-shares-slide-report-google-plans-abandon-chip-supplier](https://www.zerohedge.com/markets/broadcom-shares-slide-report-google-plans-abandon-chip-supplier)
 
