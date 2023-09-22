@@ -9,7 +9,7 @@ length: 161
 datetime: Fri, 22 Sep 2023 13:30:00 +0000
 tags: podcast
 guid: democrat-sen-bob-menendez-indicted-over-gold-bar-bribery-scheme-0
-order: 0
+order: 2
 ---
 Menendez's wife indicted as well...
 

@@ -9,7 +9,7 @@ length: 270
 datetime: Fri, 22 Sep 2023 10:30:00 +0000
 tags: podcast
 guid: go-hell-brave-eu-politician-delivers-damning-message-global-tyrants-0
-order: 2
+order: 0
 ---
 MEP Anderson took no prisoners in her latest warning to the globalitarian elite...
 
