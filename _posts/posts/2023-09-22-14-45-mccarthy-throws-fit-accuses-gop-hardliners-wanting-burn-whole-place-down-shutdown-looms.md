@@ -9,7 +9,7 @@ length: 142
 datetime: Fri, 22 Sep 2023 14:45:00 +0000
 tags: podcast
 guid: mccarthy-throws-fit-accuses-gop-hardliners-wanting-burn-whole-place-down-shutdown-looms-0
-order: 0
+order: 2
 ---
 &quot;This is a whole new concept...&quot;
 
