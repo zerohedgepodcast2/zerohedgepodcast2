@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "fear is back..."
-audio: markets-wake-call-6
+audio: markets-wake-call-7
 category: the-market-ear
 desc: 
 duration: 00:01:19
