@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "lot of moving parts..."
-audio: tme-daily-hedgies-retreat-tech-tanks-and-energys-blaze-5
+audio: tme-daily-hedgies-retreat-tech-tanks-and-energys-blaze-6
 category: the-market-ear
 desc: 
 duration: 00:02:05
