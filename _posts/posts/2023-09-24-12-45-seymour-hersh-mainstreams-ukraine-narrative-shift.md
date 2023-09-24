@@ -9,7 +9,7 @@ length: 240
 datetime: Sun, 24 Sep 2023 12:45:00 +0000
 tags: podcast
 guid: seymour-hersh-mainstreams-ukraine-narrative-shift-0
-order: 1
+order: 0
 ---
 &quot;Zelensky's army no longer has any chance of a victory.&quot;
 
