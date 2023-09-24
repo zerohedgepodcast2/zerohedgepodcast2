@@ -9,7 +9,7 @@ length: 1419
 datetime: Sun, 24 Sep 2023 13:20:00 +0000
 tags: podcast
 guid: our-system-collapsing-real-time-tucker-carlson-gives-bombshell-interview-0
-order: 0
+order: 2
 ---
 &quot;They're all afraid&quot;
 

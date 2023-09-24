@@ -9,7 +9,7 @@ length: 276
 datetime: Fri, 22 Sep 2023 22:00:00 +0000
 tags: podcast
 guid: democratic-mayor-dallas-american-cities-need-republicans-im-becoming-one-0
-order: 1
+order: 0
 ---
 &quot;...too many local Democrats insist on virtue signaling - proposing half-baked government programs that aim to solve every single societal ill...&quot;
 
