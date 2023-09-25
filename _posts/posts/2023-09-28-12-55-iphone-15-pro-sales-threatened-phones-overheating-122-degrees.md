@@ -9,7 +9,7 @@ length: 313
 datetime: Thu, 28 Sep 2023 12:55:00 +0000
 tags: podcast
 guid: iphone-15-pro-sales-threatened-phones-overheating-122-degrees-0
-order: 0
+order: 1
 ---
 &quot;I'm just browsing social media, and it's burning up&quot;
 

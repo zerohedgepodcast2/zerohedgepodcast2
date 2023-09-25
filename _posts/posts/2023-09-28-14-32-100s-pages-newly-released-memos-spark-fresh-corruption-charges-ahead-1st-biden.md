@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "100s Of Pages Of Newly Released Memos Spark Fresh Corruption Charges Ahead Of 1st Biden Impeachment Inquiry Hearing"
-audio: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-0
+title: "Watch Live: Biden Impeachment Inquiry Kicks Off"
+audio: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-1
 category: political
 desc: "...mountains more evidence for the &quot;there is no evidence&quot; crowd..."
-duration: 00:11:36
-length: 696
-datetime: Thu, 28 Sep 2023 01:45:00 +0000
+duration: 00:11:45
+length: 705
+datetime: Thu, 28 Sep 2023 14:32:00 +0000
 tags: podcast
 guid: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-0
-order: 1
+order: 2
 ---
 ...mountains more evidence for the &quot;there is no evidence&quot; crowd...
 
