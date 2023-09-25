@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Markets brace for an edgy ride..."
-audio: systematic-storm-aggressive-gamma-and-volatility-punters-6
+audio: systematic-storm-aggressive-gamma-and-volatility-punters-9
 category: the-market-ear
 desc: 
 duration: 00:02:34
