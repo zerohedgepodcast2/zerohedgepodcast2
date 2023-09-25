@@ -9,7 +9,7 @@ length: 506
 datetime: Wed, 27 Sep 2023 23:20:00 +0000
 tags: podcast
 guid: trudeau-apologizes-zelensky-canadian-public-nazigate-quietly-tells-mps-dont-speak-about-0
-order: 2
+order: 0
 ---
 told MPs they should avoid speaking to the press about Hunka's invitation &amp; the subsequent fallout, &amp; that the media frenzy would die down if they stayed tight-lipped.
 
