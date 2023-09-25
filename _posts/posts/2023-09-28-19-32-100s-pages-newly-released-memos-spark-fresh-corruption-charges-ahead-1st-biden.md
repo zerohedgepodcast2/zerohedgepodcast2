@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch Live: Biden Impeachment Inquiry Kicks Off"
-audio: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-1
+audio: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-2
 category: political
 desc: "...mountains more evidence for the &quot;there is no evidence&quot; crowd..."
-duration: 00:11:45
-length: 705
-datetime: Thu, 28 Sep 2023 14:32:00 +0000
+duration: 00:12:44
+length: 764
+datetime: Thu, 28 Sep 2023 19:32:00 +0000
 tags: podcast
 guid: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-0
-order: 2
+order: 0
 ---
 ...mountains more evidence for the &quot;there is no evidence&quot; crowd...
 

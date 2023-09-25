@@ -9,7 +9,7 @@ length: 330
 datetime: Thu, 28 Sep 2023 16:45:00 +0000
 tags: podcast
 guid: you-will-never-guess-what-happened-strong-us-consumer-after-todays-huge-gdp-revisions-0
-order: 0
+order: 2
 ---
 There goes the myth of the &quot;strong US spending&quot; keeping Bidenomics afloat. Oh, and there goes $1.1 trillion in savings that never actually existed in the first place...
 
