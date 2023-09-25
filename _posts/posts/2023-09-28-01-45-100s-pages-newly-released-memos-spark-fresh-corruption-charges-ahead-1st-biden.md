@@ -9,7 +9,7 @@ length: 696
 datetime: Thu, 28 Sep 2023 01:45:00 +0000
 tags: podcast
 guid: 100s-pages-newly-released-memos-spark-fresh-corruption-charges-ahead-1st-biden-0
-order: 2
+order: 1
 ---
 ...mountains more evidence for the &quot;there is no evidence&quot; crowd...
 
