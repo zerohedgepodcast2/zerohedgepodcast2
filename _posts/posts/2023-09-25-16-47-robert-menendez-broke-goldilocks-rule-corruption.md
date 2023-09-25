@@ -9,7 +9,7 @@ length: 426
 datetime: Mon, 25 Sep 2023 16:47:00 +0000
 tags: podcast
 guid: robert-menendez-broke-goldilocks-rule-corruption-0
-order: 1
+order: 0
 ---
 Menendez is &quot;hardly unique&quot; for cashing in on his position. That is precisely the problem...
 
