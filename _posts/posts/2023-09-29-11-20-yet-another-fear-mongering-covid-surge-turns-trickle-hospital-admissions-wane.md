@@ -9,7 +9,7 @@ length: 300
 datetime: Fri, 29 Sep 2023 11:20:00 +0000
 tags: podcast
 guid: yet-another-fear-mongering-covid-surge-turns-trickle-hospital-admissions-wane-0
-order: 1
+order: 0
 ---
 The latest figures show that emergency department visits are down 19.3 percent and test positivity is down 1.6 percent...
 
