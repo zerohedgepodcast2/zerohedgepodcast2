@@ -9,7 +9,7 @@ length: 157
 datetime: Thu, 28 Sep 2023 14:55:00 +0000
 tags: podcast
 guid: american-people-know-fix-oreilly-warns-carlson-we-are-age-disorder-now-0
-order: 1
+order: 0
 ---
 &quot;President Biden, in my opinion, is diminished mentally, doesn't know what he's really doing from day-to-day... &quot;
 
