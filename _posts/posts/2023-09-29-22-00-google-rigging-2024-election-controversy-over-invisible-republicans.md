@@ -9,7 +9,7 @@ length: 190
 datetime: Fri, 29 Sep 2023 22:00:00 +0000
 tags: podcast
 guid: google-rigging-2024-election-controversy-over-invisible-republicans-0
-order: 0
+order: 1
 ---
 &quot;Google is either the most incompetent search engine on the planet, or it is intentional...&quot;
 

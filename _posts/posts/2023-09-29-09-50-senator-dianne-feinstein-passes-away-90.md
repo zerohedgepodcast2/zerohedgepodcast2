@@ -9,7 +9,7 @@ length: 143
 datetime: Fri, 29 Sep 2023 09:50:00 +0000
 tags: podcast
 guid: senator-dianne-feinstein-passes-away-90-0
-order: 1
+order: 0
 ---
 Months after returning to DC following a protracted illness...
 
