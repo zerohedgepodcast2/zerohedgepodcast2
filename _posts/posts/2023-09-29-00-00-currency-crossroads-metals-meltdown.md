@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "a lot of moving parts..."
-audio: currency-crossroads-metals-meltdown-4
+audio: currency-crossroads-metals-meltdown-5
 category: the-market-ear
 desc: 
 duration: 00:03:05
