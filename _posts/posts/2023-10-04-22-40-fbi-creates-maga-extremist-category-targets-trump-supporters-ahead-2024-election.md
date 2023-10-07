@@ -9,7 +9,7 @@ length: 390
 datetime: Wed, 04 Oct 2023 22:40:00 +0000
 tags: podcast
 guid: fbi-creates-maga-extremist-category-targets-trump-supporters-ahead-2024-election-0
-order: 1
+order: 0
 ---
 Not weaponized, eh?
 
