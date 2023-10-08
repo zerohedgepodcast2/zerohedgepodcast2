@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "max pain market continues..."
-audio: sell-low-buy-high-goes-extreme-9
+audio: sell-low-buy-high-goes-extreme-10
 category: the-market-ear
 desc: 
 duration: 00:01:41
