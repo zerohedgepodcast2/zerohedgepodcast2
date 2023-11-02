@@ -9,7 +9,7 @@ length: 437
 datetime: Wed, 01 Nov 2023 17:18:00 +0000
 tags: podcast
 guid: hundreds-foreigners-including-americans-allowed-exit-gaza-egypt-1st-time-0
-order: 2
+order: 1
 ---
 In Knesset, lawmakers seen crying after viewing more Oct.7 footage...
 
