@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Kamala Harris' Stepdaughter Helps Raise $8M For Gaza While Mom's Admin Pushing Billions For Israel"
-audio: kamala-harris-stepdaughter-helps-raise-8m-gaza-while-moms-admin-puses-billions-israel-0
+audio: kamala-harris-stepdaughter-helps-raise-8m-gaza-while-moms-admin-puses-billions-israel-1
 category: political
 desc: "&quot;It's of tremendous concern...&quot;"
 duration: 00:01:55
 length: 115
-datetime: Sun, 05 Nov 2023 20:05:00 +0000
+datetime: Mon, 06 Nov 2023 08:05:00 +0000
 tags: podcast
 guid: kamala-harris-stepdaughter-helps-raise-8m-gaza-while-moms-admin-puses-billions-israel-0
-order: 1
+order: 0
 ---
 &quot;It's of tremendous concern...&quot;
 
