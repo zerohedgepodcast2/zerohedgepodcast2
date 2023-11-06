@@ -9,7 +9,7 @@ length: 369
 datetime: Mon, 06 Nov 2023 19:10:00 +0000
 tags: podcast
 guid: us-rare-move-advertises-location-nuclear-capable-submarine-near-israel-0
-order: 2
+order: 1
 ---
 Dangerous escalation with US carriers &amp; nuclear submarine parked in region...
 
