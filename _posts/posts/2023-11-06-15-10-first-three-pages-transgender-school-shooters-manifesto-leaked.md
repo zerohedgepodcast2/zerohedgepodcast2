@@ -9,7 +9,7 @@ length: 145
 datetime: Mon, 06 Nov 2023 15:10:00 +0000
 tags: podcast
 guid: first-three-pages-transgender-school-shooters-manifesto-leaked-0
-order: 2
+order: 1
 ---
 &quot;I'm ready...I hope my victims aren't...&quot;
 
