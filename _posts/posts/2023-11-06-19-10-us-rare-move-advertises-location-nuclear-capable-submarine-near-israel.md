@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "US In Rare Move Advertises Location Of Nuclear-Capable Submarine Near Israel"
-audio: us-rare-move-advertises-location-nuclear-capable-submarine-near-israel-0
+title: "Yemen's Iran-Backed Houthis Launch New Wave Of Drones Against Israel"
+audio: us-rare-move-advertises-location-nuclear-capable-submarine-near-israel-1
 category: military
-desc: "Alarming build-up of forces in Mediterranean, including assets from &quot;nuclear triad&quot;..."
-duration: 00:03:46
-length: 226
-datetime: Mon, 06 Nov 2023 15:50:00 +0000
+desc: "Dangerous escalation with US carriers &amp; nuclear submarine parked in region..."
+duration: 00:06:09
+length: 369
+datetime: Mon, 06 Nov 2023 19:10:00 +0000
 tags: podcast
 guid: us-rare-move-advertises-location-nuclear-capable-submarine-near-israel-0
 order: 2
 ---
-Alarming build-up of forces in Mediterranean, including assets from &quot;nuclear triad&quot;...
+Dangerous escalation with US carriers &amp; nuclear submarine parked in region...
 
 Link: [https://www.zerohedge.com/military/us-rare-move-advertises-location-nuclear-capable-submarine-near-israel](https://www.zerohedge.com/military/us-rare-move-advertises-location-nuclear-capable-submarine-near-israel)
 

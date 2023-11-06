@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Trump Expected To Testify Today In New York Civil Fraud Trial"
-audio: trump-expected-testify-today-new-york-civil-fraud-trial-0
+title: "&quot;Control Your Client!&quot; Fireworks Erupt As Trump, Judge And Lawyer Have Courtroom Spat During Civil Fraud Trial"
+audio: trump-expected-testify-today-new-york-civil-fraud-trial-1
 category: political
 desc: "After weeks of tumultuous and bitter testimony and cross-examination in NY AG Letitia James's civil lawsuit against members of the Trump family, the star witness is expected to take the stand when the trial resumes at 10 a.m. on Nov. 6."
-duration: 00:04:08
-length: 248
-datetime: Mon, 06 Nov 2023 13:35:00 +0000
+duration: 00:07:23
+length: 443
+datetime: Mon, 06 Nov 2023 19:04:00 +0000
 tags: podcast
 guid: trump-expected-testify-today-new-york-civil-fraud-trial-0
 order: 0
