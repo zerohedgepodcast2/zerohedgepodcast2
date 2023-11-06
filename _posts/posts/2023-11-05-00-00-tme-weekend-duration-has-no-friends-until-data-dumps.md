@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For equity rally to continue we would need to see continued signs of some softness in the data"
-audio: tme-weekend-duration-has-no-friends-until-data-dumps-3
+audio: tme-weekend-duration-has-no-friends-until-data-dumps-4
 category: the-market-ear
 desc: 
 duration: 00:03:17
