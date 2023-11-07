@@ -9,7 +9,7 @@ length: 318
 datetime: Tue, 07 Nov 2023 13:45:00 +0000
 tags: podcast
 guid: hunter-biden-wants-sic-daddys-doj-whisteblower-biz-partner-0
-order: 1
+order: 0
 ---
 Totally not weaponized...
 

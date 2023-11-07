@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Israel To Control Gaza 'Indefinitely' After War: Netanyahu Contradicts Blinken "
-audio: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-0
+audio: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-1
 category: geopolitical
 desc: "Israeli PM says he's open to &quot;little pauses&quot; as humanitarian crisis deepens..."
 duration: 00:03:42
 length: 222
-datetime: Tue, 07 Nov 2023 14:25:00 +0000
+datetime: Tue, 07 Nov 2023 18:15:00 +0000
 tags: podcast
 guid: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-0
-order: 2
+order: 0
 ---
 Israeli PM says he's open to &quot;little pauses&quot; as humanitarian crisis deepens...
 
