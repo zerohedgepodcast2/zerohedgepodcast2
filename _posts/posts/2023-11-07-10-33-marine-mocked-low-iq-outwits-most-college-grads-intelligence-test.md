@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Marine 'Mocked' For Low IQ, Outwits Most College Grads In Intelligence Test"
-audio: marine-mocked-low-iq-outwits-most-college-grads-intelligence-test-0
+audio: marine-mocked-low-iq-outwits-most-college-grads-intelligence-test-1
 category: personal-finance
 desc: "How's gender studies working out?"
 duration: 00:01:11
 length: 71
-datetime: Tue, 07 Nov 2023 03:40:00 +0000
+datetime: Tue, 07 Nov 2023 10:33:00 +0000
 tags: podcast
 guid: marine-mocked-low-iq-outwits-most-college-grads-intelligence-test-0
-order: 1
+order: 0
 ---
 How's gender studies working out?
 

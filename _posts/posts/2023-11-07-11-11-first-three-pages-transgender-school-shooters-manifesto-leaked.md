@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Nashville Mayor's Office, MSM Flips Out After Trans Shooter Manifesto Leaks; Authenticity Confirmed"
-audio: first-three-pages-transgender-school-shooters-manifesto-leaked-2
+audio: first-three-pages-transgender-school-shooters-manifesto-leaked-3
 category: political
 desc: "&quot;I'm ready...I hope my victims aren't...&quot;"
 duration: 00:07:43
 length: 463
-datetime: Tue, 07 Nov 2023 04:54:00 +0000
+datetime: Tue, 07 Nov 2023 11:11:00 +0000
 tags: podcast
 guid: first-three-pages-transgender-school-shooters-manifesto-leaked-0
-order: 2
+order: 0
 ---
 &quot;I'm ready...I hope my victims aren't...&quot;
 
