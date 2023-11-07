@@ -9,7 +9,7 @@ length: 140
 datetime: Tue, 07 Nov 2023 13:31:00 +0000
 tags: podcast
 guid: 69-year-old-jewish-man-dies-after-being-struck-megaphone-pro-palestinian-protester-0
-order: 1
+order: 0
 ---
 ...ruled Paul Kessler's death a homicide, and the county sheriff's office has not ruled out a hate crime. 
 
