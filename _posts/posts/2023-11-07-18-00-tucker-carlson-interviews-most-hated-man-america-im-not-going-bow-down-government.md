@@ -9,7 +9,7 @@ length: 193
 datetime: Tue, 07 Nov 2023 18:00:00 +0000
 tags: podcast
 guid: tucker-carlson-interviews-most-hated-man-america-im-not-going-bow-down-government-0
-order: 1
+order: 0
 ---
 &quot;It doesn't make a difference whether you're guilty or not.&quot;
 
