@@ -9,7 +9,7 @@ length: 71
 datetime: Tue, 07 Nov 2023 03:40:00 +0000
 tags: podcast
 guid: marine-mocked-low-iq-outwits-most-college-grads-intelligence-test-0
-order: 0
+order: 1
 ---
 How's gender studies working out?
 
