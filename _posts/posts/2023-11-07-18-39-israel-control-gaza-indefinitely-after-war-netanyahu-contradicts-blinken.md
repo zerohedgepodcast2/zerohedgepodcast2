@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Israel To Control Gaza 'Indefinitely' After War: Netanyahu Contradicts Blinken "
-audio: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-1
+title: "Israeli Troops Fighting &quot;In The Heart&quot; Of Gaza City, Hamas Leader Surrounded In A Bunker"
+audio: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-2
 category: geopolitical
-desc: "Israeli PM says he's open to &quot;little pauses&quot; as humanitarian crisis deepens..."
-duration: 00:03:42
-length: 222
-datetime: Tue, 07 Nov 2023 18:15:00 +0000
+desc: "Netanyahu: &quot;the war is moving forward with force that Hamas has never seen.&quot;"
+duration: 00:05:33
+length: 333
+datetime: Tue, 07 Nov 2023 18:39:00 +0000
 tags: podcast
 guid: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-0
 order: 0
 ---
-Israeli PM says he's open to &quot;little pauses&quot; as humanitarian crisis deepens...
+Netanyahu: &quot;the war is moving forward with force that Hamas has never seen.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken](https://www.zerohedge.com/geopolitical/israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken)
 
