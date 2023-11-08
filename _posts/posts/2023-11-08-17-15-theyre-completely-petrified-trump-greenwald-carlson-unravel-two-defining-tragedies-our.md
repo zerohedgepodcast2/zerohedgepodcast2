@@ -9,7 +9,7 @@ length: 279
 datetime: Wed, 08 Nov 2023 17:15:00 +0000
 tags: podcast
 guid: theyre-completely-petrified-trump-greenwald-carlson-unravel-two-defining-tragedies-our-0
-order: 2
+order: 0
 ---
 &quot;...most Americans are smart enough to have come to the conclusion that... the media outlets...  are absolute liars, are just propagandists...&quot;
 

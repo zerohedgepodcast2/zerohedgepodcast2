@@ -9,7 +9,7 @@ length: 294
 datetime: Wed, 08 Nov 2023 22:20:00 +0000
 tags: podcast
 guid: endgame-interest-us-debt-skyrockets-above-1-trillion-first-time-ever-0
-order: 3
+order: 2
 ---
 Meanwhile, the CBO projects that US government debt will rise by $20 trillion next 10 years, or $5.2 billion every day or $218 million every hour.
 
