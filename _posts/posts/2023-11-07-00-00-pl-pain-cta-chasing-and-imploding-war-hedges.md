@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "wait and see is over for momentum chasers...."
-audio: pl-pain-cta-chasing-and-imploding-war-hedges-6
+audio: pl-pain-cta-chasing-and-imploding-war-hedges-7
 category: the-market-ear
 desc: 
 duration: 00:02:41

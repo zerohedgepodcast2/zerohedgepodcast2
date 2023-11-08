@@ -9,7 +9,7 @@ length: 189
 datetime: Wed, 08 Nov 2023 13:25:00 +0000
 tags: podcast
 guid: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-0
-order: 2
+order: 1
 ---
 &quot;There will not be a ceasefire without the return of our kidnapped.&quot;
 
