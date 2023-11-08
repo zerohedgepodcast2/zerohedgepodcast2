@@ -9,7 +9,7 @@ length: 333
 datetime: Tue, 07 Nov 2023 18:39:00 +0000
 tags: podcast
 guid: israel-control-gaza-indefinitely-after-war-netanyahu-contradicts-blinken-0
-order: 1
+order: 0
 ---
 Netanyahu: &quot;the war is moving forward with force that Hamas has never seen.&quot;
 

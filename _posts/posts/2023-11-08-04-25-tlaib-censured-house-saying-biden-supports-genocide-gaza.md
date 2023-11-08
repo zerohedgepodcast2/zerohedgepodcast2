@@ -9,7 +9,7 @@ length: 179
 datetime: Wed, 08 Nov 2023 04:25:00 +0000
 tags: podcast
 guid: tlaib-censured-house-saying-biden-supports-genocide-gaza-0
-order: 0
+order: 1
 ---
 &quot;I will not be silenced and I will not let anyone distort my words...&quot;
 
