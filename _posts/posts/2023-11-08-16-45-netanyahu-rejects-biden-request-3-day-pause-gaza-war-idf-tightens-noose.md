@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Netanyahu Rejects Biden Phone Request For 3-Day Pause In Gaza War As IDF &quot;Tightens The Noose&quot;"
-audio: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-0
+title: "Houthis Claim Shootdown Of US MQ-9 Reaper Drone Off Yemen"
+audio: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-1
 category: geopolitical
-desc: "&quot;There will not be a ceasefire without the return of our kidnapped.&quot;"
-duration: 00:03:09
-length: 189
-datetime: Wed, 08 Nov 2023 13:25:00 +0000
+desc: "&quot;...hostile, monitoring &amp; spying activities in the airspace of territorial waters.&quot;"
+duration: 00:04:21
+length: 261
+datetime: Wed, 08 Nov 2023 16:45:00 +0000
 tags: podcast
 guid: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-0
 order: 1
 ---
-&quot;There will not be a ceasefire without the return of our kidnapped.&quot;
+&quot;...hostile, monitoring &amp; spying activities in the airspace of territorial waters.&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose](https://www.zerohedge.com/geopolitical/netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose)
 
