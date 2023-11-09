@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Trump's Judge's Wife Denies Posting Anti-Trump Messages"
-audio: trumps-judges-wife-denies-posting-anti-trump-messages-0
+audio: trumps-judges-wife-denies-posting-anti-trump-messages-1
 category: political
 desc: "&quot;Judge Engoron needs to recuse himself...&quot;"
 duration: 00:03:55
 length: 235
-datetime: Thu, 09 Nov 2023 16:00:00 +0000
+datetime: Thu, 09 Nov 2023 17:55:00 +0000
 tags: podcast
 guid: trumps-judges-wife-denies-posting-anti-trump-messages-0
-order: 2
+order: 1
 ---
 &quot;Judge Engoron needs to recuse himself...&quot;
 
