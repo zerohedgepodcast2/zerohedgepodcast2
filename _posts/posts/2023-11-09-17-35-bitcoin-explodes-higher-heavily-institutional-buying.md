@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Bitcoin Explodes Higher On &quot;Heavily Institutional&quot; Buying"
-audio: bitcoin-explodes-higher-heavily-institutional-buying-0
+title: "Ethereum Spikes On BlackRock ETF Filing, &quot;Heavily Institutional&quot; Buying Sends Bitcoin Soaring"
+audio: bitcoin-explodes-higher-heavily-institutional-buying-1
 category: crypto
 desc: "&quot;People can't help it. [Crypto] is literally the most FOMO industry ever.&quot;"
-duration: 00:05:42
-length: 342
-datetime: Thu, 09 Nov 2023 15:20:00 +0000
+duration: 00:06:20
+length: 380
+datetime: Thu, 09 Nov 2023 17:35:00 +0000
 tags: podcast
 guid: bitcoin-explodes-higher-heavily-institutional-buying-0
 order: 0
