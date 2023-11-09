@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Dick Cheney In 3-Inch Heels&quot;: Vivek Takes No Prisoners During GOP Debate, Savages Haley, DeSantis And NBC Moderators"
-audio: dick-cheney-3-inch-heels-vivek-takes-no-prisoners-during-gop-debate-savages-haley-0
+audio: dick-cheney-3-inch-heels-vivek-takes-no-prisoners-during-gop-debate-savages-haley-1
 category: political
 desc: "&quot;Kristen I'm going to use this time to ask you if the Trump collusion hoax that you pushed on this network for years, was that real or was that Hillary Clinton, made up disinformation?&quot;"
 duration: 00:03:17
 length: 197
-datetime: Thu, 09 Nov 2023 02:00:00 +0000
+datetime: Thu, 09 Nov 2023 16:00:00 +0000
 tags: podcast
 guid: dick-cheney-3-inch-heels-vivek-takes-no-prisoners-during-gop-debate-savages-haley-0
-order: 1
+order: 0
 ---
 &quot;Kristen I'm going to use this time to ask you if the Trump collusion hoax that you pushed on this network for years, was that real or was that Hillary Clinton, made up disinformation?&quot;
 

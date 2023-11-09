@@ -9,7 +9,7 @@ length: 472
 datetime: Thu, 09 Nov 2023 14:40:00 +0000
 tags: podcast
 guid: white-house-aides-simply-cannot-stomach-bidens-israel-policy-dissent-memos-leak-revolt-0
-order: 2
+order: 1
 ---
 &quot;Growing loss of confidence&quot; with dissent memo saying: &quot;...the US should be willing to publicly criticize the Israelis.&quot;
 
