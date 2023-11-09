@@ -9,7 +9,7 @@ length: 197
 datetime: Thu, 09 Nov 2023 02:00:00 +0000
 tags: podcast
 guid: dick-cheney-3-inch-heels-vivek-takes-no-prisoners-during-gop-debate-savages-haley-0
-order: 2
+order: 1
 ---
 &quot;Kristen I'm going to use this time to ask you if the Trump collusion hoax that you pushed on this network for years, was that real or was that Hillary Clinton, made up disinformation?&quot;
 
