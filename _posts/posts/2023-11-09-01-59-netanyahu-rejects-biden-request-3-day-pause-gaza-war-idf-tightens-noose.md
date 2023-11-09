@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "US Attacks Eastern Syria In 2nd Round Of Major Strikes On 'Iran-Linked' Militants"
-audio: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-2
+audio: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-3
 category: geopolitical
 desc: "Pentagon has cited that 46 US service members have been injured over the past month of attacks inside Iraq &amp; Syria."
 duration: 00:05:30
 length: 330
-datetime: Thu, 09 Nov 2023 00:30:00 +0000
+datetime: Thu, 09 Nov 2023 01:59:00 +0000
 tags: podcast
 guid: netanyahu-rejects-biden-request-3-day-pause-gaza-war-idf-tightens-noose-0
-order: 2
+order: 0
 ---
 Pentagon has cited that 46 US service members have been injured over the past month of attacks inside Iraq &amp; Syria.
 
