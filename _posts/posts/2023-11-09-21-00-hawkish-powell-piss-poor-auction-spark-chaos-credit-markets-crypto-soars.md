@@ -9,7 +9,7 @@ length: 256
 datetime: Thu, 09 Nov 2023 21:00:00 +0000
 tags: podcast
 guid: hawkish-powell-piss-poor-auction-spark-chaos-credit-markets-crypto-soars-0
-order: 2
+order: 0
 ---
 &quot;...this is a shitshow, liquidity is disastrous and the auction is the canary in the coalmine...&quot;
 

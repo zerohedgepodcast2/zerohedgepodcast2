@@ -9,7 +9,7 @@ length: 159
 datetime: Fri, 10 Nov 2023 03:40:00 +0000
 tags: podcast
 guid: pentagon-starting-restrict-flow-military-aid-ukraine-money-runs-out-0
-order: 0
+order: 2
 ---
 No more green for Zelenskyy.
 
