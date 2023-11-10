@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "keep it simple..."
-audio: trading-trend-reversals-4
+audio: trading-trend-reversals-5
 category: the-market-ear
 desc: 
 duration: 00:01:45
