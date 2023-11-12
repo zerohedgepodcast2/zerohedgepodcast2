@@ -9,7 +9,7 @@ length: 392
 datetime: Fri, 10 Nov 2023 14:30:00 +0000
 tags: podcast
 guid: israeli-tanks-have-gaza-hospitals-surrounded-un-decries-hell-earth-0
-order: 2
+order: 0
 ---
 &quot;...they have closed a roughly 100-meter perimeter around these hospitals.&quot;
 
