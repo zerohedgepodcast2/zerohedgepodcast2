@@ -9,7 +9,7 @@ length: 365
 datetime: Sat, 11 Nov 2023 23:05:00 +0000
 tags: podcast
 guid: wapo-drops-bombshell-nord-stream-pipeline-sabotage-narrative-ukrainian-colonel-covert-0
-order: 2
+order: 0
 ---
 Chervinsky, a senior figure within Ukraine's Special Operations Forces, &quot;was integral to the brazen sabotage operation&quot; on the Nord Stream pipeline...
 
