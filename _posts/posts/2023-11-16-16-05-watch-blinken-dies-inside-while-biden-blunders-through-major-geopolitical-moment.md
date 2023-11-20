@@ -9,7 +9,7 @@ length: 141
 datetime: Thu, 16 Nov 2023 16:05:00 +0000
 tags: podcast
 guid: watch-blinken-dies-inside-while-biden-blunders-through-major-geopolitical-moment-0
-order: 2
+order: 0
 ---
 Internal screaming intensifies...
 

@@ -9,7 +9,7 @@ length: 271
 datetime: Thu, 16 Nov 2023 10:45:00 +0000
 tags: podcast
 guid: candace-owens-hits-back-after-ben-shapiro-calls-israel-comments-disgraceful-suggests-she-0
-order: 1
+order: 0
 ---
 &quot;I'm not going to respond with ad-hominem attacks...&quot;
 
