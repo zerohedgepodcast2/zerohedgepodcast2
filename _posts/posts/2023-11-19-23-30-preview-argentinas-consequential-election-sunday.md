@@ -9,7 +9,7 @@ length: 509
 datetime: Sun, 19 Nov 2023 23:30:00 +0000
 tags: podcast
 guid: preview-argentinas-consequential-election-sunday-0
-order: 2
+order: 1
 ---
 ...historic victory for the libertarian outsider who branded Pope Francis, an Argentine, an &quot;evil&quot; leftist, called climate change a &quot;socialist lie&quot; and will hold referendum to undo law that legalized abortion.
 
