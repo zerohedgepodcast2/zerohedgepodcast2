@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Trump &quot;Has To Be Eliminated&quot;: Another Dan Goldman Gaffe, Or Call For Assassination?"
-audio: trump-has-be-eliminated-another-dan-goldman-gaffe-or-call-assassination-1
+title: "Dan Goldman Says He 'Mistakenly Used Wrong Word' In Trump Assassination Gaffe"
+audio: trump-has-be-eliminated-another-dan-goldman-gaffe-or-call-assassination-2
 category: political
-desc: "&quot;This is what years of media Hitlerizing and TDS gets you...&quot;"
-duration: 00:02:21
-length: 141
-datetime: Tue, 21 Nov 2023 09:50:00 +0000
+desc: "&quot;While he must be defeated, I certainly wish no harm...&quot;"
+duration: 00:03:39
+length: 219
+datetime: Tue, 21 Nov 2023 15:20:00 +0000
 tags: podcast
 guid: trump-has-be-eliminated-another-dan-goldman-gaffe-or-call-assassination-0
 order: 0
 ---
-&quot;This is what years of media Hitlerizing and TDS gets you...&quot;
+&quot;While he must be defeated, I certainly wish no harm...&quot;
 
 Link: [https://www.zerohedge.com/political/trump-has-be-eliminated-another-dan-goldman-gaffe-or-call-assassination](https://www.zerohedge.com/political/trump-has-be-eliminated-another-dan-goldman-gaffe-or-call-assassination)
 
