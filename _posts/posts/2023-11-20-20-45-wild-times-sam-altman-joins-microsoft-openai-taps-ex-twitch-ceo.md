@@ -9,7 +9,7 @@ length: 603
 datetime: Mon, 20 Nov 2023 20:45:00 +0000
 tags: podcast
 guid: wild-times-sam-altman-joins-microsoft-openai-taps-ex-twitch-ceo-0
-order: 2
+order: 0
 ---
 &quot;We, the undersigned, may choose to resign from OpenAI and join the newly announced Microsoft subsidiary run by Sam Altman and Greg Brockman.&quot; 
 
