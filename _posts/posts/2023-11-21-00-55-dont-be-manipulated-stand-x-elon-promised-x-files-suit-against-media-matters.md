@@ -9,7 +9,7 @@ length: 463
 datetime: Tue, 21 Nov 2023 00:55:00 +0000
 tags: podcast
 guid: dont-be-manipulated-stand-x-elon-promised-x-files-suit-against-media-matters-0
-order: 2
+order: 1
 ---
 Data wins over manipulation or allegations...
 
