@@ -9,7 +9,7 @@ length: 210
 datetime: Tue, 21 Nov 2023 19:17:00 +0000
 tags: podcast
 guid: gaza-ceasefire-deal-mass-release-hostages-closer-ever-0
-order: 2
+order: 1
 ---
 IDF vows it will still pursue the eradication of Hamas...
 
