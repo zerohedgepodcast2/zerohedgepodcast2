@@ -9,7 +9,7 @@ length: 249
 datetime: Tue, 21 Nov 2023 18:25:00 +0000
 tags: podcast
 guid: mrnas-didnt-end-covid-omicron-did-berenson-0
-order: 0
+order: 1
 ---
 Virus gonna virus...
 
