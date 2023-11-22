@@ -9,7 +9,7 @@ length: 196
 datetime: Wed, 22 Nov 2023 19:12:00 +0000
 tags: podcast
 guid: fbi-investigating-car-explosion-us-canada-border-crossing-niagara-0
-order: 3
+order: 2
 ---
 &quot;Explosives were in the vehicle...&quot; 
 

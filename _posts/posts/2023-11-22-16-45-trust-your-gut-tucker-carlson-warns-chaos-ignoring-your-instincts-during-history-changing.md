@@ -9,7 +9,7 @@ length: 316
 datetime: Wed, 22 Nov 2023 16:45:00 +0000
 tags: podcast
 guid: trust-your-gut-tucker-carlson-warns-chaos-ignoring-your-instincts-during-history-changing-0
-order: 2
+order: 1
 ---
 &quot;I'd bet my house on it...&quot;
 
