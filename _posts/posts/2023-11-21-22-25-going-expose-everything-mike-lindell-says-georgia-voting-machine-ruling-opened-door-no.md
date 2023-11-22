@@ -9,7 +9,7 @@ length: 141
 datetime: Tue, 21 Nov 2023 22:25:00 +0000
 tags: podcast
 guid: going-expose-everything-mike-lindell-says-georgia-voting-machine-ruling-opened-door-no-0
-order: 2
+order: 1
 ---
 &quot;Some of the nation's leading cybersecurity experts and computer scientists have provided testimony...&quot;  
 
