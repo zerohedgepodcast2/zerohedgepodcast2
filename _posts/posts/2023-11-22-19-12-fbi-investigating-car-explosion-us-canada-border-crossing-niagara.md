@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "FBI Investigating Car Explosion At US-Canada Border Crossing In Niagara"
-audio: fbi-investigating-car-explosion-us-canada-border-crossing-niagara-0
+title: "FBI Investigating Car Bomb Explosion At Niagara Falls Bridge As Terrorist Attack"
+audio: fbi-investigating-car-explosion-us-canada-border-crossing-niagara-1
 category: markets
-desc: "&quot;All 4 international border crossings between the US-Canada in Western New York closed.&quot; "
-duration: 00:02:14
-length: 134
-datetime: Wed, 22 Nov 2023 18:33:00 +0000
+desc: "&quot;Explosives were in the vehicle...&quot; "
+duration: 00:03:16
+length: 196
+datetime: Wed, 22 Nov 2023 19:12:00 +0000
 tags: podcast
 guid: fbi-investigating-car-explosion-us-canada-border-crossing-niagara-0
-order: 2
+order: 3
 ---
-&quot;All 4 international border crossings between the US-Canada in Western New York closed.&quot; 
+&quot;Explosives were in the vehicle...&quot; 
 
 Link: [https://www.zerohedge.com/markets/fbi-investigating-car-explosion-us-canada-border-crossing-niagara](https://www.zerohedge.com/markets/fbi-investigating-car-explosion-us-canada-border-crossing-niagara)
 

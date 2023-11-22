@@ -9,7 +9,7 @@ length: 197
 datetime: Wed, 22 Nov 2023 04:25:00 +0000
 tags: podcast
 guid: japs-jewery-and-trannies-media-matters-presidents-bigoted-blog-haunts-current-debate-0
-order: 1
+order: 2
 ---
 &quot;They are pure evil...&quot;
 
