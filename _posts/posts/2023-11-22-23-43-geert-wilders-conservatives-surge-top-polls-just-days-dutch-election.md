@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Geert Wilders, Conservative Freedom Party Mark Stunning Victories In Dutch Election: Exit Polls"
-audio: geert-wilders-conservatives-surge-top-polls-just-days-dutch-election-1
+title: "It's Official: Geert Wilders And Conservative Freedom Party Win Dutch Election"
+audio: geert-wilders-conservatives-surge-top-polls-just-days-dutch-election-2
 category: geopolitical
-desc: "35!!!!!!"
-duration: 00:04:41
-length: 281
-datetime: Wed, 22 Nov 2023 21:04:00 +0000
+desc: "35 seats!"
+duration: 00:06:29
+length: 389
+datetime: Wed, 22 Nov 2023 23:43:00 +0000
 tags: podcast
 guid: geert-wilders-conservatives-surge-top-polls-just-days-dutch-election-0
 order: 0
 ---
-35!!!!!!
+35 seats!
 
 Link: [https://www.zerohedge.com/geopolitical/geert-wilders-conservatives-surge-top-polls-just-days-dutch-election](https://www.zerohedge.com/geopolitical/geert-wilders-conservatives-surge-top-polls-just-days-dutch-election)
 
