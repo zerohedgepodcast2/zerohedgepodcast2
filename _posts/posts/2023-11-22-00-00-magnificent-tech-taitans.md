@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "top heavy risks to care about?"
-audio: magnificent-tech-taitans-2
+audio: magnificent-tech-taitans-3
 category: the-market-ear
 desc: 
 duration: 00:01:41
