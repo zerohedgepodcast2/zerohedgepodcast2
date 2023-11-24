@@ -9,7 +9,7 @@ length: 274
 datetime: Thu, 23 Nov 2023 04:20:00 +0000
 tags: podcast
 guid: ordinary-americans-are-nations-unshakeable-greatness-0
-order: 1
+order: 0
 ---
 The history of America is largely a history of the courage, industry, ambition, thriftiness, and selflessness of ordinary Americans...
 
