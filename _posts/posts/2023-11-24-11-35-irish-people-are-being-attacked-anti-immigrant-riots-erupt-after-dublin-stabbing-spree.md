@@ -9,7 +9,7 @@ length: 342
 datetime: Fri, 24 Nov 2023 11:35:00 +0000
 tags: podcast
 guid: irish-people-are-being-attacked-anti-immigrant-riots-erupt-after-dublin-stabbing-spree-0
-order: 1
+order: 0
 ---
 Police caution against &quot;misinformation&quot; about attacker's origins, but haven't released details about him
 
