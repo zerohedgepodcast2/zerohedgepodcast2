@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Where Europe's 'Far-Right' Has Gained Ground"
-audio: where-europes-far-right-has-gained-ground-0
+audio: where-europes-far-right-has-gained-ground-1
 category: political
 desc: "The media is so anti-common sense that anyone who dares to take any contrary view is called &quot;far-right&quot;..."
-duration: 00:03:15
-length: 195
-datetime: Fri, 24 Nov 2023 14:35:00 +0000
+duration: 00:03:35
+length: 215
+datetime: Sat, 25 Nov 2023 16:35:00 +0000
 tags: podcast
 guid: where-europes-far-right-has-gained-ground-0
-order: 1
+order: 0
 ---
 The media is so anti-common sense that anyone who dares to take any contrary view is called &quot;far-right&quot;...
 
