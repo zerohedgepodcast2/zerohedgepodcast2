@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We have just seen the biggest 2 week inflow to equity funds since February 2022..."
-audio: tech-love-and-equity-inflows-upend-vix-9
+audio: tech-love-and-equity-inflows-upend-vix-1
 category: the-market-ear
 desc: 
 duration: 00:01:23
