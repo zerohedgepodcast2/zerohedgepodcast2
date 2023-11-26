@@ -9,7 +9,7 @@ length: 159
 datetime: Sun, 26 Nov 2023 20:45:00 +0000
 tags: podcast
 guid: brace-yourself-whats-coming-2024-victor-davis-hanson-warns-left-knows-theyre-cooked-if-0
-order: 0
+order: 2
 ---
 &quot;...they look at Trump as a vampire and they put a stake in his heart but they're afraid that that stake could come out any time.&quot;
 
