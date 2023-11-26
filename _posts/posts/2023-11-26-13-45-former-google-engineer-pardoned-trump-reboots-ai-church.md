@@ -9,7 +9,7 @@ length: 113
 datetime: Sun, 26 Nov 2023 13:45:00 +0000
 tags: podcast
 guid: former-google-engineer-pardoned-trump-reboots-ai-church-0
-order: 0
+order: 2
 ---
 &quot;Here we're actually creating things that can see everything, be everywhere, know everything...&quot;
 

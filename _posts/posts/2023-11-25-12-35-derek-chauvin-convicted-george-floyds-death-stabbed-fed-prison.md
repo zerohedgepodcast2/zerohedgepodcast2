@@ -9,7 +9,7 @@ length: 166
 datetime: Sat, 25 Nov 2023 12:35:00 +0000
 tags: podcast
 guid: derek-chauvin-convicted-george-floyds-death-stabbed-fed-prison-0
-order: 1
+order: 0
 ---
 Another display of Bureau of Prisons negligence
 
