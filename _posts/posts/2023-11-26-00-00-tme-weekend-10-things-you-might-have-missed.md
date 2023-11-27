@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Equity positioning now modestly overweight..."
-audio: tme-weekend-10-things-you-might-have-missed-9
+audio: tme-weekend-10-things-you-might-have-missed-10
 category: the-market-ear
 desc: 
 duration: 00:02:38
