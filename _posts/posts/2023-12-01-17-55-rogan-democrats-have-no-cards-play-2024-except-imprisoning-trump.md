@@ -9,7 +9,7 @@ length: 144
 datetime: Fri, 01 Dec 2023 17:55:00 +0000
 tags: podcast
 guid: rogan-democrats-have-no-cards-play-2024-except-imprisoning-trump-0
-order: 0
+order: 1
 ---
 &quot;They're depending upon Trump getting convicted and arrested and imprisoned.&quot;
 
