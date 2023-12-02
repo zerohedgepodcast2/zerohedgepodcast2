@@ -9,7 +9,7 @@ length: 214
 datetime: Sat, 02 Dec 2023 14:20:00 +0000
 tags: podcast
 guid: jan-6-committee-tapes-have-disappeared-says-house-republican-0
-order: 2
+order: 1
 ---
 &quot;All of the videotapes of all depositions are gone...&quot;
 
