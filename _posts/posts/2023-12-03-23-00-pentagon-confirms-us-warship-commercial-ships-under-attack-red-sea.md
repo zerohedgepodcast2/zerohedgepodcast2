@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Pentagon Confirms US Warship, Commercial Ships Under Attack In Red Sea"
-audio: pentagon-confirms-us-warship-commercial-ships-under-attack-red-sea-2
+audio: pentagon-confirms-us-warship-commercial-ships-under-attack-red-sea-3
 category: geopolitical
 desc: "&quot;Gulf of Tonkin&quot; is trending on X in the US. "
-duration: 00:03:24
-length: 204
-datetime: Sun, 03 Dec 2023 19:09:00 +0000
+duration: 00:06:02
+length: 362
+datetime: Sun, 03 Dec 2023 23:00:00 +0000
 tags: podcast
 guid: pentagon-confirms-us-warship-commercial-ships-under-attack-red-sea-0
 order: 2
