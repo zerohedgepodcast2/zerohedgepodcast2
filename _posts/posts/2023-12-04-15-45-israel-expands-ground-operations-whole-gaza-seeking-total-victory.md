@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Israel Expands Ground Operations To Whole Of Gaza, Seeking &quot;Total Victory&quot;"
-audio: israel-expands-ground-operations-whole-gaza-seeking-total-victory-0
+audio: israel-expands-ground-operations-whole-gaza-seeking-total-victory-1
 category: geopolitical
-desc: "Netanyahu warns Hezbollah that all of Lebanon faces total destruction if it enters deeper into conflict..."
+desc: "Netanyahu also warns Hezbollah that Lebanon faces total destruction if it enters deeper into conflict..."
 duration: 00:03:54
 length: 234
-datetime: Mon, 04 Dec 2023 12:45:00 +0000
+datetime: Mon, 04 Dec 2023 15:45:00 +0000
 tags: podcast
 guid: israel-expands-ground-operations-whole-gaza-seeking-total-victory-0
-order: 1
+order: 0
 ---
-Netanyahu warns Hezbollah that all of Lebanon faces total destruction if it enters deeper into conflict...
+Netanyahu also warns Hezbollah that Lebanon faces total destruction if it enters deeper into conflict...
 
 Link: [https://www.zerohedge.com/geopolitical/israel-expands-ground-operations-whole-gaza-seeking-total-victory](https://www.zerohedge.com/geopolitical/israel-expands-ground-operations-whole-gaza-seeking-total-victory)
 
