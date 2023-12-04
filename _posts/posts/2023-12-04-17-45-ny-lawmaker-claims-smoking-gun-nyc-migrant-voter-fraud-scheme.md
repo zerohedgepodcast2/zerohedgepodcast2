@@ -9,7 +9,7 @@ length: 208
 datetime: Mon, 04 Dec 2023 17:45:00 +0000
 tags: podcast
 guid: ny-lawmaker-claims-smoking-gun-nyc-migrant-voter-fraud-scheme-0
-order: 2
+order: 1
 ---
 &quot;There is nothing more important than preserving the integrity of our election system...&quot;
 

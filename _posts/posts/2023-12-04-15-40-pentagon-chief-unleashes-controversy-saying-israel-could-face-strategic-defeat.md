@@ -9,7 +9,7 @@ length: 330
 datetime: Mon, 04 Dec 2023 15:40:00 +0000
 tags: podcast
 guid: pentagon-chief-unleashes-controversy-saying-israel-could-face-strategic-defeat-0
-order: 1
+order: 0
 ---
 There's no overstating how extraordinary such a statement by Secretary of Defense Lloyd Austin is...
 
