@@ -9,7 +9,7 @@ length: 122
 datetime: Sat, 02 Dec 2023 18:25:00 +0000
 tags: podcast
 guid: two-words-tucker-carlson-greg-gutfeld-gores-fox-after-musk-blasts-activist-advertisers-0
-order: 1
+order: 0
 ---
 &quot;...advertisers have no spine and can be easily cowed by special interest groups...&quot;
 
