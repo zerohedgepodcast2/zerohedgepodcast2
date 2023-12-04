@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Both systematic and discretionary investors are far from extreme long levels"
-audio: tme-weekend-some-still-have-plenty-room-add-7
+audio: tme-weekend-some-still-have-plenty-room-add-8
 category: the-market-ear
 desc: 
 duration: 00:02:29
