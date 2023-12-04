@@ -9,7 +9,7 @@ length: 165
 datetime: Mon, 04 Dec 2023 00:26:00 +0000
 tags: podcast
 guid: gold-spikes-record-high-over-2130-bitcoin-soars-above-40000-market-calls-powells-bluff-0
-order: 2
+order: 1
 ---
 And now, Powell is once again boxed in.
 
