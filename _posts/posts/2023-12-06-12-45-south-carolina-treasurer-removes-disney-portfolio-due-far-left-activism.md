@@ -9,7 +9,7 @@ length: 119
 datetime: Wed, 06 Dec 2023 12:45:00 +0000
 tags: podcast
 guid: south-carolina-treasurer-removes-disney-portfolio-due-far-left-activism-0
-order: 0
+order: 1
 ---
 &quot;Disney has abandoned its fiduciary responsibilities to its investors and customers...&quot; 
 
