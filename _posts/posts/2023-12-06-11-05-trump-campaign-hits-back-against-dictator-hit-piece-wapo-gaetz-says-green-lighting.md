@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Trump Campaign Strikes Back At 'Dictator' Hit-Piece In WaPo, Gaetz Says 'Green-Lighting Assassination'"
-audio: trump-campaign-hits-back-against-dictator-hit-piece-wapo-gaetz-says-green-lighting-0
+audio: trump-campaign-hits-back-against-dictator-hit-piece-wapo-gaetz-says-green-lighting-1
 category: political
 desc: "&quot;This is nothing more than another version of the media's failed and false Russia collusion hoax,&quot;"
 duration: 00:03:56
 length: 236
-datetime: Tue, 05 Dec 2023 16:05:00 +0000
+datetime: Wed, 06 Dec 2023 11:05:00 +0000
 tags: podcast
 guid: trump-campaign-hits-back-against-dictator-hit-piece-wapo-gaetz-says-green-lighting-0
-order: 1
+order: 0
 ---
 &quot;This is nothing more than another version of the media's failed and false Russia collusion hoax,&quot;
 
