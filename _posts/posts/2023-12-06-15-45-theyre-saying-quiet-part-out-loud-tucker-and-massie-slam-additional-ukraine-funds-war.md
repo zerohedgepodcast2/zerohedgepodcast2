@@ -9,7 +9,7 @@ length: 222
 datetime: Wed, 06 Dec 2023 15:45:00 +0000
 tags: podcast
 guid: theyre-saying-quiet-part-out-loud-tucker-and-massie-slam-additional-ukraine-funds-war-0
-order: 2
+order: 1
 ---
 &quot;A lot of this federal spending that goes to Ukraine is actually laundered back to the military-industrial complex...&quot;
 
