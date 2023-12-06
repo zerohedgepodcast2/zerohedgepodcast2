@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;They're Saying The Quiet Part Out Loud&quot;: Tucker And Massie Slam Additional Ukraine Funds For 'War They Cannot Win'"
-audio: theyre-saying-quiet-part-out-loud-tucker-and-massie-slam-additional-ukraine-funds-war-0
+audio: theyre-saying-quiet-part-out-loud-tucker-and-massie-slam-additional-ukraine-funds-war-1
 category: political
 desc: "&quot;A lot of this federal spending that goes to Ukraine is actually laundered back to the military-industrial complex...&quot;"
 duration: 00:03:42
 length: 222
-datetime: Wed, 06 Dec 2023 15:45:00 +0000
+datetime: Wed, 06 Dec 2023 21:35:00 +0000
 tags: podcast
 guid: theyre-saying-quiet-part-out-loud-tucker-and-massie-slam-additional-ukraine-funds-war-0
-order: 1
+order: 0
 ---
 &quot;A lot of this federal spending that goes to Ukraine is actually laundered back to the military-industrial complex...&quot;
 

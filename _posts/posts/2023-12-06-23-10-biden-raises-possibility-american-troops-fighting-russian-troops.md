@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Biden Raises Possibility Of &quot;American Troops Fighting Russian Troops&quot;"
-audio: biden-raises-possibility-american-troops-fighting-russian-troops-0
+title: "Senate Republicans Block Biden Ukraine Aid Despite Warning Over 'Direct Conflict With Russia'"
+audio: biden-raises-possibility-american-troops-fighting-russian-troops-1
 category: geopolitical
-desc: "Proxy warriors in panic mode..."
-duration: 00:03:04
-length: 184
-datetime: Wed, 06 Dec 2023 21:40:00 +0000
+desc: "About that..."
+duration: 00:04:00
+length: 240
+datetime: Wed, 06 Dec 2023 23:10:00 +0000
 tags: podcast
 guid: biden-raises-possibility-american-troops-fighting-russian-troops-0
-order: 0
+order: 2
 ---
-Proxy warriors in panic mode...
+About that...
 
 Link: [https://www.zerohedge.com/geopolitical/biden-raises-possibility-american-troops-fighting-russian-troops](https://www.zerohedge.com/geopolitical/biden-raises-possibility-american-troops-fighting-russian-troops)
 
