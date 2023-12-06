@@ -9,7 +9,7 @@ length: 136
 datetime: Wed, 06 Dec 2023 19:00:00 +0000
 tags: podcast
 guid: janet-yellen-joins-zelensky-saying-us-would-be-responsible-ukraines-defeat-0
-order: 1
+order: 0
 ---
 &quot;...we can hold ourselves responsible for Ukraine's defeat.&quot;
 

@@ -9,7 +9,7 @@ length: 240
 datetime: Wed, 06 Dec 2023 23:10:00 +0000
 tags: podcast
 guid: biden-raises-possibility-american-troops-fighting-russian-troops-0
-order: 2
+order: 0
 ---
 About that...
 
