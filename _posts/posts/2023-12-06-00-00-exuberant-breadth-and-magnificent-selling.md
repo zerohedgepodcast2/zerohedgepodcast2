@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "You should fear &quot;exuberant&quot; breadth..."
-audio: exuberant-breadth-and-magnificent-selling-5
+audio: exuberant-breadth-and-magnificent-selling-6
 category: the-market-ear
 desc: 
 duration: 00:01:45
