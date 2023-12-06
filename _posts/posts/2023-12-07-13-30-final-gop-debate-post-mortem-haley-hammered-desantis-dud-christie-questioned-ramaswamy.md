@@ -9,7 +9,7 @@ length: 1251
 datetime: Thu, 07 Dec 2023 13:30:00 +0000
 tags: podcast
 guid: final-gop-debate-post-mortem-haley-hammered-desantis-dud-christie-questioned-ramaswamy-0
-order: 1
+order: 0
 ---
 &quot;The real enemy is not Donald Trump. It's not even Joe Biden. It is the deep state that Donald Trump at least attempted to take on...&quot;
 

@@ -9,7 +9,7 @@ length: 200
 datetime: Thu, 07 Dec 2023 15:50:00 +0000
 tags: podcast
 guid: why-no-advertiser-boycott-musk-nails-disneys-iger-after-facebook-child-sexual-abuse-0
-order: 2
+order: 1
 ---
 &quot;He should be fired immediately...&quot;
 
