@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "US Jobs Rise 199K, Beating Estimates, As Unemployment Rate Pulls Back From Recession Trigger"
-audio: us-jobs-rise-199k-beating-estimates-unemployment-rate-pulls-back-recession-trigger-0
+title: "Goldilocks: Jobs Rise 199K, Beating Estimates As Striking Workers Return; Unemployment Rate Drops"
+audio: us-jobs-rise-199k-beating-estimates-unemployment-rate-pulls-back-recession-trigger-1
 category: markets
 desc: "Just as expected..."
-duration: 00:02:02
-length: 122
-datetime: Fri, 08 Dec 2023 13:41:00 +0000
+duration: 00:12:51
+length: 771
+datetime: Fri, 08 Dec 2023 15:10:00 +0000
 tags: podcast
 guid: us-jobs-rise-199k-beating-estimates-unemployment-rate-pulls-back-recession-trigger-0
-order: 2
+order: 0
 ---
 Just as expected...
 
