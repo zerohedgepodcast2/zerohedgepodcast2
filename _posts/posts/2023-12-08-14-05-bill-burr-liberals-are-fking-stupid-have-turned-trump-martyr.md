@@ -9,7 +9,7 @@ length: 102
 datetime: Fri, 08 Dec 2023 14:05:00 +0000
 tags: podcast
 guid: bill-burr-liberals-are-fking-stupid-have-turned-trump-martyr-0
-order: 2
+order: 1
 ---
 &quot;He's coming back!&quot;
 

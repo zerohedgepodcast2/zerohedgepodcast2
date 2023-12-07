@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Hunter Biden Indicted On Multiple Felony Federal Tax Charges In LA"
-audio: hunter-biden-indicted-multiple-felony-federal-tax-charges-la-0
+title: "Hunter Biden Indicted On Multiple Felony Tax Charges Including 'Office Expense' Deductions For 'Over-The-Hill Strippers'"
+audio: hunter-biden-indicted-multiple-felony-federal-tax-charges-la-1
 category: political
-desc: "....and that's how Gavin Newsom becomes the Democratic Party nominee."
-duration: 00:02:39
-length: 159
-datetime: Fri, 08 Dec 2023 02:01:00 +0000
+desc: "The indictment also details the &quot;office expenses&quot; or other deductions he used to lessen his tax burden, which included a $1,500 Venmo payment to an exotic dancer;"
+duration: 00:04:50
+length: 290
+datetime: Fri, 08 Dec 2023 18:30:00 +0000
 tags: podcast
 guid: hunter-biden-indicted-multiple-felony-federal-tax-charges-la-0
-order: 1
+order: 0
 ---
-....and that's how Gavin Newsom becomes the Democratic Party nominee.
+The indictment also details the &quot;office expenses&quot; or other deductions he used to lessen his tax burden, which included a $1,500 Venmo payment to an exotic dancer;
 
 Link: [https://www.zerohedge.com/political/hunter-biden-indicted-multiple-felony-federal-tax-charges-la](https://www.zerohedge.com/political/hunter-biden-indicted-multiple-felony-federal-tax-charges-la)
 
