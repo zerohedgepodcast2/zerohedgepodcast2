@@ -9,7 +9,7 @@ length: 112
 datetime: Fri, 08 Dec 2023 19:00:00 +0000
 tags: podcast
 guid: hunter-biden-vs-elon-musk-first-crackhead-talks-trash-during-moby-damage-control-podcast-0
-order: 2
+order: 0
 ---
 &quot;The dude made so many videos of himself doing crime that he should get an award for cinematography!&quot;
 
