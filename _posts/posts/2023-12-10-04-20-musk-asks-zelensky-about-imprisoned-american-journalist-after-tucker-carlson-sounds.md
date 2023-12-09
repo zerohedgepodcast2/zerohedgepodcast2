@@ -9,7 +9,7 @@ length: 238
 datetime: Sun, 10 Dec 2023 04:20:00 +0000
 tags: podcast
 guid: musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds-0
-order: 2
+order: 1
 ---
 &quot;An American citizen is in prison n Ukraine after we sent over a $100 billion?&quot;
 
