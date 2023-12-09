@@ -9,7 +9,7 @@ length: 187
 datetime: Fri, 08 Dec 2023 23:40:00 +0000
 tags: podcast
 guid: vivek-vivisects-van-jones-over-great-replacement-hypocrisy-0
-order: 1
+order: 0
 ---
 The CNN host was literally shaking...
 

@@ -9,7 +9,7 @@ length: 126
 datetime: Sat, 09 Dec 2023 02:20:00 +0000
 tags: podcast
 guid: woman-who-threw-hot-food-chipotle-worker-sentenced-work-2-months-fast-food-industry-0
-order: 2
+order: 1
 ---
 &quot;Do you want to walk in her shoes for two months and learn how people should treat people, or do you want to do your jail time?&quot;
 
