@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "Musk Asks Zelensky About Imprisoned American Journalist After Tucker Carlson Sounds Alarm"
-audio: musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds-0
+audio: musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds-1
 category: geopolitical
-desc: "&quot;An American citizen is in prison n Ukraine after we sent over a $100 billion?&quot;"
+desc: "&quot;An American citizen is in prison in Ukraine after we sent over a $100 billion?&quot;"
 duration: 00:03:58
 length: 238
-datetime: Sun, 10 Dec 2023 04:20:00 +0000
+datetime: Sun, 10 Dec 2023 15:50:00 +0000
 tags: podcast
 guid: musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds-0
-order: 1
+order: 2
 ---
-&quot;An American citizen is in prison n Ukraine after we sent over a $100 billion?&quot;
+&quot;An American citizen is in prison in Ukraine after we sent over a $100 billion?&quot;
 
 Link: [https://www.zerohedge.com/geopolitical/musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds](https://www.zerohedge.com/geopolitical/musk-asks-zelensky-about-imprisoned-american-journalist-after-tucker-carlson-sounds)
 
