@@ -9,7 +9,7 @@ length: 237
 datetime: Mon, 11 Dec 2023 14:30:00 +0000
 tags: podcast
 guid: resign-disgrace-ackman-takes-aim-harvard-president-phd-plagiarism-allegations-appear-0
-order: 0
+order: 2
 ---
 &quot;Gay has done more damage to the reputation of Harvard University than any individual in our nearly 500-year history...&quot;
 
