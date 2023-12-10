@@ -9,7 +9,7 @@ length: 134
 datetime: Sun, 10 Dec 2023 19:00:00 +0000
 tags: podcast
 guid: al-gore-warns-people-having-access-non-mainstream-information-threatens-democracy-0
-order: 0
+order: 1
 ---
 &quot;They ought to be banned!&quot;
 
