@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time for the &quot;last time VIX was here SPX traded at all time highs&quot; crowd to start chanting...."
-audio: market-fear-evaporates-9
+audio: market-fear-evaporates-10
 category: the-market-ear
 desc: 
 duration: 00:03:09
