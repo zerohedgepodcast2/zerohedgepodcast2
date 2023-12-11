@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Watch: Hunter Biden Ditches Deposition, Instead Gives Capitol Hill Speech Claiming Joe Biden 'Not Involved' In Business"
-audio: watch-hunter-biden-ditches-deposition-instead-gives-capitol-hill-speech-claiming-joe-0
+title: "&quot;You're Defending Him!&quot; Comer Gets In Heated Spat With WaPo Reporter After Hunter Ditches Deposition"
+audio: watch-hunter-biden-ditches-deposition-instead-gives-capitol-hill-speech-claiming-joe-1
 category: political
-desc: "&quot;Let me state as clearly as I can...&quot;"
-duration: 00:02:26
-length: 146
-datetime: Wed, 13 Dec 2023 14:54:00 +0000
+desc: "&quot;No, no, no, no. The checks. There's two checks to Joe Biden from his brother...&quot;"
+duration: 00:04:34
+length: 274
+datetime: Wed, 13 Dec 2023 16:56:00 +0000
 tags: podcast
 guid: watch-hunter-biden-ditches-deposition-instead-gives-capitol-hill-speech-claiming-joe-0
 order: 2
 ---
-&quot;Let me state as clearly as I can...&quot;
+&quot;No, no, no, no. The checks. There's two checks to Joe Biden from his brother...&quot;
 
 Link: [https://www.zerohedge.com/political/watch-hunter-biden-ditches-deposition-instead-gives-capitol-hill-speech-claiming-joe](https://www.zerohedge.com/political/watch-hunter-biden-ditches-deposition-instead-gives-capitol-hill-speech-claiming-joe)
 
