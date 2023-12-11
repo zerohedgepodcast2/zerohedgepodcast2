@@ -9,7 +9,7 @@ length: 401
 datetime: Wed, 13 Dec 2023 00:45:00 +0000
 tags: podcast
 guid: ibm-slapped-federal-civil-rights-complaint-after-racist-ceos-obviously-illegal-hiring-0
-order: 2
+order: 1
 ---
 &quot;Asians are not an underrepresented minority in tech in America...&quot;
 
