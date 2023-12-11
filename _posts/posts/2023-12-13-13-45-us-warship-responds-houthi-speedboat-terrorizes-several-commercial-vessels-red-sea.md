@@ -9,7 +9,7 @@ length: 132
 datetime: Wed, 13 Dec 2023 13:45:00 +0000
 tags: podcast
 guid: us-warship-responds-houthi-speedboat-terrorizes-several-commercial-vessels-red-sea-0
-order: 0
+order: 2
 ---
 US Navy shoots down inbound drone off Yemen...
 

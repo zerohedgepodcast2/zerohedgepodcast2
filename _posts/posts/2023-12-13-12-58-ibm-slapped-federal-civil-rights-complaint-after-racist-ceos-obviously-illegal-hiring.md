@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "IBM Slapped With Federal Civil Rights Complaint After Racist CEO's &quot;Obviously Illegal&quot; Hiring Practices Leak"
-audio: ibm-slapped-federal-civil-rights-complaint-after-racist-ceos-obviously-illegal-hiring-0
+audio: ibm-slapped-federal-civil-rights-complaint-after-racist-ceos-obviously-illegal-hiring-1
 category: political
 desc: "&quot;Asians are not an underrepresented minority in tech in America...&quot;"
 duration: 00:06:41
 length: 401
-datetime: Wed, 13 Dec 2023 00:45:00 +0000
+datetime: Wed, 13 Dec 2023 12:58:00 +0000
 tags: podcast
 guid: ibm-slapped-federal-civil-rights-complaint-after-racist-ceos-obviously-illegal-hiring-0
-order: 1
+order: 0
 ---
 &quot;Asians are not an underrepresented minority in tech in America...&quot;
 

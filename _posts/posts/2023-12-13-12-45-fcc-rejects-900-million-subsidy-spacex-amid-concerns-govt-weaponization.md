@@ -9,7 +9,7 @@ length: 292
 datetime: Wed, 13 Dec 2023 12:45:00 +0000
 tags: podcast
 guid: fcc-rejects-900-million-subsidy-spacex-amid-concerns-govt-weaponization-0
-order: 0
+order: 1
 ---
 &quot;Today, the Federal Communications Commission adds itself to the growing list of administrative agencies that are taking action against Elon Musk's businesses. I am not the first to notice a pattern here.&quot; 
 
