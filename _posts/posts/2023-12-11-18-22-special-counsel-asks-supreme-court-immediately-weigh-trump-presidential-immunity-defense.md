@@ -9,7 +9,7 @@ length: 154
 datetime: Mon, 11 Dec 2023 18:22:00 +0000
 tags: podcast
 guid: special-counsel-asks-supreme-court-immediately-weigh-trump-presidential-immunity-defense-0
-order: 2
+order: 0
 ---
 &quot;It is of imperative public importance that respondent's claims of immunity be resolved by this Court...&quot;
 
