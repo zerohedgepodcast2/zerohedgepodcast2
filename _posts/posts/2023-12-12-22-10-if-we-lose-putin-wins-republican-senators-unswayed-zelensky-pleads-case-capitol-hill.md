@@ -9,7 +9,7 @@ length: 265
 datetime: Tue, 12 Dec 2023 22:10:00 +0000
 tags: podcast
 guid: if-we-lose-putin-wins-republican-senators-unswayed-zelensky-pleads-case-capitol-hill-0
-order: 2
+order: 0
 ---
 Biden: we are coming to the end of our ability to help Ukraine.
 

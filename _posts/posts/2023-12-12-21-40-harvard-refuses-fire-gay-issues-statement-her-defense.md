@@ -9,7 +9,7 @@ length: 392
 datetime: Tue, 12 Dec 2023 21:40:00 +0000
 tags: podcast
 guid: harvard-refuses-fire-gay-issues-statement-her-defense-0
-order: 1
+order: 0
 ---
 &quot;There is a reason why the testimony at the Education and Workforce Committee garnered 1 billion views worldwide...&quot;
 
