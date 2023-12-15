@@ -9,7 +9,7 @@ length: 258
 datetime: Fri, 15 Dec 2023 15:05:00 +0000
 tags: podcast
 guid: illinois-naacp-president-apologizes-then-blames-ai-deepfake-after-referring-immigrants-0
-order: 0
+order: 2
 ---
 &quot;With AI, anything is possible...&quot;
 
