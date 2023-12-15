@@ -9,7 +9,7 @@ length: 194
 datetime: Thu, 14 Dec 2023 14:40:00 +0000
 tags: podcast
 guid: i-am-angry-black-scholar-who-says-harvard-prez-plagiarized-her-work-livid-5th-example-0
-order: 1
+order: 0
 ---
 Gay's &quot;whole research agenda, her whole career, was based on my work.&quot;
 

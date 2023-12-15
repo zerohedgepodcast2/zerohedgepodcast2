@@ -9,7 +9,7 @@ length: 480
 datetime: Fri, 15 Dec 2023 04:40:00 +0000
 tags: podcast
 guid: 400000-ukrainians-killed-action-explains-whole-lot-0
-order: 0
+order: 1
 ---
 &quot;In humanitarian terms, this tragedy has resulted in the Ukrainian nation being destroyed in a war that never needed to be fought,&quot; Col. Macgregor said.
 

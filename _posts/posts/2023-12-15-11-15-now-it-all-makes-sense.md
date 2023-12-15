@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Now It All Makes Sense"
-audio: now-it-all-makes-sense-0
+audio: now-it-all-makes-sense-1
 category: markets
 desc: "How Jerome Powell destroyed what little reputation the Fed had left..."
 duration: 00:09:15
 length: 555
-datetime: Thu, 14 Dec 2023 16:20:00 +0000
+datetime: Fri, 15 Dec 2023 11:15:00 +0000
 tags: podcast
 guid: now-it-all-makes-sense-0
-order: 2
+order: 0
 ---
 How Jerome Powell destroyed what little reputation the Fed had left...
 
