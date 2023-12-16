@@ -9,7 +9,7 @@ length: 220
 datetime: Fri, 15 Dec 2023 12:45:00 +0000
 tags: podcast
 guid: ex-fbi-intel-chief-who-investigated-trump-russia-collusion-gets-4-years-prison-colluding-0
-order: 1
+order: 0
 ---
 &quot;It is not an overstatement to say that no one knew better the gravity of McGonigal's crimes than McGonigal himself.&quot;
 

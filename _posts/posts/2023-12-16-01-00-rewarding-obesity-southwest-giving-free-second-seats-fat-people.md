@@ -9,7 +9,7 @@ length: 186
 datetime: Sat, 16 Dec 2023 01:00:00 +0000
 tags: podcast
 guid: rewarding-obesity-southwest-giving-free-second-seats-fat-people-0
-order: 0
+order: 2
 ---
 ...and you could get bumped off a flight to make room
 
