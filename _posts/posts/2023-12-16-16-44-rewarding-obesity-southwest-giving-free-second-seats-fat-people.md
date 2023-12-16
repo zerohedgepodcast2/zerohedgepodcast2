@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Rewarding Obesity, Southwest Giving Free Second Seats To 'Customers of Size'"
-audio: rewarding-obesity-southwest-giving-free-second-seats-fat-people-0
+audio: rewarding-obesity-southwest-giving-free-second-seats-fat-people-1
 category: economics
 desc: "...and you could get bumped off a flight to make room"
 duration: 00:03:06
 length: 186
-datetime: Sat, 16 Dec 2023 01:00:00 +0000
+datetime: Sat, 16 Dec 2023 16:44:00 +0000
 tags: podcast
 guid: rewarding-obesity-southwest-giving-free-second-seats-fat-people-0
-order: 2
+order: 0
 ---
 ...and you could get bumped off a flight to make room
 
