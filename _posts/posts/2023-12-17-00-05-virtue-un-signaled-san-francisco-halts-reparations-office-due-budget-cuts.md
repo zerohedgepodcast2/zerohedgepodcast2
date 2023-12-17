@@ -9,7 +9,7 @@ length: 133
 datetime: Sun, 17 Dec 2023 00:05:00 +0000
 tags: podcast
 guid: virtue-un-signaled-san-francisco-halts-reparations-office-due-budget-cuts-0
-order: 0
+order: 2
 ---
 Silence is violence, Mayor...
 

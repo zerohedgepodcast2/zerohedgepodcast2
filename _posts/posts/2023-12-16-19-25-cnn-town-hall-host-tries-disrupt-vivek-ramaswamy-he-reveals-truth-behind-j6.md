@@ -9,7 +9,7 @@ length: 165
 datetime: Sat, 16 Dec 2023 19:25:00 +0000
 tags: podcast
 guid: cnn-town-hall-host-tries-disrupt-vivek-ramaswamy-he-reveals-truth-behind-j6-0
-order: 0
+order: 1
 ---
 Vivek's root position is a sound one that no one can reasonably argue against:  The government lies, and it lies often...
 
