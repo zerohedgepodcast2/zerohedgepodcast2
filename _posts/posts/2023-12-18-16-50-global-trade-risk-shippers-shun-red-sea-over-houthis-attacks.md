@@ -9,7 +9,7 @@ length: 704
 datetime: Mon, 18 Dec 2023 16:50:00 +0000
 tags: podcast
 guid: global-trade-risk-shippers-shun-red-sea-over-houthis-attacks-0
-order: 2
+order: 1
 ---
 Australia among others expected to play major role as US military intervention deepens...
 

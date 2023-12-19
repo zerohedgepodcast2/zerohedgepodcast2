@@ -9,7 +9,7 @@ length: 153
 datetime: Mon, 18 Dec 2023 04:55:00 +0000
 tags: podcast
 guid: us-military-faces-mutiny-enlisted-gen-zers-tiktok-virus-spreads-0
-order: 1
+order: 0
 ---
 &quot;Politicians from both sides have concerns about the platform's links with China and accuse it of pushing subversive anti-US propaganda.&quot; 
 
