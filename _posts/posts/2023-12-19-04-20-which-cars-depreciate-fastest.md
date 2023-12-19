@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Which Cars Depreciate The Fastest?"
-audio: which-cars-depreciate-fastest-0
+audio: which-cars-depreciate-fastest-1
 category: personal-finance
 desc: "...Maserati Quattroporte!"
 duration: 00:02:34
 length: 154
-datetime: Tue, 19 Dec 2023 01:20:00 +0000
+datetime: Tue, 19 Dec 2023 04:20:00 +0000
 tags: podcast
 guid: which-cars-depreciate-fastest-0
 order: 0
