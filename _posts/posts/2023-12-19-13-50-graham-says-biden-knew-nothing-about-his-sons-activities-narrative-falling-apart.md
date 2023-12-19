@@ -9,7 +9,7 @@ length: 215
 datetime: Tue, 19 Dec 2023 13:50:00 +0000
 tags: podcast
 guid: graham-says-biden-knew-nothing-about-his-sons-activities-narrative-falling-apart-0
-order: 0
+order: 2
 ---
 But of course he's lukewarm on impeachment...
 
