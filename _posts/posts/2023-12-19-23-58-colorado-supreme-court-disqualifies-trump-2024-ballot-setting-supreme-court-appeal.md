@@ -9,7 +9,7 @@ length: 288
 datetime: Tue, 19 Dec 2023 23:58:00 +0000
 tags: podcast
 guid: colorado-supreme-court-disqualifies-trump-2024-ballot-setting-supreme-court-appeal-0
-order: 2
+order: 1
 ---
 We do not reach these conclusions lightly... We are likewise mindful of our solemn duty to apply the law, without fear or favor, and without being swayed by public reaction to the decisions that the law mandates we reach.&quot;
 
