@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "extreme greed kicking in..."
-audio: fearless-faangs-and-small-cap-extremes-7
+audio: fearless-faangs-and-small-cap-extremes-8
 category: the-market-ear
 desc: 
 duration: 00:02:59
