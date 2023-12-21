@@ -9,7 +9,7 @@ length: 214
 datetime: Wed, 20 Dec 2023 21:00:00 +0000
 tags: podcast
 guid: stocks-bond-yields-puke-rate-cut-expectations-surge-0
-order: 2
+order: 1
 ---
 Did the Goldilocks narrative just die?
 

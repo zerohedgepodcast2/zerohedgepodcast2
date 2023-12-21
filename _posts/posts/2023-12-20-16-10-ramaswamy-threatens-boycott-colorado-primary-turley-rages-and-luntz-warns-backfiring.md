@@ -9,7 +9,7 @@ length: 172
 datetime: Wed, 20 Dec 2023 16:10:00 +0000
 tags: podcast
 guid: ramaswamy-threatens-boycott-colorado-primary-turley-rages-and-luntz-warns-backfiring-0
-order: 1
+order: 0
 ---
 Martyr status intensifies...
 
