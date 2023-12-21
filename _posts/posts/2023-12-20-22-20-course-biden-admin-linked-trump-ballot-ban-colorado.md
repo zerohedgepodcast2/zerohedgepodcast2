@@ -9,7 +9,7 @@ length: 134
 datetime: Wed, 20 Dec 2023 22:20:00 +0000
 tags: podcast
 guid: course-biden-admin-linked-trump-ballot-ban-colorado-0
-order: 2
+order: 1
 ---
 The Founding Fathers are rolling in their graves...
 
