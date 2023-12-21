@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Of Course: Biden Admin Linked To Trump Ballot Ban In Colorado"
-audio: course-biden-admin-linked-trump-ballot-ban-colorado-0
+audio: course-biden-admin-linked-trump-ballot-ban-colorado-1
 category: political
 desc: "The Founding Fathers are rolling in their graves..."
-duration: 00:02:14
-length: 134
-datetime: Wed, 20 Dec 2023 22:20:00 +0000
+duration: 00:02:36
+length: 156
+datetime: Thu, 21 Dec 2023 10:20:00 +0000
 tags: podcast
 guid: course-biden-admin-linked-trump-ballot-ban-colorado-0
-order: 1
+order: 0
 ---
 The Founding Fathers are rolling in their graves...
 
