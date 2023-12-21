@@ -9,7 +9,7 @@ length: 222
 datetime: Thu, 21 Dec 2023 14:11:00 +0000
 tags: podcast
 guid: final-q3-gdp-personal-consumption-revised-sharply-lower-core-pce-slumped-20-0
-order: 2
+order: 0
 ---
 In retrospect, it appears that the Fed hit its inflation target some time in the summer.
 
