@@ -9,7 +9,7 @@ length: 259
 datetime: Thu, 21 Dec 2023 12:20:00 +0000
 tags: podcast
 guid: charts-economist-claims-2024-will-bring-biggest-crash-our-lifetime-us-0
-order: 0
+order: 1
 ---
 &quot;100 percent artificial, which means we're in a dangerous state...&quot;
 
