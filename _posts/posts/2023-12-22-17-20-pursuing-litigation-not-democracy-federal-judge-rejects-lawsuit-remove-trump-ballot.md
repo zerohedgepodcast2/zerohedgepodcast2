@@ -9,7 +9,7 @@ length: 287
 datetime: Fri, 22 Dec 2023 17:20:00 +0000
 tags: podcast
 guid: pursuing-litigation-not-democracy-federal-judge-rejects-lawsuit-remove-trump-ballot-0
-order: 2
+order: 1
 ---
 &quot;...the evidentiary submissions remove any doubt that Mr. Castro's purported campaign' exists as a vehicle for pursuing litigation, not votes...&quot;
 
