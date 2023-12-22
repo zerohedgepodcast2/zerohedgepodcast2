@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "NY Times Blasts Harvard's Gay In Detailed Plagiarism Review As Scandal Spirals Out Of Control"
-audio: ny-times-blasts-harvards-gay-detailed-plagiarism-review-scandal-spirals-out-control-0
+audio: ny-times-blasts-harvards-gay-detailed-plagiarism-review-scandal-spirals-out-control-1
 category: political
 desc: "You know it's bad when..."
 duration: 00:03:09
 length: 189
-datetime: Thu, 21 Dec 2023 15:45:00 +0000
+datetime: Fri, 22 Dec 2023 10:55:00 +0000
 tags: podcast
 guid: ny-times-blasts-harvards-gay-detailed-plagiarism-review-scandal-spirals-out-control-0
-order: 1
+order: 0
 ---
 You know it's bad when...
 
