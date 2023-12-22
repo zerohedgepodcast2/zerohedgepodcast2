@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "&quot;...the biggest surprise that could send a shockwave through portfolios is the US IT market cap bubble bursting and tipping the entire US market into a slump.&quot;"
-audio: tech-troubles-and-vix-fear-lurks-4
+audio: tech-troubles-and-vix-fear-lurks-5
 category: the-market-ear
 desc: 
 duration: 00:02:44
