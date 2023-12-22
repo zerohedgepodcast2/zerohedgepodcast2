@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "'Pursuing Litigation, Not Democracy' - Federal Judge Rejects Lawsuit To Remove Trump From Ballot"
-audio: pursuing-litigation-not-democracy-federal-judge-rejects-lawsuit-remove-trump-ballot-0
+audio: pursuing-litigation-not-democracy-federal-judge-rejects-lawsuit-remove-trump-ballot-1
 category: political
 desc: "&quot;...the evidentiary submissions remove any doubt that Mr. Castro's purported campaign' exists as a vehicle for pursuing litigation, not votes...&quot;"
 duration: 00:04:47
 length: 287
-datetime: Fri, 22 Dec 2023 17:20:00 +0000
+datetime: Fri, 22 Dec 2023 19:30:00 +0000
 tags: podcast
 guid: pursuing-litigation-not-democracy-federal-judge-rejects-lawsuit-remove-trump-ballot-0
-order: 1
+order: 0
 ---
 &quot;...the evidentiary submissions remove any doubt that Mr. Castro's purported campaign' exists as a vehicle for pursuing litigation, not votes...&quot;
 
