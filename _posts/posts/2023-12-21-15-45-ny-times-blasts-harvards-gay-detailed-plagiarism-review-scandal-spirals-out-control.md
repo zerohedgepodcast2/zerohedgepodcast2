@@ -9,7 +9,7 @@ length: 189
 datetime: Thu, 21 Dec 2023 15:45:00 +0000
 tags: podcast
 guid: ny-times-blasts-harvards-gay-detailed-plagiarism-review-scandal-spirals-out-control-0
-order: 2
+order: 1
 ---
 You know it's bad when...
 
