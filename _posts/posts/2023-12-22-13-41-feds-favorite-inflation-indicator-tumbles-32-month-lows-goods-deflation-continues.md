@@ -9,7 +9,7 @@ length: 99
 datetime: Fri, 22 Dec 2023 13:41:00 +0000
 tags: podcast
 guid: feds-favorite-inflation-indicator-tumbles-32-month-lows-goods-deflation-continues-0
-order: 1
+order: 0
 ---
 The headline PCE Deflator FELL 0.1% MoM - the first monthly decline since April 2020.
 
