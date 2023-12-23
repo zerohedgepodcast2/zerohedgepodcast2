@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Supreme Court Rules Against Special Counsel, Will Not Expedite Trump Immunity Clash"
-audio: supreme-court-rules-against-special-counsel-will-not-expedite-trump-immunity-clash-0
+audio: supreme-court-rules-against-special-counsel-will-not-expedite-trump-immunity-clash-1
 category: markets
 desc: "This is the last thing Smith wanted..."
 duration: 00:03:26
 length: 206
-datetime: Fri, 22 Dec 2023 19:35:00 +0000
+datetime: Sat, 23 Dec 2023 18:35:00 +0000
 tags: podcast
 guid: supreme-court-rules-against-special-counsel-will-not-expedite-trump-immunity-clash-0
-order: 1
+order: 0
 ---
 This is the last thing Smith wanted...
 
