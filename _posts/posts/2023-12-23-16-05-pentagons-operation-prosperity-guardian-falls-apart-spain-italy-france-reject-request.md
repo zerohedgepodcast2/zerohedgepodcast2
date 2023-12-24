@@ -9,7 +9,7 @@ length: 284
 datetime: Sat, 23 Dec 2023 16:05:00 +0000
 tags: podcast
 guid: pentagons-operation-prosperity-guardian-falls-apart-spain-italy-france-reject-request-0
-order: 1
+order: 0
 ---
 &quot;This is the result of a weak 'President' / lack of leadership.&quot; 
 

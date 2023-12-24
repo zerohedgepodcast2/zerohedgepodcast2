@@ -9,7 +9,7 @@ length: 162
 datetime: Sat, 23 Dec 2023 17:15:00 +0000
 tags: podcast
 guid: its-disgusting-what-theyre-doing-tucker-carlson-describes-visit-julian-assange-0
-order: 2
+order: 1
 ---
 &quot;The inmates are treated like animals...&quot;
 
