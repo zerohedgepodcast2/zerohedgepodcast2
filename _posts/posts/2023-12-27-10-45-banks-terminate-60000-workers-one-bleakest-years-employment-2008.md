@@ -9,7 +9,7 @@ length: 128
 datetime: Wed, 27 Dec 2023 10:45:00 +0000
 tags: podcast
 guid: banks-terminate-60000-workers-one-bleakest-years-employment-2008-0
-order: 0
+order: 1
 ---
 &quot;There is no stability, no investment, no growth in most banks  and there are likely to be more job cuts,&quot; 
 
