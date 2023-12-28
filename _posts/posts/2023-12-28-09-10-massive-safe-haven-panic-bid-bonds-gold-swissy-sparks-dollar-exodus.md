@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Massive 'Safe-Haven' Panic Bid In Bonds, Gold, &amp; Swissy Sparks Dollar Exodus"
-audio: massive-safe-haven-panic-bid-bonds-gold-swissy-sparks-dollar-exodus-0
+audio: massive-safe-haven-panic-bid-bonds-gold-swissy-sparks-dollar-exodus-1
 category: markets
 desc: "Somebody knows something..."
-duration: 00:03:25
-length: 205
-datetime: Wed, 27 Dec 2023 21:00:00 +0000
+duration: 00:03:34
+length: 214
+datetime: Thu, 28 Dec 2023 09:10:00 +0000
 tags: podcast
 guid: massive-safe-haven-panic-bid-bonds-gold-swissy-sparks-dollar-exodus-0
-order: 1
+order: 0
 ---
 Somebody knows something...
 
