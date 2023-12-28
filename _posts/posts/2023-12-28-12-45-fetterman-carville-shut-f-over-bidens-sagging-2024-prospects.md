@@ -9,7 +9,7 @@ length: 207
 datetime: Thu, 28 Dec 2023 12:45:00 +0000
 tags: podcast
 guid: fetterman-carville-shut-f-over-bidens-sagging-2024-prospects-0
-order: 0
+order: 1
 ---
 &quot;...my man hasn't been relevant since grunge was a thing,&quot; says grungy senator
 
