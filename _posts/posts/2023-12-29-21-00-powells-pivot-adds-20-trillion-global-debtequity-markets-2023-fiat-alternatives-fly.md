@@ -9,7 +9,7 @@ length: 650
 datetime: Fri, 29 Dec 2023 21:00:00 +0000
 tags: podcast
 guid: powells-pivot-adds-20-trillion-global-debtequity-markets-2023-fiat-alternatives-fly-0
-order: 1
+order: 2
 ---
 ...stocks, bonds, bullion, and bitcoin all ripped higher in 2023 (but commodities didn't) as The Fed folded.
 
