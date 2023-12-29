@@ -9,7 +9,7 @@ length: 261
 datetime: Fri, 29 Dec 2023 17:40:00 +0000
 tags: podcast
 guid: harvard-academics-were-slamming-scandal-plagued-claudine-gay-long-plagiarism-accusations-0
-order: 1
+order: 0
 ---
 &quot;Whole sentences in her literature review lifted off original sources with no quotation marks...&quot;
 
