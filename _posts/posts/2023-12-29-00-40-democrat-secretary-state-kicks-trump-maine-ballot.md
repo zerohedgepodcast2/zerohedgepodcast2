@@ -9,7 +9,7 @@ length: 196
 datetime: Fri, 29 Dec 2023 00:40:00 +0000
 tags: podcast
 guid: democrat-secretary-state-kicks-trump-maine-ballot-0
-order: 0
+order: 1
 ---
 ...unlike other states, where plaintiffs have sued over Trump's eligibility in court, Maine's system first allows the secretary of state to weigh in.
 
