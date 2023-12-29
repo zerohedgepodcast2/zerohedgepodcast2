@@ -9,7 +9,7 @@ length: 156
 datetime: Fri, 29 Dec 2023 10:00:00 +0000
 tags: podcast
 guid: leftist-politician-germany-says-migrants-are-entitled-mass-loot-grocery-stores-0
-order: 1
+order: 0
 ---
 Manager who complained about it denounced as racist...
 

@@ -9,7 +9,7 @@ length: 283
 datetime: Thu, 28 Dec 2023 21:20:00 +0000
 tags: podcast
 guid: victor-davis-hanson-exposes-our-razors-edge-0
-order: 0
+order: 1
 ---
 For weeks, the American people have been relatively silent as they digested these ongoing catastrophes. But at some point, their patience will run out...
 
