@@ -9,7 +9,7 @@ length: 107
 datetime: Fri, 29 Dec 2023 16:40:00 +0000
 tags: podcast
 guid: after-maine-matt-taibbi-asks-there-any-way-ends-well-0
-order: 1
+order: 0
 ---
 &quot;I doubt the 14th Amendment was designed to empower unelected state officials to unilaterally strike major party frontrunners from the presidential ballot...&quot;
 
