@@ -9,7 +9,7 @@ length: 260
 datetime: Sat, 30 Dec 2023 02:00:00 +0000
 tags: podcast
 guid: what-great-replacement-theory-musk-exposes-immense-growing-size-illegal-immigration-0
-order: 1
+order: 0
 ---
 This is literally &quot;the great replacement&quot; in action. I'm Latino so I don't want to hear how the great replacement is racist. 
 

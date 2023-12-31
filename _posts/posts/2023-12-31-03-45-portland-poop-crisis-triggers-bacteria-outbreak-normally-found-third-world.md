@@ -9,7 +9,7 @@ length: 161
 datetime: Sun, 31 Dec 2023 03:45:00 +0000
 tags: podcast
 guid: portland-poop-crisis-triggers-bacteria-outbreak-normally-found-third-world-0
-order: 0
+order: 2
 ---
 &quot;Beautiful boarded up old building with diarrhea on the steps is quintessential Portland.&quot; 
 
