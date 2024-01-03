@@ -9,7 +9,7 @@ length: 272
 datetime: Tue, 02 Jan 2024 18:02:00 +0000
 tags: podcast
 guid: harvards-gay-hit-new-plagiarism-allegations-widespread-double-standards-exposed-elite-0
-order: 2
+order: 1
 ---
 Aaaaand, she's out...
 
