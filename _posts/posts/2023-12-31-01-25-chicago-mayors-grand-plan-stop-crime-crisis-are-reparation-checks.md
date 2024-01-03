@@ -9,7 +9,7 @@ length: 168
 datetime: Sun, 31 Dec 2023 01:25:00 +0000
 tags: podcast
 guid: chicago-mayors-grand-plan-stop-crime-crisis-are-reparation-checks-0
-order: 1
+order: 0
 ---
 You can't make this stuff up. It sounds like a headline from The Babylon Bee. 
 
