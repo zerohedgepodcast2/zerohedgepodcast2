@@ -9,7 +9,7 @@ length: 173
 datetime: Fri, 05 Jan 2024 02:10:00 +0000
 tags: podcast
 guid: system-not-going-let-trump-win-dems-real-puppet-isnt-gavin-its-nikki-tucker-and-vivek-0
-order: 2
+order: 1
 ---
 &quot;Nikki Haley... makes for a far better Trojan horse to actually accomplish that objective than anybody else.&quot;
 
