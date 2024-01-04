@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russell hitting the 21 day moving average and the trend line that has been in place since October lows"
-audio: big-small-cap-pain-1
+audio: big-small-cap-pain-2
 category: the-market-ear
 desc: 
 duration: 00:02:00
