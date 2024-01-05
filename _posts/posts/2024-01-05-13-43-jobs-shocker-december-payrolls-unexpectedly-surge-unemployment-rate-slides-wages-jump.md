@@ -9,7 +9,7 @@ length: 65
 datetime: Fri, 05 Jan 2024 13:43:00 +0000
 tags: podcast
 guid: jobs-shocker-december-payrolls-unexpectedly-surge-unemployment-rate-slides-wages-jump-0
-order: 0
+order: 2
 ---
 So much for a March rate cut.
 
