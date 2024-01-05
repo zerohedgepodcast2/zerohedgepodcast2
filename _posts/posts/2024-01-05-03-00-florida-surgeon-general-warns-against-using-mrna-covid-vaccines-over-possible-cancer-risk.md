@@ -9,7 +9,7 @@ length: 418
 datetime: Fri, 05 Jan 2024 03:00:00 +0000
 tags: podcast
 guid: florida-surgeon-general-warns-against-using-mrna-covid-vaccines-over-possible-cancer-risk-0
-order: 0
+order: 1
 ---
 &quot;DNA integration poses a unique and elevated risk to human health...&quot;
 
