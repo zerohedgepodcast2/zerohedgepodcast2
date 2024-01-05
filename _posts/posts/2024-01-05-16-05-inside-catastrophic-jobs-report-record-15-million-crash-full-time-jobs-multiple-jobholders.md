@@ -9,7 +9,7 @@ length: 387
 datetime: Fri, 05 Jan 2024 16:05:00 +0000
 tags: podcast
 guid: inside-catastrophic-jobs-report-record-15-million-crash-full-time-jobs-multiple-jobholders-0
-order: 2
+order: 0
 ---
 The lies out of the BLS are making Beijing blush...
 
