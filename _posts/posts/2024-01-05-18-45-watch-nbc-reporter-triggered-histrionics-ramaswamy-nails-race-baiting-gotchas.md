@@ -9,7 +9,7 @@ length: 218
 datetime: Fri, 05 Jan 2024 18:45:00 +0000
 tags: podcast
 guid: watch-nbc-reporter-triggered-histrionics-ramaswamy-nails-race-baiting-gotchas-0
-order: 0
+order: 1
 ---
 Hello, 911? There's been a murder...
 
