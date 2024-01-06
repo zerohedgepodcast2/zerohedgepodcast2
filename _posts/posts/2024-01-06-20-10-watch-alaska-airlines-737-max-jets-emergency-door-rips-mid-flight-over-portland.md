@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "FAA Grounds Boeing 737 Max 9 Jets After Exit Door Incident"
-audio: watch-alaska-airlines-737-max-jets-emergency-door-rips-mid-flight-over-portland-1
+audio: watch-alaska-airlines-737-max-jets-emergency-door-rips-mid-flight-over-portland-2
 category: markets
 desc: "&quot;Wouldn't set foot in one.&quot; "
 duration: 00:04:26
 length: 266
-datetime: Sat, 06 Jan 2024 18:10:00 +0000
+datetime: Sat, 06 Jan 2024 20:10:00 +0000
 tags: podcast
 guid: watch-alaska-airlines-737-max-jets-emergency-door-rips-mid-flight-over-portland-0
-order: 2
+order: 0
 ---
 &quot;Wouldn't set foot in one.&quot; 
 
