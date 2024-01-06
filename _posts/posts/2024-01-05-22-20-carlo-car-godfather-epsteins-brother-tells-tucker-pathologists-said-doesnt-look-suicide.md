@@ -9,7 +9,7 @@ length: 370
 datetime: Fri, 05 Jan 2024 22:20:00 +0000
 tags: podcast
 guid: carlo-car-godfather-epsteins-brother-tells-tucker-pathologists-said-doesnt-look-suicide-0
-order: 2
+order: 1
 ---
 &quot;The bones in his neck that were broken are not seen in hangings, but are seen in strangulation.&quot;
 

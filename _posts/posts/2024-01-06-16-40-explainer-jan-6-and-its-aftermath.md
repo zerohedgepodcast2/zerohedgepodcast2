@@ -9,7 +9,7 @@ length: 1177
 datetime: Sat, 06 Jan 2024 16:40:00 +0000
 tags: podcast
 guid: explainer-jan-6-and-its-aftermath-0
-order: 0
+order: 2
 ---
 Jan. 6, 2021, will forever be a prominent part of American history - in ways that few people fully realize. It was most certainly a fork in the road...
 

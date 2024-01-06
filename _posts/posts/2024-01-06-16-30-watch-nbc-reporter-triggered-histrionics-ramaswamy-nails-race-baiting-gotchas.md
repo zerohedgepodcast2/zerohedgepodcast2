@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: NBC Reporter Triggered Into Histrionics As Ramaswamy Nails Race-Baiting 'Gotchas' "
-audio: watch-nbc-reporter-triggered-histrionics-ramaswamy-nails-race-baiting-gotchas-0
+audio: watch-nbc-reporter-triggered-histrionics-ramaswamy-nails-race-baiting-gotchas-1
 category: political
 desc: "Hello, 911? There's been a murder..."
 duration: 00:03:38
 length: 218
-datetime: Fri, 05 Jan 2024 18:45:00 +0000
+datetime: Sat, 06 Jan 2024 16:30:00 +0000
 tags: podcast
 guid: watch-nbc-reporter-triggered-histrionics-ramaswamy-nails-race-baiting-gotchas-0
-order: 1
+order: 0
 ---
 Hello, 911? There's been a murder...
 
