@@ -9,7 +9,7 @@ length: 266
 datetime: Sat, 06 Jan 2024 18:10:00 +0000
 tags: podcast
 guid: watch-alaska-airlines-737-max-jets-emergency-door-rips-mid-flight-over-portland-0
-order: 0
+order: 2
 ---
 &quot;Wouldn't set foot in one.&quot; 
 
