@@ -9,7 +9,7 @@ length: 164
 datetime: Sun, 07 Jan 2024 01:25:00 +0000
 tags: podcast
 guid: white-house-wasnt-aware-days-defense-secretary-austin-was-hospitalized-0
-order: 2
+order: 0
 ---
 Pentagon chief out of commission for nearly four daysdefense officials &quot;shocked&quot; Biden didn't know...
 

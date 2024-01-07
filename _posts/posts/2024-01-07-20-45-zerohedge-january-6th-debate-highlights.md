@@ -9,7 +9,7 @@ length: 131
 datetime: Sun, 07 Jan 2024 20:45:00 +0000
 tags: podcast
 guid: zerohedge-january-6th-debate-highlights-0
-order: 0
+order: 2
 ---
 Was January 6th a manufactured crisis?
 
