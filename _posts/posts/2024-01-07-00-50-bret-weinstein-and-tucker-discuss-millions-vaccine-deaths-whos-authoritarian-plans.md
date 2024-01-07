@@ -9,7 +9,7 @@ length: 160
 datetime: Sun, 07 Jan 2024 00:50:00 +0000
 tags: podcast
 guid: bret-weinstein-and-tucker-discuss-millions-vaccine-deaths-whos-authoritarian-plans-0
-order: 0
+order: 1
 ---
 &quot;I call the force that we're up against Goliath...&quot; 
 
