@@ -9,7 +9,7 @@ length: 226
 datetime: Tue, 09 Jan 2024 13:15:00 +0000
 tags: podcast
 guid: georgia-trump-prosecutor-accused-secret-disqualifying-romance-da-fani-willis-0
-order: 2
+order: 1
 ---
 &quot;An impermissible and irreparable conflict of interest&quot; -- with upwards of a million in taxpayer money
 
