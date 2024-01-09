@@ -9,7 +9,7 @@ length: 247
 datetime: Tue, 09 Jan 2024 21:23:00 +0000
 tags: podcast
 guid: sec-approves-bitcoin-spot-etf-0
-order: 0
+order: 2
 ---
 The @SECGov twitter account was compromised, and an unauthorized tweet was posted... has not approved a spot bitcoin ETF...
 
