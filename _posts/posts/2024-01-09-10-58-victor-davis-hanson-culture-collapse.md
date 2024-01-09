@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Victor Davis Hanson: A Culture In Collapse"
-audio: victor-davis-hanson-culture-collapse-0
+audio: victor-davis-hanson-culture-collapse-1
 category: political
 desc: "American civilization has been turned upside down, and we have a rendezvous soon with the once unthinkable and unimaginable..."
 duration: 00:13:58
 length: 838
-datetime: Tue, 09 Jan 2024 00:00:00 +0000
+datetime: Tue, 09 Jan 2024 10:58:00 +0000
 tags: podcast
 guid: victor-davis-hanson-culture-collapse-0
 order: 0

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "United Finds &quot;Loose Bolts&quot; On 737 Max Doors After Emergency Inspection"
-audio: alaska-737-max-cockpit-recording-data-erased-after-mid-flight-door-blowout-0
+audio: alaska-737-max-cockpit-recording-data-erased-after-mid-flight-door-blowout-1
 category: markets
 desc: "&quot;Not sure that can be attributable to just one line. Might have to ground all Boeing aircraft delivered in a given window of time?&quot;"
 duration: 00:04:53
 length: 293
-datetime: Mon, 08 Jan 2024 22:22:00 +0000
+datetime: Tue, 09 Jan 2024 11:28:00 +0000
 tags: podcast
 guid: alaska-737-max-cockpit-recording-data-erased-after-mid-flight-door-blowout-0
-order: 1
+order: 0
 ---
 &quot;Not sure that can be attributable to just one line. Might have to ground all Boeing aircraft delivered in a given window of time?&quot;
 
