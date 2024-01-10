@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not getting &quot;strategically&quot; excited until we break out of the 4700/4850 range"
-audio: healthy-longs-stuck-range-5
+audio: healthy-longs-stuck-range-6
 category: the-market-ear
 desc: 
 duration: 00:02:27
