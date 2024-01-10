@@ -9,7 +9,7 @@ length: 139
 datetime: Wed, 10 Jan 2024 15:00:00 +0000
 tags: podcast
 guid: doocy-questions-potential-cover-over-bidens-health-0
-order: 0
+order: 2
 ---
 ...after Pentagon failed to disclose Lloyd Austin's cancer treatment.
 
