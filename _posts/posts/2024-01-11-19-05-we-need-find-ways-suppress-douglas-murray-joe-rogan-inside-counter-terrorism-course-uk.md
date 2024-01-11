@@ -9,7 +9,7 @@ length: 452
 datetime: Thu, 11 Jan 2024 19:05:00 +0000
 tags: podcast
 guid: we-need-find-ways-suppress-douglas-murray-joe-rogan-inside-counter-terrorism-course-uk-0
-order: 0
+order: 2
 ---
 &quot;To de-platform them would cause issues... so, society needs to find other ways to suppress them...&quot;
 
