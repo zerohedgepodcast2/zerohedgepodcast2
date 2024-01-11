@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Headline CPI Hotter Than Expected In December, Food Costs Hit Record High"
-audio: headline-cpi-hotter-expected-december-supercore-accelerating-0
+audio: headline-cpi-hotter-expected-december-supercore-accelerating-1
 category: markets
 desc: "...did Goldilocks just die?"
-duration: 00:02:49
-length: 169
-datetime: Thu, 11 Jan 2024 13:42:00 +0000
+duration: 00:03:11
+length: 191
+datetime: Thu, 11 Jan 2024 18:22:00 +0000
 tags: podcast
 guid: headline-cpi-hotter-expected-december-supercore-accelerating-0
-order: 2
+order: 0
 ---
 ...did Goldilocks just die?
 
