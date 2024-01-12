@@ -9,7 +9,7 @@ length: 221
 datetime: Thu, 11 Jan 2024 20:23:00 +0000
 tags: podcast
 guid: us-budget-deficit-soars-50-crushing-estimates-fiscal-collapse-under-biden-accelerates-0
-order: 0
+order: 1
 ---
 The December budget deficit of $129.4 billion was more than $40BN higher than the $87.5BN median estimate, and was more than 50% higher compared to the $85BN December deficit in fiscal 2022.
 

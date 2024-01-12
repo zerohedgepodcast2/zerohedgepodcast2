@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;We Need To Find Ways To Suppress Douglas Murray &amp; Joe Rogan&quot;: Inside A Counter-Terrorism Course For UK Civil Servants"
-audio: we-need-find-ways-suppress-douglas-murray-joe-rogan-inside-counter-terrorism-course-uk-0
+audio: we-need-find-ways-suppress-douglas-murray-joe-rogan-inside-counter-terrorism-course-uk-1
 category: political
 desc: "&quot;To de-platform them would cause issues... so, society needs to find other ways to suppress them...&quot;"
 duration: 00:07:32
 length: 452
-datetime: Thu, 11 Jan 2024 19:05:00 +0000
+datetime: Fri, 12 Jan 2024 00:05:00 +0000
 tags: podcast
 guid: we-need-find-ways-suppress-douglas-murray-joe-rogan-inside-counter-terrorism-course-uk-0
-order: 1
+order: 0
 ---
 &quot;To de-platform them would cause issues... so, society needs to find other ways to suppress them...&quot;
 
