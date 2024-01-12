@@ -9,7 +9,7 @@ length: 222
 datetime: Fri, 12 Jan 2024 07:45:00 +0000
 tags: podcast
 guid: eu-outlier-pm-fico-says-west-got-ukraine-all-wrong-futile-waste-human-resources-money-0
-order: 0
+order: 1
 ---
 &quot;unforeseeable consequences for Ukrainians in the years to come,&quot; he wrote.
 
