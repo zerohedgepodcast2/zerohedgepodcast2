@@ -9,7 +9,7 @@ length: 215
 datetime: Fri, 12 Jan 2024 20:23:00 +0000
 tags: podcast
 guid: fanigate-goes-full-jerry-springer-das-alleged-lover-left-wife-dire-need-after-failing-0
-order: 2
+order: 1
 ---
 Oh...
 

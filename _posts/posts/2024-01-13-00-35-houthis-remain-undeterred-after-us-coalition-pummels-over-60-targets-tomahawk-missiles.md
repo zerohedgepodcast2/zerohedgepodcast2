@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Houthis Undeterred After US Coalition Pummels Over 60 Targets With Tomahawk Missiles, Airstrikes"
-audio: houthis-remain-undeterred-after-us-coalition-pummels-over-60-targets-tomahawk-missiles-0
+audio: houthis-remain-undeterred-after-us-coalition-pummels-over-60-targets-tomahawk-missiles-1
 category: geopolitical
 desc: "Houthis vow &quot;imminent&quot; response, saying coalition will &quot;pay a heavy price&quot;..."
-duration: 00:05:53
-length: 353
-datetime: Fri, 12 Jan 2024 13:50:00 +0000
+duration: 00:06:15
+length: 375
+datetime: Sat, 13 Jan 2024 00:35:00 +0000
 tags: podcast
 guid: houthis-remain-undeterred-after-us-coalition-pummels-over-60-targets-tomahawk-missiles-0
-order: 1
+order: 0
 ---
 Houthis vow &quot;imminent&quot; response, saying coalition will &quot;pay a heavy price&quot;...
 
