@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Journalist Gonzalo Lira Reported Dead In Ukrainian Custody According To Father"
-audio: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-0
+title: "Journalist Gonzalo Lira Reported Dead In Ukrainian Custody "
+audio: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-1
 category: political
 desc: "I have had double pneumonia (both lungs) as well as pneumothorax and a very severe case of edema (swelling of the body)."
 duration: 00:03:07
 length: 187
-datetime: Fri, 12 Jan 2024 22:20:00 +0000
+datetime: Sat, 13 Jan 2024 12:20:00 +0000
 tags: podcast
 guid: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-0
-order: 2
+order: 0
 ---
 I have had double pneumonia (both lungs) as well as pneumothorax and a very severe case of edema (swelling of the body).
 
