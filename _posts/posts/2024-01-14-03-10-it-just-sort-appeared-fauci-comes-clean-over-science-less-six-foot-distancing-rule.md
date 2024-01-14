@@ -9,7 +9,7 @@ length: 414
 datetime: Sun, 14 Jan 2024 03:10:00 +0000
 tags: podcast
 guid: it-just-sort-appeared-fauci-comes-clean-over-science-less-six-foot-distancing-rule-0
-order: 0
+order: 1
 ---
 &quot;...like it was pulled out of thin air.&quot;
 
