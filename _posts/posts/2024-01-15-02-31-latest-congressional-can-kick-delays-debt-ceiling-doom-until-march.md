@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Latest Congressional Can-Kick Delays Debt Ceiling Doom Until March"
-audio: latest-congressional-can-kick-delays-debt-ceiling-doom-until-march-0
+title: "JJim Jordan Says Democrat Border Proposal DOA"
+audio: latest-congressional-can-kick-delays-debt-ceiling-doom-until-march-1
 category: political
-desc: "Six weeks, oh boy!"
-duration: 00:01:33
-length: 93
-datetime: Sun, 14 Jan 2024 16:05:00 +0000
+desc: "&quot;Based on what's leaked out thus far, there's no way I'm going to go for that...&quot;"
+duration: 00:02:39
+length: 159
+datetime: Mon, 15 Jan 2024 02:31:00 +0000
 tags: podcast
 guid: latest-congressional-can-kick-delays-debt-ceiling-doom-until-march-0
 order: 0
 ---
-Six weeks, oh boy!
+&quot;Based on what's leaked out thus far, there's no way I'm going to go for that...&quot;
 
 Link: [https://www.zerohedge.com/political/latest-congressional-can-kick-delays-debt-ceiling-doom-until-march](https://www.zerohedge.com/political/latest-congressional-can-kick-delays-debt-ceiling-doom-until-march)
 

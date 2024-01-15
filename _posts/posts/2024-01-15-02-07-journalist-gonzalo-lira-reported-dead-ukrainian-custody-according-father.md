@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Journalist Gonzalo Lira Reported Dead In Ukrainian Custody "
-audio: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-1
+title: "Gonzalo Lira, Who Claimed Ukraine Tortured Him, Confirmed Dead By State Department"
+audio: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-2
 category: political
 desc: "I have had double pneumonia (both lungs) as well as pneumothorax and a very severe case of edema (swelling of the body)."
-duration: 00:03:07
-length: 187
-datetime: Sat, 13 Jan 2024 12:20:00 +0000
+duration: 00:04:28
+length: 268
+datetime: Mon, 15 Jan 2024 02:07:00 +0000
 tags: podcast
 guid: journalist-gonzalo-lira-reported-dead-ukrainian-custody-according-father-0
 order: 0
