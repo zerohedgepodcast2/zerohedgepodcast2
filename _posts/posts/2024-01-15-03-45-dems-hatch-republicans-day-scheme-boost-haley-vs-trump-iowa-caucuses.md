@@ -9,7 +9,7 @@ length: 120
 datetime: Mon, 15 Jan 2024 03:45:00 +0000
 tags: podcast
 guid: dems-hatch-republicans-day-scheme-boost-haley-vs-trump-iowa-caucuses-0
-order: 0
+order: 2
 ---
 &quot;I'll hold my nose and caucus for Haley...&quot;
 

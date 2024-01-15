@@ -9,7 +9,7 @@ length: 145
 datetime: Sun, 14 Jan 2024 23:40:00 +0000
 tags: podcast
 guid: faas-new-dei-hiring-quota-troubling-0
-order: 0
+order: 1
 ---
 &quot;I'm a fully paralyzed blind dwarf with schizophrenia and 80 iq.&quot; 
 
