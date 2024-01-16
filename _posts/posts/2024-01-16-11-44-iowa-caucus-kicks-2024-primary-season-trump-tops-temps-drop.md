@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Trump Wins Iowa Caucus With Decisive Victories Over DeSantis, Haley"
-audio: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-1
+title: "Trump Gives Speech After Winning Iowa Caucus; Ramaswamy To End Campaign"
+audio: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-2
 category: political
 desc: "No contest..."
-duration: 00:02:41
-length: 161
-datetime: Tue, 16 Jan 2024 01:48:00 +0000
+duration: 00:03:14
+length: 194
+datetime: Tue, 16 Jan 2024 11:44:00 +0000
 tags: podcast
 guid: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-0
-order: 2
+order: 0
 ---
 No contest...
 
