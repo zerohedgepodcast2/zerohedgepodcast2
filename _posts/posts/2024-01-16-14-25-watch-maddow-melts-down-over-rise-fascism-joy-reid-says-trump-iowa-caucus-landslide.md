@@ -9,7 +9,7 @@ length: 223
 datetime: Tue, 16 Jan 2024 14:25:00 +0000
 tags: podcast
 guid: watch-maddow-melts-down-over-rise-fascism-joy-reid-says-trump-iowa-caucus-landslide-0
-order: 2
+order: 1
 ---
 &quot;What they're saying is, 'We own this country, and everyone will bow down to us'...&quot;
 

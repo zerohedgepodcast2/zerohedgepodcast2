@@ -9,7 +9,7 @@ length: 167
 datetime: Tue, 16 Jan 2024 09:15:00 +0000
 tags: podcast
 guid: dark-davos-escort-services-completely-booked-wef-begins-0
-order: 1
+order: 0
 ---
 &quot;But anyone who wants to book an escort via matching platform &quot;Titt4Tat&quot; in the Davos region, or even in eastern Switzerland, will be disappointed.&quot; 
 
