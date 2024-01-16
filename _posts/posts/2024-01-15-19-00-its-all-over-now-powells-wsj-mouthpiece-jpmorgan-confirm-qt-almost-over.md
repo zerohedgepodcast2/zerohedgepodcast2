@@ -9,7 +9,7 @@ length: 515
 datetime: Mon, 15 Jan 2024 19:00:00 +0000
 tags: podcast
 guid: its-all-over-now-powells-wsj-mouthpiece-jpmorgan-confirm-qt-almost-over-0
-order: 2
+order: 1
 ---
 The time to prime the Fed printer has come again.
 

@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Iowa Caucus Kicks Off 2024 Primary Season: Trump Tops As Temps Drop"
-audio: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-0
+title: "Trump Wins Iowa Caucus With Decisive Victories Over DeSantis, Haley"
+audio: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-1
 category: political
-desc: "Voters eager to participate in the caucus are expected to face temperatures of -2 degrees (35 degrees below zero with wind chill factor)..."
-duration: 00:02:16
-length: 136
-datetime: Mon, 15 Jan 2024 21:00:00 +0000
+desc: "No contest..."
+duration: 00:02:41
+length: 161
+datetime: Tue, 16 Jan 2024 01:48:00 +0000
 tags: podcast
 guid: iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop-0
-order: 0
+order: 2
 ---
-Voters eager to participate in the caucus are expected to face temperatures of -2 degrees (35 degrees below zero with wind chill factor)...
+No contest...
 
 Link: [https://www.zerohedge.com/political/iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop](https://www.zerohedge.com/political/iowa-caucus-kicks-2024-primary-season-trump-tops-temps-drop)
 
