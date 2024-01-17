@@ -9,7 +9,7 @@ length: 125
 datetime: Wed, 17 Jan 2024 17:05:00 +0000
 tags: podcast
 guid: watch-most-ridiculous-75-seconds-bullshit-davos-yet-ecocide-0
-order: 0
+order: 2
 ---
 &quot;We have this cultural, very ingrained habit of not taking damage to nature as seriously as we take damage to people or property...&quot;
 

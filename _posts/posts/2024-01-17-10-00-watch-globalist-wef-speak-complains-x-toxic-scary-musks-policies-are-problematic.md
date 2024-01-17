@@ -9,7 +9,7 @@ length: 109
 datetime: Wed, 17 Jan 2024 10:00:00 +0000
 tags: podcast
 guid: watch-globalist-wef-speak-complains-x-toxic-scary-musks-policies-are-problematic-0
-order: 2
+order: 0
 ---
 &quot;I have given up on X. What a scary name that even is...&quot;
 
