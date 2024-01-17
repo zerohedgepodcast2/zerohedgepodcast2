@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: Maddow Melts Down Over &quot;Rise Of Fascism&quot;; Joy Reid Says Trump Iowa Caucus Landslide Proves White Christians Are Racists"
-audio: watch-maddow-melts-down-over-rise-fascism-joy-reid-says-trump-iowa-caucus-landslide-0
+audio: watch-maddow-melts-down-over-rise-fascism-joy-reid-says-trump-iowa-caucus-landslide-1
 category: political
 desc: "&quot;What they're saying is, 'We own this country, and everyone will bow down to us'...&quot;"
-duration: 00:03:43
-length: 223
-datetime: Tue, 16 Jan 2024 14:25:00 +0000
+duration: 00:04:16
+length: 256
+datetime: Wed, 17 Jan 2024 10:48:00 +0000
 tags: podcast
 guid: watch-maddow-melts-down-over-rise-fascism-joy-reid-says-trump-iowa-caucus-landslide-0
-order: 1
+order: 0
 ---
 &quot;What they're saying is, 'We own this country, and everyone will bow down to us'...&quot;
 
