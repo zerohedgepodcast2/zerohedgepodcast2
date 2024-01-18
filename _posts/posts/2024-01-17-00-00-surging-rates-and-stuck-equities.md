@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Low volatility beating high beta YTD..."
-audio: surging-rates-and-stuck-equities-8
+audio: surging-rates-and-stuck-equities-9
 category: the-market-ear
 desc: 
 duration: 00:01:58
