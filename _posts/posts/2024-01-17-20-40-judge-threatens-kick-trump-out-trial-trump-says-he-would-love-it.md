@@ -9,7 +9,7 @@ length: 190
 datetime: Wed, 17 Jan 2024 20:40:00 +0000
 tags: podcast
 guid: judge-threatens-kick-trump-out-trial-trump-says-he-would-love-it-0
-order: 0
+order: 1
 ---
 &quot;You just can't control yourself...&quot;
 

@@ -9,7 +9,7 @@ length: 294
 datetime: Wed, 17 Jan 2024 04:20:00 +0000
 tags: podcast
 guid: increasing-psychopathic-behavior-sign-society-verge-breaking-down-0
-order: 1
+order: 0
 ---
 When psychopaths feel protected, total upheaval quickly follows...
 

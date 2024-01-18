@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Houthis Strike Red Sea Ship With Drone On Day US Terror Designation Takes Effect"
-audio: houthis-strike-red-sea-ship-drone-day-us-terror-designation-takes-effect-0
+title: "US Coalition In Another Wave Of Strikes On Houthi Positions To Thwart Red Sea Launches"
+audio: houthis-strike-red-sea-ship-drone-day-us-terror-designation-takes-effect-1
 category: geopolitical
-desc: "vessels worldwide now broadcasting AIS messages stating that they have nothing to do with Israel..."
-duration: 00:02:37
-length: 157
-datetime: Wed, 17 Jan 2024 22:45:00 +0000
+desc: "conducted strikes on 14 Iran-backed Houthi missiles that were loaded to be fired..."
+duration: 00:04:03
+length: 243
+datetime: Thu, 18 Jan 2024 02:43:00 +0000
 tags: podcast
 guid: houthis-strike-red-sea-ship-drone-day-us-terror-designation-takes-effect-0
 order: 0
 ---
-vessels worldwide now broadcasting AIS messages stating that they have nothing to do with Israel...
+conducted strikes on 14 Iran-backed Houthi missiles that were loaded to be fired...
 
 Link: [https://www.zerohedge.com/geopolitical/houthis-strike-red-sea-ship-drone-day-us-terror-designation-takes-effect](https://www.zerohedge.com/geopolitical/houthis-strike-red-sea-ship-drone-day-us-terror-designation-takes-effect)
 

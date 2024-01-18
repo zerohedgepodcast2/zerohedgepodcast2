@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Watch: The Most Ridiculous 75 Seconds Of Bullshit From Davos Yet On &quot;Ecocide&quot;"
-audio: watch-most-ridiculous-75-seconds-bullshit-davos-yet-ecocide-0
+audio: watch-most-ridiculous-75-seconds-bullshit-davos-yet-ecocide-1
 category: geopolitical
 desc: "&quot;We have this cultural, very ingrained habit of not taking damage to nature as seriously as we take damage to people or property...&quot;"
 duration: 00:02:05
 length: 125
-datetime: Wed, 17 Jan 2024 17:05:00 +0000
+datetime: Thu, 18 Jan 2024 02:05:00 +0000
 tags: podcast
 guid: watch-most-ridiculous-75-seconds-bullshit-davos-yet-ecocide-0
-order: 2
+order: 0
 ---
 &quot;We have this cultural, very ingrained habit of not taking damage to nature as seriously as we take damage to people or property...&quot;
 
