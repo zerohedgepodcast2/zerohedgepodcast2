@@ -9,7 +9,7 @@ length: 306
 datetime: Thu, 18 Jan 2024 15:40:00 +0000
 tags: podcast
 guid: were-middle-war-vivek-shoulder-shoulder-trump-battle-deep-state-0
-order: 0
+order: 2
 ---
 &quot;You gotta know you're in a war to win one...&quot;
 
