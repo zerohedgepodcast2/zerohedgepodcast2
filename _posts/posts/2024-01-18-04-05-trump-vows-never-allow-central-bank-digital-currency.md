@@ -9,7 +9,7 @@ length: 427
 datetime: Thu, 18 Jan 2024 04:05:00 +0000
 tags: podcast
 guid: trump-vows-never-allow-central-bank-digital-currency-0
-order: 0
+order: 2
 ---
 &quot;This would be a dangerous threat to freedom...&quot;
 
