@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Jim Jordan Demands Answers After Biden Admin Caught Flagging &quot;MAGA&quot; And &quot;Trump&quot; To Track Political Opponents' Financial Transactions"
-audio: jim-jordan-demands-answers-after-biden-admin-caught-flagging-maga-and-trump-track-0
+audio: jim-jordan-demands-answers-after-biden-admin-caught-flagging-maga-and-trump-track-1
 category: political
 desc: "Who's the dictator?"
 duration: 00:02:46
 length: 166
-datetime: Thu, 18 Jan 2024 00:05:00 +0000
+datetime: Thu, 18 Jan 2024 13:45:00 +0000
 tags: podcast
 guid: jim-jordan-demands-answers-after-biden-admin-caught-flagging-maga-and-trump-track-0
-order: 1
+order: 0
 ---
 Who's the dictator?
 

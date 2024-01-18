@@ -9,7 +9,7 @@ length: 274
 datetime: Thu, 18 Jan 2024 14:15:00 +0000
 tags: podcast
 guid: journalist-uncovers-shadowy-network-ngos-facilitating-us-border-invasion-0
-order: 2
+order: 1
 ---
 &quot;RedCross is working right alongside Alitas putting illegal immigrants...&quot; 
 
