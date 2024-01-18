@@ -9,7 +9,7 @@ length: 166
 datetime: Thu, 18 Jan 2024 00:05:00 +0000
 tags: podcast
 guid: jim-jordan-demands-answers-after-biden-admin-caught-flagging-maga-and-trump-track-0
-order: 2
+order: 1
 ---
 Who's the dictator?
 
