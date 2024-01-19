@@ -9,7 +9,7 @@ length: 98
 datetime: Fri, 19 Jan 2024 01:40:00 +0000
 tags: podcast
 guid: doomsday-bunker-blast-doors-emp-shielding-listed-zillow-0
-order: 2
+order: 1
 ---
 &quot;In an era where even technology titans are grabbing headlines for their investments in personal safety...this property emerges as a true testament to visionary planning.&quot; 
 
