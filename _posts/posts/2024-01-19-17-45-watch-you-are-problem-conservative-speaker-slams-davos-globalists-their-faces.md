@@ -9,7 +9,7 @@ length: 169
 datetime: Fri, 19 Jan 2024 17:45:00 +0000
 tags: podcast
 guid: watch-you-are-problem-conservative-speaker-slams-davos-globalists-their-faces-0
-order: 2
+order: 1
 ---
 &quot;It's laughable that you or anyone would describe Davos as protecting liberal democracy.&quot;
 

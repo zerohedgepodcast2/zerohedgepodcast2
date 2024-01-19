@@ -9,7 +9,7 @@ length: 213
 datetime: Fri, 19 Jan 2024 08:30:00 +0000
 tags: podcast
 guid: it-feels-something-has-gone-terribly-wrong-5-swedish-cops-forced-pay-fine-convicted-0
-order: 1
+order: 0
 ---
 The new Europe: Swedish officers who were injured defending people against rioting migrants are forced to pay damages to their convicted assailant...
 
