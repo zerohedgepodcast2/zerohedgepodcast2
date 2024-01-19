@@ -9,7 +9,7 @@ length: 197
 datetime: Thu, 18 Jan 2024 19:00:00 +0000
 tags: podcast
 guid: fani-under-pressure-judge-trump-georgia-case-orders-da-explain-misconduct-allegations-0
-order: 2
+order: 1
 ---
 Shocker!
 
