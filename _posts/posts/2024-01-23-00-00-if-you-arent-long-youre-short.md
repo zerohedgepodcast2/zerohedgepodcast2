@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nasdaq futures positioning is at near three-year highs....with average position profits nearing 5%, these stretched positions are ripe for potential profit-taking"
-audio: if-you-arent-long-youre-short-0
+audio: if-you-arent-long-youre-short-1
 category: the-market-ear
 desc: 
 duration: 00:02:29
