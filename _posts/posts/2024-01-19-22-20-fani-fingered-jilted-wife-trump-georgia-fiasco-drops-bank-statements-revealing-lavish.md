@@ -9,7 +9,7 @@ length: 131
 datetime: Fri, 19 Jan 2024 22:20:00 +0000
 tags: podcast
 guid: fani-fingered-jilted-wife-trump-georgia-fiasco-drops-bank-statements-revealing-lavish-0
-order: 2
+order: 0
 ---
 Hell hath no fury...
 
