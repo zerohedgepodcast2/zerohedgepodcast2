@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Kari Lake Demands Resignation Of &quot;Corrupt&quot; GOP Chair Caught Trying To Bribe Her"
-audio: kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her-0
+title: "Arizona GOP Chair Resigns After Kari Lake Threatens &quot;More Damaging&quot; Recording"
+audio: kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her-1
 category: political
-desc: "&quot;There are very powerful people who want to keep you out...&quot;"
-duration: 00:02:16
-length: 136
-datetime: Wed, 24 Jan 2024 15:30:00 +0000
+desc: "&quot;I am resigning as Lake requested...&quot;"
+duration: 00:03:04
+length: 184
+datetime: Wed, 24 Jan 2024 19:47:00 +0000
 tags: podcast
 guid: kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her-0
-order: 0
+order: 2
 ---
-&quot;There are very powerful people who want to keep you out...&quot;
+&quot;I am resigning as Lake requested...&quot;
 
 Link: [https://www.zerohedge.com/political/kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her](https://www.zerohedge.com/political/kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her)
 

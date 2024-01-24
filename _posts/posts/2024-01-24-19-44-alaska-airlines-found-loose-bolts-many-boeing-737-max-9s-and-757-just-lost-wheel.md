@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "&quot;Rambling, Shambling Disaster Waiting To Happen&quot; - Boeing, Not Spirit, Mis-Installed Door Plug That Blew Out; Insider Whistleblower Says"
-audio: alaska-airlines-found-loose-bolts-many-boeing-737-max-9s-and-757-just-lost-wheel-0
+audio: alaska-airlines-found-loose-bolts-many-boeing-737-max-9s-and-757-just-lost-wheel-1
 category: technology
 desc: "&quot;...very, very stupid and speaks volumes about the quality culture at certain portions of the business.&quot;"
 duration: 00:03:03
 length: 183
-datetime: Wed, 24 Jan 2024 14:15:00 +0000
+datetime: Wed, 24 Jan 2024 19:44:00 +0000
 tags: podcast
 guid: alaska-airlines-found-loose-bolts-many-boeing-737-max-9s-and-757-just-lost-wheel-0
-order: 1
+order: 0
 ---
 &quot;...very, very stupid and speaks volumes about the quality culture at certain portions of the business.&quot;
 

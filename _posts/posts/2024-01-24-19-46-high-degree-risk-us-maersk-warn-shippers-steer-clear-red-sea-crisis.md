@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Houthis Launch Fresh Attack On US Maersk Vessel, Ignoring Navy Escort"
-audio: high-degree-risk-us-maersk-warn-shippers-steer-clear-red-sea-crisis-0
+title: "US Warship Intercepted Houthi Missiles Launched At US-Flagged Ship"
+audio: high-degree-risk-us-maersk-warn-shippers-steer-clear-red-sea-crisis-1
 category: geopolitical
-desc: "Grouping of vessels forced to turn around... even with military presence."
-duration: 00:04:17
-length: 257
-datetime: Wed, 24 Jan 2024 16:30:00 +0000
+desc: "Navy escort included no less than three US warships... &amp; the Houthis still attacked. "
+duration: 00:05:24
+length: 324
+datetime: Wed, 24 Jan 2024 19:46:00 +0000
 tags: podcast
 guid: high-degree-risk-us-maersk-warn-shippers-steer-clear-red-sea-crisis-0
 order: 0
 ---
-Grouping of vessels forced to turn around... even with military presence.
+Navy escort included no less than three US warships... &amp; the Houthis still attacked. 
 
 Link: [https://www.zerohedge.com/geopolitical/high-degree-risk-us-maersk-warn-shippers-steer-clear-red-sea-crisis](https://www.zerohedge.com/geopolitical/high-degree-risk-us-maersk-warn-shippers-steer-clear-red-sea-crisis)
 
