@@ -9,7 +9,7 @@ length: 184
 datetime: Wed, 24 Jan 2024 19:47:00 +0000
 tags: podcast
 guid: kari-lake-demands-resignation-corrupt-gop-chair-caught-trying-bribe-her-0
-order: 2
+order: 1
 ---
 &quot;I am resigning as Lake requested...&quot;
 

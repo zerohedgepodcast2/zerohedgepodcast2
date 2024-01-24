@@ -9,7 +9,7 @@ length: 175
 datetime: Wed, 24 Jan 2024 15:20:00 +0000
 tags: podcast
 guid: your-short-has-been-rejected-massive-stock-lending-firm-processing-over-2tn-transactions-0
-order: 1
+order: 0
 ---
 &quot;We are working with external cybersecurity firms and other professional advisers to assist with our investigation and restoration of service. Clients have been advised that this may take several days.&quot;
 
