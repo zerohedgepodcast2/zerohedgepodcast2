@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Russian MoD Detected Two Ukrainian Missiles Before Transport Plane Carrying Ukrainian Prisoners Crashed"
-audio: russian-plane-65-prisoners-crashes-near-belgorod-0
+title: "Ukraine Indirectly Admits It Shot Down Large Russian Transport Plane, Possibly With Own POWs On Board"
+audio: russian-plane-65-prisoners-crashes-near-belgorod-1
 category: military
-desc: "&quot;An Il-76 plane crashed in the Belgorod region at around 11 a.m...&quot; "
-duration: 00:01:54
-length: 114
-datetime: Wed, 24 Jan 2024 12:45:00 +0000
+desc: "Kremlin: &quot;By committing this terrorist act, the Ukrainian leadership showed its true face, disregarding the lives of its citizens.&quot;"
+duration: 00:04:15
+length: 255
+datetime: Wed, 24 Jan 2024 17:10:00 +0000
 tags: podcast
 guid: russian-plane-65-prisoners-crashes-near-belgorod-0
 order: 0
 ---
-&quot;An Il-76 plane crashed in the Belgorod region at around 11 a.m...&quot; 
+Kremlin: &quot;By committing this terrorist act, the Ukrainian leadership showed its true face, disregarding the lives of its citizens.&quot;
 
 Link: [https://www.zerohedge.com/military/russian-plane-65-prisoners-crashes-near-belgorod](https://www.zerohedge.com/military/russian-plane-65-prisoners-crashes-near-belgorod)
 
