@@ -9,7 +9,7 @@ length: 106
 datetime: Wed, 24 Jan 2024 20:45:00 +0000
 tags: podcast
 guid: reid-hoffman-pulls-out-nikki-haley-after-new-hampshire-pounding-0
-order: 2
+order: 0
 ---
 Haley crushed...
 
