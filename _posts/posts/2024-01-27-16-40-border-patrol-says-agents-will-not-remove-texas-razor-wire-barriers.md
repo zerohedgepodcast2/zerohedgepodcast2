@@ -9,7 +9,7 @@ length: 221
 datetime: Sat, 27 Jan 2024 16:40:00 +0000
 tags: podcast
 guid: border-patrol-says-agents-will-not-remove-texas-razor-wire-barriers-0
-order: 0
+order: 2
 ---
 Union says agents will not interfere with &quot;lawful&quot; operations to protect the border...
 

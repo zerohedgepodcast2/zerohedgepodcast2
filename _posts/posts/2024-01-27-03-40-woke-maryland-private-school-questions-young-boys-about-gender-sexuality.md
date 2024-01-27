@@ -9,7 +9,7 @@ length: 168
 datetime: Sat, 27 Jan 2024 03:40:00 +0000
 tags: podcast
 guid: woke-maryland-private-school-questions-young-boys-about-gender-sexuality-0
-order: 0
+order: 1
 ---
 &quot;Once again, we see the liberal education establishment attempting to indoctrinate children rather than educate them.&quot; 
 
