@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Delaware Court Judge Voids Elon Musk's $55BN Compensation Package"
-audio: delaware-judge-voids-elon-musks-511-billion-compensation-plan-0
+audio: delaware-judge-voids-elon-musks-511-billion-compensation-plan-1
 category: markets
 desc: "&quot;Never incorporate your company in the state of Delaware,&quot; Musk fired back on Twitter. "
 duration: 00:02:28
 length: 148
-datetime: Wed, 31 Jan 2024 01:05:00 +0000
+datetime: Wed, 31 Jan 2024 13:05:00 +0000
 tags: podcast
 guid: delaware-judge-voids-elon-musks-511-billion-compensation-plan-0
-order: 0
+order: 1
 ---
 &quot;Never incorporate your company in the state of Delaware,&quot; Musk fired back on Twitter. 
 

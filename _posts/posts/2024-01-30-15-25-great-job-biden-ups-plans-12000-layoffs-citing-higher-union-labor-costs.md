@@ -9,7 +9,7 @@ length: 133
 datetime: Tue, 30 Jan 2024 15:25:00 +0000
 tags: podcast
 guid: great-job-biden-ups-plans-12000-layoffs-citing-higher-union-labor-costs-0
-order: 1
+order: 0
 ---
 Bidenomics in action. 
 
